@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "museums": [
     {
       "id": "002",
@@ -79,6 +79,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Man–lør 10–17 (maj–midt okt)",
+      "openingHoursEn": "Mon–Sat 10–17 (May–mid Oct)",
       "description": "Bornholms Automobilmuseum in Aakirkeby celebrates the island's motoring heritage with a collection of vintage cars, motorcycles, and related memorabilia. The museum reflects Bornholm's connection to the wider history of personal transport. A charming specialist museum on Denmark's sunshine island."
     },
     {
@@ -143,6 +144,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17, onsdag 10–20",
+      "openingHoursEn": "Tuesday–Sunday 10–17, Wednesday 10–20",
       "description": "CLAY – Museum for Keramisk Kunst in Middelfart is a beautifully designed museum dedicated to ceramic art from Denmark and around the world. The collection spans historic studio pottery to cutting-edge contemporary ceramics. A specialist museum that celebrates one of the world's oldest art forms."
     },
     {
@@ -207,6 +209,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–16",
+      "openingHoursEn": "Tuesday–Sunday 10–16",
       "description": "Danmarks Jernbanemuseum in Odense is the national railway museum of Denmark. The vast collection of locomotives, carriages, and railway artefacts traces the history of Danish rail travel from the 19th century to the present. A must-visit for railway enthusiasts and families alike."
     },
     {
@@ -255,6 +258,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17, onsdag 10–21",
+      "openingHoursEn": "Tuesday–Sunday 10–17, Wednesday 10–21",
       "description": "Davids Samling in Copenhagen holds one of the world's finest collections of Islamic art, alongside European decorative arts. Founded by lawyer and collector C.L. David, the museum occupies a beautiful historic building in central Copenhagen. A remarkable and underrated collection of international importance."
     },
     {
@@ -351,6 +355,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Søndag 11–15 (maj–september)",
+      "openingHoursEn": "Sunday 11–15 (May–September)",
       "description": "Djurslands Jernbanemuseum in Ryomgård celebrates the history of the narrow-gauge railways that once served the Djursland peninsula. Visitors can ride on restored vintage trains through the countryside on selected days. A charming and nostalgic railway heritage experience."
     },
     {
@@ -415,6 +420,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Mandag–fredag 9:30–17, lørdag–søndag 10–17",
+      "openingHoursEn": "Monday–Friday 9:30–17, Saturday–Sunday 10–17",
       "description": "Experimentarium in Hellerup is Denmark's leading science centre, offering hundreds of interactive experiments and exhibits exploring science, technology, and the human body. Housed in a spectacular new building, it is one of the most visited attractions in the Copenhagen area. A wonderful destination for families and curious minds."
     },
     {
@@ -527,6 +533,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–fredag 13–17, lørdag 11–16",
+      "openingHoursEn": "Tuesday–Friday 13–17, Saturday 11–16",
       "description": "Galleri Image in Aarhus is a dedicated gallery for contemporary photography and media art. The programme is international in scope and reflects the expanding possibilities of the photographic medium. A specialist gallery with a strong reputation in the Nordic art world."
     },
     {
@@ -575,6 +582,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (sommer), tirsdag–søndag 10–16 (vinter)",
+      "openingHoursEn": "Daily 10–17 (summer), Tuesday–Sunday 10–16 (winter)",
       "description": "Glas – Museet for Glaskunst in Ebeltoft is dedicated to the art of glass, with a collection of studio glass art from Denmark and around the world. The museum celebrates the technical and creative possibilities of this ancient medium. A beautiful and distinctive specialist museum."
     },
     {
@@ -639,6 +647,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Ons 10–20, tors–søn 10–16",
+      "openingHoursEn": "Wed 10–20, Thu–Sun 10–16",
       "description": "Haaning Collection near Bagsværd is a private transport museum with a focus on vintage motorcycles and automobiles. The personally curated collection reflects a deep passion for the mechanics and design of early transportation. A specialist museum for dedicated enthusiasts."
     },
     {
@@ -671,6 +680,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 11–16",
+      "openingHoursEn": "Tuesday–Sunday 11–16",
       "description": "Heerup Museum in Rødovre is dedicated to the work of Henry Heerup, one of Denmark's most beloved and distinctive artists. His playful and humane works – paintings, sculptures, and graphic art – celebrate everyday life with warmth and wit. A joyful museum experience."
     },
     {
@@ -719,6 +729,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 11–17",
+      "openingHoursEn": "Tuesday–Sunday 11–17",
       "description": "Horsens Kunstmuseum holds a collection of Danish and international modern and contemporary art. The museum is housed in a fine historic building and runs a dynamic programme of temporary exhibitions alongside its permanent collection. A significant art museum in central Jutland."
     },
     {
@@ -767,6 +778,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17:30",
+      "openingHoursEn": "Daily 10–17:30",
       "description": "Kronborg Castle in Helsingør is one of the most important Renaissance castles in northern Europe and a UNESCO World Heritage Site. Known worldwide as the setting of Shakespeare's Hamlet, it has guarded the sound between Denmark and Sweden for centuries. A magnificent and historically resonant landmark."
     },
     {
@@ -799,6 +811,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 11–17",
+      "openingHoursEn": "Tuesday–Sunday 11–17",
       "description": "KunstCentret Silkeborg Bad is a contemporary art centre housed in a historic spa building in Silkeborg. The programme of exhibitions and events engages with both Danish and international art in an unusual and atmospheric setting. A distinctive cultural destination in Denmark's lake district."
     },
     {
@@ -829,6 +842,7 @@
       "website": "https://www.glstrand.dk",
       "price": "90 kr",
       "freeDay": "Onsdag",
+      "freeDayEn": "Wednesday",
       "freeDayWeekday": 4,
       "openingHours": null,
       "description": "Kunstforeningen GL STRAND in central Copenhagen is one of Denmark's oldest and most respected art associations. Housed in a historic building on Gammel Strand, it presents major exhibitions of Danish and international art. An important venue for serious art lovers in the heart of the capital."
@@ -847,6 +861,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Torsdag–søndag 11–17",
+      "openingHoursEn": "Thursday–Sunday 11–17",
       "description": "Kunsthal 44 Møen on the island of Møn presents contemporary art in a beautiful rural setting. The gallery's programme is eclectic and internationally connected, while being deeply rooted in the island's unique landscape and community. A surprising and rewarding art destination."
     },
     {
@@ -861,8 +876,10 @@
       "website": "https://kunsthalaarhus.dk",
       "price": "100 kr",
       "freeDay": "Gratis onsdage 17–21",
+      "freeDayEn": "Free Wednesdays 17–21",
       "freeDayWeekday": 4,
       "openingHours": "Tirsdag–fredag 11–17, onsdag 11–21, lørdag–søndag 11–17",
+      "openingHoursEn": "Tuesday–Friday 11–17, Wednesday 11–21, Saturday–Sunday 11–17",
       "description": "Kunsthal Aarhus is a major contemporary art institution presenting international and Danish art in a purpose-built venue. The ambitious exhibition programme and strong educational work make it a central institution in Aarhus's vibrant cultural life. A significant platform for contemporary art in Denmark's second city."
     },
     {
@@ -877,6 +894,7 @@
       "website": "https://www.charlottenborg.dk",
       "price": "130 kr",
       "freeDay": "Onsdag efter kl. 17",
+      "freeDayEn": "Wednesday after 17:00",
       "freeDayWeekday": 4,
       "openingHours": null,
       "description": "Kunsthal Charlottenborg in Copenhagen is one of Scandinavia's most prestigious contemporary art venues, housed in a magnificent baroque palace. The programme focuses on ambitious exhibitions of international and Danish contemporary art. A landmark institution at the heart of the Copenhagen art scene."
@@ -1071,6 +1089,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–fredag 10–16, lørdag–søndag 12–16",
+      "openingHoursEn": "Tuesday–Friday 10–16, Saturday–Sunday 12–16",
       "description": "Medicinsk Museion explores the history of medicine in Denmark, housed in the former Surgeons' Academy in central Copenhagen. The vast collection of medical instruments, anatomical models, and pharmaceutical objects is both fascinating and thought-provoking. One of Europe's most remarkable medical history museums."
     },
     {
@@ -1119,6 +1138,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Onsdag–søndag 11–16",
+      "openingHoursEn": "Wednesday–Sunday 11–16",
       "description": "Munkeruphus near Dronningmølle is an intimate art venue set in a beautiful villa overlooking the sea north of Copenhagen. The programme focuses on contemporary Danish and Nordic art in an atmosphere of calm and contemplation. A peaceful and inspiring artistic retreat."
     },
     {
@@ -1343,6 +1363,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (april–oktober)",
+      "openingHoursEn": "Daily 10–17 (April–October)",
       "description": "Museumscenter Hanstholm explores the dramatic history of the enormous German fortifications built at Hanstholm during World War II. The preserved bunkers and gun emplacements make up one of Europe's largest military heritage complexes. A powerful and sobering reminder of the wartime occupation."
     },
     {
@@ -1359,6 +1380,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (april–oktober)",
+      "openingHoursEn": "Daily 10–17 (April–October)",
       "description": "Mønsted Kalkgruber near Mønsted are one of Europe's largest limestone mine systems, with over 60 kilometres of tunnels carved out over centuries. Guided tours lead visitors through the cool underground labyrinth, home to thousands of hibernating bats. A unique and atmospheric underground adventure."
     },
     {
@@ -1485,6 +1507,7 @@
       "website": "https://www.glyptoteket.dk",
       "price": "130 kr",
       "freeDay": "Sidste onsdag i måneden",
+      "freeDayEn": "Last Wednesday of the month",
       "freeDayWeekday": 4,
       "openingHours": null,
       "description": "Ny Carlsberg Glyptotek in Copenhagen houses one of northern Europe's greatest collections of ancient art, alongside an important French impressionist collection. Founded by Carl Jacobsen of the Carlsberg brewery, the museum is a magnificent building with a famous winter garden. An unmissable cultural experience in the Danish capital."
@@ -1503,6 +1526,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirs–fre 12–16:30, Lør–søn 10–16:30 (maj–okt)",
+      "openingHoursEn": "Tue–Fri 12–16:30, Sat–Sun 10–16:30 (May–Oct)",
       "description": "Næstved Automobilmuseum presents a collection of vintage cars and motorcycles spanning the history of personal transport. The museum offers a nostalgic journey through the golden age of motoring. A rewarding destination for lovers of classic vehicles."
     },
     {
@@ -1613,8 +1637,10 @@
       "website": "https://www.smk.dk",
       "price": "145 kr",
       "freeDay": "Gratis onsdage",
+      "freeDayEn": "Free Wednesdays",
       "freeDayWeekday": 4,
       "openingHours": "Tirsdag–søndag 10–18, onsdag 10–20",
+      "openingHoursEn": "Tuesday–Sunday 10–18, Wednesday 10–20",
       "description": "SMK – the National Gallery of Denmark in Copenhagen holds the country's greatest art collection, spanning 700 years of European and Danish art. From Rubens and Rembrandt to Matisse and the Danish Golden Age, the collection is extraordinarily rich. A world-class museum at the heart of Danish cultural life."
     },
     {
@@ -1663,6 +1689,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Lørdag–søndag 12–16",
+      "openingHoursEn": "Saturday–Sunday 12–16",
       "description": "Sommer's Automobile Museum near Nærum houses a private collection of carefully restored vintage and classic cars. The museum traces the development of the automobile through well-preserved examples from across the decades. An intimate and passionate celebration of automotive history."
     },
     {
@@ -1757,6 +1784,7 @@
       "website": "https://www.thorvaldsensmuseum.dk",
       "price": "95 kr",
       "freeDay": "Onsdag",
+      "freeDayEn": "Wednesday",
       "freeDayWeekday": 4,
       "openingHours": null,
       "description": "Thorvaldsens Museum in Copenhagen is dedicated to Bertel Thorvaldsen, Denmark's greatest sculptor and one of the leading figures of European Neoclassicism. The museum houses his own extensive collection of ancient art alongside his sculptures and personal belongings. A unique and serene museum experience in the heart of the city."
@@ -1791,6 +1819,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Sæsonåbent april–oktober (se hjemmeside)",
+      "openingHoursEn": "Seasonal opening April–October (see website)",
       "description": "Universe Science Park in Nordborg is a science and technology theme park with interactive exhibits exploring space, energy, and the human body. The park combines education and entertainment in an accessible outdoor and indoor setting. A lively and engaging destination for families."
     },
     {
@@ -1807,6 +1836,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Ons, tors, søn 10–16",
+      "openingHoursEn": "Wed, Thu, Sun 10–16",
       "description": "VW & Retro Museum in Ulfborg is dedicated to Volkswagen vehicles and the broader culture of retro motoring. The enthusiast-run collection spans decades of VW history and related popular culture. A fun and nostalgic destination for fans of the Beetle and beyond."
     },
     {
@@ -1823,6 +1853,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17 (april–oktober)",
+      "openingHoursEn": "Tuesday–Sunday 10–17 (April–October)",
       "description": "Valdemars Slot on the island of Tåsinge is one of Denmark's best-preserved Baroque manor houses, built for King Christian IV's son. The castle houses a museum of hunting trophies, maritime history, and royal memorabilia. A magnificent historic building in a beautiful coastal setting."
     },
     {
@@ -1903,6 +1934,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–fredag 12–17, lørdag–søndag 11–15",
+      "openingHoursEn": "Tuesday–Friday 12–17, Saturday–Sunday 11–15",
       "description": "Viborg Kunsthal presents contemporary art with a particular focus on the relationship between art and its social context. The programme includes international and Danish artists and engages actively with the local community. A culturally ambitious institution in central Jutland."
     },
     {
@@ -2031,6 +2063,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (sommer), tirsdag–søndag 10–16 (vinter)",
+      "openingHoursEn": "Daily 10–17 (summer), Tuesday–Sunday 10–16 (winter)",
       "description": "Rosenborg Castle in central Copenhagen was built by King Christian IV in the early 17th century and houses the Danish crown jewels. The castle's sumptuous state rooms display royal treasures accumulated over centuries. One of Denmark's most visited and historically significant royal palaces."
     },
     {
@@ -2045,8 +2078,10 @@
       "website": "https://www.snm.ku.dk",
       "price": "110 kr",
       "freeDay": "Gratis onsdage",
+      "freeDayEn": "Free Wednesdays",
       "freeDayWeekday": 4,
       "openingHours": "Dagligt 10–17",
+      "openingHoursEn": "Daily 10–17",
       "description": "The Natural History Museum of Denmark in Copenhagen holds one of the world's great natural history collections. From dinosaur skeletons and meteorites to insects and botanical specimens, the museum explores the diversity of life on Earth. A classic and impressive museum housed in historic university buildings."
     },
     {
@@ -2061,8 +2096,10 @@
       "website": "https://www.nationalmuseet.dk",
       "price": "130 kr",
       "freeDay": "Gratis onsdage",
+      "freeDayEn": "Free Wednesdays",
       "freeDayWeekday": 4,
       "openingHours": "Tirsdag–søndag 10–17, onsdag 10–20",
+      "openingHoursEn": "Tuesday–Sunday 10–17, Wednesday 10–20",
       "description": "Prinsens Palais in Copenhagen houses part of the National Museum of Denmark's collection, covering Danish cultural history from the Viking age onwards. The palace building itself is a fine example of 18th-century Danish architecture. A significant cultural institution in the heart of the capital."
     },
     {
@@ -2079,6 +2116,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17",
+      "openingHoursEn": "Tuesday–Sunday 10–17",
       "description": "Science Museerne in Aarhus encompasses several science and natural history museums, including Steno Museum and Ole Rømer Observatory. The museums explore the history of science, medicine, and astronomy in an engaging and accessible way. A rich destination for curious minds in Aarhus."
     },
     {
@@ -2095,6 +2133,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–16",
+      "openingHoursEn": "Tuesday–Sunday 10–16",
       "description": "Museum Østjylland in Ebeltoft explores the history and culture of the Ebeltoft area on the Jutland coast. The beautiful old town of Ebeltoft provides a historic setting for exhibitions covering local trade, seafaring, and community life. A charming museum in one of Denmark's best-preserved old towns."
     },
     {
@@ -2111,6 +2150,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–18 (sommer), tirsdag–søndag 10–17 (vinter)",
+      "openingHoursEn": "Daily 10–18 (summer), Tuesday–Sunday 10–17 (winter)",
       "description": "H.C. Andersens Hus in Odense is the birthplace museum dedicated to Denmark's most famous author, Hans Christian Andersen. The new building, opened in 2021, immerses visitors in the fairy-tale world of the author through innovative design and storytelling. A magical experience for children and adults alike."
     },
     {
@@ -2127,6 +2167,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17 (april–oktober)",
+      "openingHoursEn": "Tuesday–Sunday 10–17 (April–October)",
       "description": "Frilandsmuseet near Copenhagen is one of the world's largest open-air museums, with over 50 historic buildings relocated from across Denmark. Costumed guides and live demonstrations recreate rural and urban life from the 17th to the early 20th century. A wonderful and spacious outdoor museum experience."
     },
     {
@@ -2143,6 +2184,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (april–oktober), tirsdag–søndag 10–16 (vinter)",
+      "openingHoursEn": "Daily 10–17 (April–October), Tuesday–Sunday 10–16 (winter)",
       "description": "Danmarks Borgcenter in Vordingborg is dedicated to the history of Danish castles and medieval fortifications. Situated in the ruins of Vordingborg Castle, it explores the political and military power of the Danish kings in the Middle Ages. A dramatic museum in an evocative historic setting."
     },
     {
@@ -2159,6 +2201,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–16",
+      "openingHoursEn": "Daily 10–16",
       "description": "Amalienborg Museet in Copenhagen presents the history of the Danish royal family from 1863 to the present day. The museum occupies rooms in Christian VIII's Palace, one of the four palaces surrounding Amalienborg Square. An intimate look at royal life in the world's oldest monarchy."
     },
     {
@@ -2175,6 +2218,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17",
+      "openingHoursEn": "Tuesday–Sunday 10–17",
       "description": "VejleMuseerne is a network of museums covering the Vejle area and the historically significant Jutland landscape. The region is home to remarkable Iron Age finds including the famous Haraldskær Woman. An important museum network in a city known for both history and modern architecture."
     },
     {
@@ -2191,6 +2235,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17 (april–oktober)",
+      "openingHoursEn": "Tuesday–Sunday 10–17 (April–October)",
       "description": "Rudolph Tegners Museum near Dronningmølle houses an extraordinary collection of sculptures by the Danish artist Rudolph Tegner. The dramatic purpose-built museum, designed by Tegner himself, stands on a hilltop overlooking the sea. A unique and powerfully atmospheric museum experience."
     },
     {
@@ -2207,6 +2252,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Torsdag–fredag 14–21, lørdag–søndag 11–18",
+      "openingHoursEn": "Thursday–Friday 14–21, Saturday–Sunday 11–18",
       "description": "Cisternerne beneath Frederiksberg Hill is a former underground reservoir turned art and exhibition space. The vast vaulted chambers drip with stalactites and offer a hauntingly beautiful backdrop for contemporary art installations. One of Copenhagen's most atmospheric and surprising venues."
     },
     {
@@ -2221,8 +2267,10 @@
       "website": "https://www.ordrupgaard.dk",
       "price": "150 kr",
       "freeDay": "Gratis onsdage",
+      "freeDayEn": "Free Wednesdays",
       "freeDayWeekday": 4,
       "openingHours": "Tirsdag–søndag 13–17, onsdag 13–20",
+      "openingHoursEn": "Tuesday–Sunday 13–17, Wednesday 13–20",
       "description": "Ordrupgaard north of Copenhagen holds a world-class collection of French Impressionist and Post-Impressionist art alongside Danish Golden Age painting. The museum buildings include a historic villa and a bold extension by Zaha Hadid. A beautiful museum with a garden, café, and one of Denmark's finest art collections."
     },
     {
@@ -2239,6 +2287,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (april–oktober)",
+      "openingHoursEn": "Daily 10–17 (April–October)",
       "description": "Den Fynske Landsby is an open-air museum near Odense recreating 19th-century village life on Funen. The collection of historic farm buildings and crafts workshops gives visitors a vivid sense of Danish rural life in the age of Hans Christian Andersen. A charming and educational outdoor experience."
     },
     {
@@ -2255,6 +2304,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17 (april–oktober), tirsdag–søndag 10–16 (vinter)",
+      "openingHoursEn": "Tuesday–Sunday 10–17 (April–October), Tuesday–Sunday 10–16 (winter)",
       "description": "Det Grønne Museum in Auning explores the history of Danish agriculture and the rural landscape. Housed on a historic estate, it celebrates the farming traditions that shaped the Danish countryside and fed the nation. A fine outdoor and indoor museum destination in east Jutland."
     },
     {
@@ -2271,6 +2321,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17 (sommer), tirsdag–søndag 10–16 (vinter)",
+      "openingHoursEn": "Tuesday–Sunday 10–17 (summer), Tuesday–Sunday 10–16 (winter)",
       "description": "Fængselsmuseet in Horsens occupies a former Victorian prison and tells the story of Danish crime and punishment across two centuries. Visitors can explore the original cells, courtrooms, and isolation ward in a genuinely atmospheric setting. A gripping and thought-provoking museum experience."
     },
     {
@@ -2287,6 +2338,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17",
+      "openingHoursEn": "Tuesday–Sunday 10–17",
       "description": "Krigsmuseet in Copenhagen is Denmark's national military museum, covering 500 years of Danish military history. The collection includes weapons, uniforms, medals, and personal stories from conflicts spanning from the Renaissance to modern times. A comprehensive and well-presented military history museum."
     },
     {
@@ -2303,6 +2355,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17",
+      "openingHoursEn": "Tuesday–Sunday 10–17",
       "description": "Holmegaard Værk in Fensmark celebrates the art of Danish glassmaking, rooted in the traditions of the historic Holmegaard Glassworks. The museum traces the evolution of Danish glass design from functional utility to iconic mid-century modernism. A beautiful specialist museum with exceptional craftsmanship on display."
     },
     {
@@ -2319,6 +2372,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (april–oktober)",
+      "openingHoursEn": "Daily 10–17 (April–October)",
       "description": "Hjerl Hedes Frilandsmuseum in Vinderup is a large open-air museum set in a heathland landscape in western Jutland. Historic buildings have been relocated from across Denmark to recreate village and farm life from the Stone Age to the 1900s. One of Denmark's largest and most atmospheric outdoor museums."
     },
     {
@@ -2333,8 +2387,10 @@
       "website": "https://www.hirschsprung.dk",
       "price": "125 kr",
       "freeDay": "Gratis onsdage",
+      "freeDayEn": "Free Wednesdays",
       "freeDayWeekday": 4,
       "openingHours": "Tirsdag–søndag 11–17, onsdag 11–20",
+      "openingHoursEn": "Tuesday–Sunday 11–17, Wednesday 11–20",
       "description": "Den Hirschsprungske Samling in Copenhagen holds one of Denmark's finest collections of 19th-century Danish painting. Assembled by tobacco magnate Heinrich Hirschsprung, the collection is particularly rich in works by the Skagen artists and the Funen painters. An intimate and beautifully curated museum in the heart of the city."
     },
     {
@@ -2351,6 +2407,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17",
+      "openingHoursEn": "Tuesday–Sunday 10–17",
       "description": "Frihedsmuseet – the Museum of Danish Resistance – in Copenhagen tells the story of Denmark under German occupation from 1940 to 1945. Through personal testimonies and artefacts, it documents both the courage of the resistance and the moral complexity of everyday life under occupation. A deeply important and moving national museum."
     },
     {
@@ -2367,6 +2424,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (sommer), tirsdag–søndag 10–16 (vinter)",
+      "openingHoursEn": "Daily 10–17 (summer), Tuesday–Sunday 10–16 (winter)",
       "description": "Sønderborg Slot is a magnificent castle situated on the shores of the Als Sound in southern Jutland. The museum covers the turbulent history of the border region between Denmark and Germany, from the Middle Ages through to the reunification of 1920. A dramatic historic site with a powerful story to tell."
     },
     {
@@ -2383,6 +2441,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (april–oktober), tirsdag–søndag 10–16 (vinter)",
+      "openingHoursEn": "Daily 10–17 (April–October), Tuesday–Sunday 10–16 (winter)",
       "description": "NaturBornholm in Aakirkeby explores the unique geology and natural history of the island of Bornholm. The island's ancient granite landscape, visible through the museum's spectacular views, has shaped both its ecology and its human history. An inspiring destination for those curious about the natural world."
     },
     {
@@ -2399,6 +2458,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (sommer), tirsdag–søndag 10–16 (vinter)",
+      "openingHoursEn": "Daily 10–17 (summer), Tuesday–Sunday 10–16 (winter)",
       "description": "H.C. Andersens Barndomshjem is the modest Odense house where Hans Christian Andersen spent much of his childhood. The intimate rooms give a poignant sense of the humble origins of the author who would become a global literary icon. A touching complement to the larger H.C. Andersens Hus nearby."
     },
     {
@@ -2415,6 +2475,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17",
+      "openingHoursEn": "Tuesday–Sunday 10–17",
       "description": "Johannes Larsen Museet in Kerteminde is dedicated to the work of painter Johannes Larsen, one of the Funen artists who celebrated the natural world. The museum includes the artist's beautifully preserved home and garden by the sea. A serene and inspirational museum experience."
     },
     {
@@ -2431,6 +2492,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (maj–september), onsdag–fredag 13–16, lørdag–søndag 11–16 (oktober–april)",
+      "openingHoursEn": "Daily 10–17 (May–September), Wednesday–Friday 13–16, Saturday–Sunday 11–16 (October–April)",
       "description": "Karen Blixen-Museet Rungstedlund is the former home of author Karen Blixen, best known internationally for Out of Africa. The house, gardens, and surrounding bird sanctuary are preserved as a memorial to her life and remarkable literary legacy. A tranquil and deeply personal museum experience."
     },
     {
@@ -2447,6 +2509,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17, onsdag 10–20",
+      "openingHoursEn": "Tuesday–Sunday 10–17, Wednesday 10–20",
       "description": "Danmarks Rockmuseum in Roskilde celebrates Denmark's rock and pop music heritage from the 1950s to the present day. Interactive exhibits let visitors experience the history of Danish music in an entertaining and immersive way. A lively museum for music lovers of all generations."
     },
     {
@@ -2463,6 +2526,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–16 (april–oktober)",
+      "openingHoursEn": "Daily 10–16 (April–October)",
       "description": "Kystmuseet Bangsbo Fort in Frederikshavn explores the history of the Danish coastline and the military fortifications that defended it. The restored Bangsbo Fort, used during World War II, provides a dramatic and evocative setting. A compelling museum on the edge of the North Sea."
     },
     {
@@ -2479,6 +2543,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (sommer), tirsdag–søndag 10–16 (vinter)",
+      "openingHoursEn": "Daily 10–17 (summer), Tuesday–Sunday 10–16 (winter)",
       "description": "Kystmuseet Skagen tells the story of life at the very tip of Denmark, where the Skagerrak and Kattegat seas meet. Exhibitions cover fishing, seafaring, and the natural phenomena of the shifting sands that have buried entire villages. A fascinating coastal museum in one of Denmark's most dramatic landscapes."
     },
     {
@@ -2495,6 +2560,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–16",
+      "openingHoursEn": "Tuesday–Sunday 10–16",
       "description": "Museum Østjylland in Randers covers the history of the Randers area from its Viking Age origins to the present day. The museum manages multiple sites across the region and presents a broad panorama of east Jutland's cultural heritage. A substantial regional museum with engaging and varied collections."
     },
     {
@@ -2511,6 +2577,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (april–oktober), tirsdag–søndag 10–16 (vinter)",
+      "openingHoursEn": "Daily 10–17 (April–October), Tuesday–Sunday 10–16 (winter)",
       "description": "Museet Ribes Vikinger brings the Viking Age to life in Denmark's oldest surviving city. The museum uses reconstructions, artefacts, and immersive storytelling to recreate life in Ribe during the 8th and 9th centuries, when it was one of northern Europe's most important trading centres. A world-class Viking museum."
     },
     {
@@ -2527,6 +2594,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–16 (maj–september)",
+      "openingHoursEn": "Daily 10–16 (May–September)",
       "description": "Middelaldercenteret Lolland-Falster is a living history museum dedicated to medieval life in southern Denmark. Visitors can watch craftspeople demonstrate medieval skills, explore reconstructed buildings, and experience the rhythm of life in the Middle Ages. A hands-on and entertaining museum experience."
     },
     {
@@ -2543,6 +2611,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17 (april–oktober), tirsdag–søndag 10–15 (vinter)",
+      "openingHoursEn": "Tuesday–Sunday 10–17 (April–October), Tuesday–Sunday 10–15 (winter)",
       "description": "Vikingemuseet Ladby preserves one of the world's most extraordinary Viking Age finds – a ship burial containing the remains of a Viking chieftain, his horses, and his dogs. The original burial mound covers the actual excavation site. A unique and haunting window into Viking beliefs about death and the afterlife."
     },
     {
@@ -2559,6 +2628,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17",
+      "openingHoursEn": "Tuesday–Sunday 10–17",
       "description": "Aalborg Søfarts- og Marinemuseum Springer in Aalborg features a real Cold War submarine as its centrepiece. The museum explores Danish naval and maritime history with the U-359 submarine as its most dramatic exhibit. A gripping and atmospheric museum destination on the Limfjord waterfront."
     },
     {
@@ -2575,6 +2645,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–fredag 10–17, lørdag–søndag 11–17",
+      "openingHoursEn": "Tuesday–Friday 10–17, Saturday–Sunday 11–17",
       "description": "KØS Museum for Kunst i det Offentlige Rum in Køge is dedicated to art in public spaces. The collection spans Danish and international works created for public environments, from monumental sculptures to urban installations. A thought-provoking museum that connects art with everyday life."
     },
     {
@@ -2591,6 +2662,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17 (april–oktober)",
+      "openingHoursEn": "Tuesday–Sunday 10–17 (April–October)",
       "description": "Koldkrigsmuseum Stevnsfort explores the Cold War history of the Stevns peninsula, a strategically vital NATO listening post during the Cold War. The underground fortress, carved into the chalk cliffs, is a UNESCO World Heritage Site. A fascinating and slightly eerie window into a tense period of history."
     },
     {
@@ -2607,6 +2679,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17",
+      "openingHoursEn": "Tuesday–Sunday 10–17",
       "description": "ENIGMA Museum for post, tele og kommunikation in Copenhagen is a museum of communication history, from the first postal services to the digital age. Interactive and visually engaging, it explores how communication technology has transformed Danish society. A stimulating museum for all ages."
     },
     {
@@ -2623,6 +2696,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17",
+      "openingHoursEn": "Tuesday–Sunday 10–17",
       "description": "Industrimuseet Horsens explores the industrial heritage of Horsens, from its 19th-century manufacturing roots to the present. Located in a beautifully restored factory building, the museum tells the story of work, technology, and community. A rich and evocative industrial history museum."
     },
     {
@@ -2639,6 +2713,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17 (april–oktober), tirsdag–søndag 10–16 (vinter)",
+      "openingHoursEn": "Tuesday–Sunday 10–17 (April–October), Tuesday–Sunday 10–16 (winter)",
       "description": "Strandingsmuseum St George on the west Jutland coast tells the story of shipwrecks along this treacherous coastline. The museum takes its name from the British warship St George, wrecked in 1811 with the loss of over 900 lives. A gripping maritime museum on one of Europe's most dangerous coasts."
     },
     {
@@ -2655,6 +2730,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 11–17",
+      "openingHoursEn": "Tuesday–Sunday 11–17",
       "description": "Køge Museum explores the history of Køge, one of Denmark's best-preserved Renaissance merchant towns. Collections cover local archaeology, the town's commercial history, and the stories of the people who lived there. A rewarding museum in a beautifully historic setting."
     },
     {
@@ -2671,6 +2747,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17 (sommer), tirsdag–søndag 10–16 (vinter)",
+      "openingHoursEn": "Tuesday–Sunday 10–17 (summer), Tuesday–Sunday 10–16 (winter)",
       "description": "Vikingemuseet Lindholm Høje is one of Scandinavia's most important Viking Age burial sites, with over 700 graves marked by stone ships. The adjacent museum presents finds from the site and explores Viking Age burial customs. A deeply atmospheric place where ancient history feels very close."
     },
     {
@@ -2687,6 +2764,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17 (april–oktober)",
+      "openingHoursEn": "Tuesday–Sunday 10–17 (April–October)",
       "description": "Vikingemuseet Fyrkat near Hobro is built around a perfectly preserved Viking ring fortress dating from around 980 AD. The reconstructed longhouses give a vivid sense of how Harald Bluetooth's military power was projected across Denmark. A unique and accessible Viking heritage site."
     },
     {
@@ -2703,6 +2781,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17",
+      "openingHoursEn": "Tuesday–Sunday 10–17",
       "description": "Frøslevlejrens Museum in Padborg commemorates the Danish internment camp where thousands of Danes were imprisoned by German occupiers during World War II. The preserved camp buildings provide a sobering and authentic memorial. A profoundly moving museum at the border between Denmark and Germany."
     },
     {
@@ -2719,6 +2798,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17 (maj–oktober)",
+      "openingHoursEn": "Tuesday–Sunday 10–17 (May–October)",
       "description": "Landbrugsmuseet Melstedgård on Bornholm is an open-air museum set on a historic farm, exploring traditional Bornholm agricultural life. The well-preserved buildings and their contents give a rich picture of island farming in the 18th and 19th centuries. A peaceful and beautifully situated rural museum."
     },
     {
@@ -2735,6 +2815,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–16",
+      "openingHoursEn": "Tuesday–Sunday 10–16",
       "description": "Museum Mors on the island of Mors in the Limfjord explores the distinctive natural and cultural heritage of this island community. Known for its unique geology and the diatomite quarries that shaped its economy, Mors has a fascinating story. A fine local museum with great natural history collections."
     },
     {
@@ -2751,6 +2832,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–16",
+      "openingHoursEn": "Tuesday–Sunday 10–16",
       "description": "Graabrødrekloster Museum in Odense is set in the ruins of a medieval Franciscan friary, one of the best-preserved in Denmark. Excavations have revealed centuries of monastic life, and the atmospheric site offers a powerful connection to the medieval city. A hidden gem in the heart of Odense."
     },
     {
@@ -2767,6 +2849,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 11–17",
+      "openingHoursEn": "Tuesday–Sunday 11–17",
       "description": "Øregaard Museum in Hellerup is a historic villa housing a collection of Danish art from the late 19th and early 20th centuries. The intimate setting and beautiful garden create a peaceful atmosphere for appreciating Danish painting from this productive period. A refined and charming museum."
     },
     {
@@ -2783,6 +2866,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17",
+      "openingHoursEn": "Tuesday–Sunday 10–17",
       "description": "Storm P Museet in Frederiksberg is dedicated to the beloved Danish cartoonist Robert Storm Petersen, known as Storm P. His witty and warmly humane cartoons and philosophical one-liners remain beloved in Denmark. The museum celebrates a uniquely Danish sense of humour."
     },
     {
@@ -2799,6 +2883,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Mandag–fredag 9–16, lørdag–søndag 10–16",
+      "openingHoursEn": "Monday–Friday 9–16, Saturday–Sunday 10–16",
       "description": "Geomuseum Faxe explores the remarkable geology of the Faxe area, where a coral reef from 66 million years ago is preserved in a working quarry. The museum explains the geological story of Denmark and the ancient sea creatures whose fossils can still be found at the site. A remarkable natural history destination."
     },
     {
@@ -2815,6 +2900,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17",
+      "openingHoursEn": "Tuesday–Sunday 10–17",
       "description": "Kunstmuseet i Tønder holds a distinguished collection of Danish and international art from the 20th century. Located in the historic border town of Tønder, the museum reflects the cultural richness of this bicultural region. A welcoming and well-curated regional art museum."
     },
     {
@@ -2831,6 +2917,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–fredag 10–16, søndag 13–16",
+      "openingHoursEn": "Tuesday–Friday 10–16, Sunday 13–16",
       "description": "Ballerup Museum explores the history of Ballerup municipality, tracing the transformation of this area from a rural farming district to a modern Copenhagen suburb. The collections cover archaeology, local industry, and everyday community life. A fine local history museum."
     },
     {
@@ -2847,6 +2934,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (sommer), tirsdag–søndag 10–16 (vinter)",
+      "openingHoursEn": "Daily 10–17 (summer), Tuesday–Sunday 10–16 (winter)",
       "description": "Fur Museum is dedicated to the extraordinary geology of the island of Fur in the Limfjord, famous for its deposits of diatomite and the fossils preserved within it. The museum's collection of 55-million-year-old fossils, including birds and fish, is internationally significant. A wonderful natural history treasure."
     },
     {
@@ -2863,6 +2951,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 13–17",
+      "openingHoursEn": "Tuesday–Sunday 13–17",
       "description": "Museum Ovartaci in Aarhus holds a unique collection of art created by patients at the Psychiatric Hospital Risskov over the course of the 20th century. The works offer a powerful and often beautiful window into extraordinary inner worlds. One of Denmark's most unusual and thought-provoking museum experiences."
     },
     {
@@ -2879,6 +2968,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–16",
+      "openingHoursEn": "Tuesday–Sunday 10–16",
       "description": "Kalundborg Museum explores the history of Kalundborg, dominated by the remarkable five-towered Kalundborg Church, one of Denmark's most distinctive medieval buildings. Collections cover the town's history from Viking times and its role as a significant medieval trading centre. A rich local museum in a historically fascinating setting."
     },
     {
@@ -2895,6 +2985,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–16",
+      "openingHoursEn": "Tuesday–Sunday 10–16",
       "description": "Skanderborg Museum covers the history of the Skanderborg area, from prehistoric settlements to the royal residence that once stood there. The museum explores how this part of Jutland's lake district was shaped by nature, agriculture, and royal power. A well-presented regional museum in beautiful surroundings."
     },
     {
@@ -2911,6 +3002,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–16",
+      "openingHoursEn": "Tuesday–Sunday 10–16",
       "description": "Museerne i Fredericia manage the cultural heritage of this planned fortress city in central Jutland. The collections cover the city's military origins, the famous battle of 1849, and the diverse communities who have called Fredericia home. A museum network with a strong and distinctive local story."
     },
     {
@@ -2927,6 +3019,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–16",
+      "openingHoursEn": "Tuesday–Sunday 10–16",
       "description": "Skive Museum explores the history and culture of the Skive area and the surrounding Limfjord landscape. Collections cover local prehistory, the fishing and farming traditions of the region, and the stories of its communities. A welcoming regional museum in a characterful market town."
     },
     {
@@ -2943,6 +3036,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 12–16",
+      "openingHoursEn": "Tuesday–Sunday 12–16",
       "description": "Sorø Museum documents the history of Sorø, a small town with a disproportionately large cultural footprint as the seat of the historic Sorø Academy. Collections cover the town's medieval monastery, its noble academy, and local community life. A fine local museum in a historically rich setting."
     },
     {
@@ -2959,6 +3053,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–16",
+      "openingHoursEn": "Tuesday–Sunday 10–16",
       "description": "Stiftsmuseet Maribo is located in the historic cathedral city of Maribo on Lolland. The museum covers the religious history of the area, particularly the Birgittine monastery that was one of the most important in medieval Scandinavia. A specialist museum of considerable historical depth."
     },
     {
@@ -2975,6 +3070,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17",
+      "openingHoursEn": "Tuesday–Sunday 10–17",
       "description": "Aalborg Historiske Museum holds a broad collection covering the history of Aalborg from the Viking age to the 20th century. The museum presents the story of this north Jutland city, once one of Denmark's most important commercial centres. A substantial and well-presented urban history museum."
     },
     {
@@ -2991,6 +3087,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–16",
+      "openingHoursEn": "Tuesday–Sunday 10–16",
       "description": "Lejre Museum explores the fascinating history and prehistory of the Lejre area on Zealand. The region was a seat of legendary Danish kings and holds enormous importance in the mythology and early history of Denmark. A museum that connects the deep past to living landscape."
     },
     {
@@ -3007,6 +3104,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–16",
+      "openingHoursEn": "Tuesday–Sunday 10–16",
       "description": "Ringkøbing Museum documents the history of the town of Ringkøbing and the unique landscape of the lagoon and coast. The town's history as a trading port cut off from the sea by shifting sands provides a compelling historical narrative. A characterful local museum in a picturesque west Jutland town."
     },
     {
@@ -3023,6 +3121,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–16",
+      "openingHoursEn": "Tuesday–Sunday 10–16",
       "description": "Herningsholm Museum is set in a historic half-timbered manor house in Herning, exploring the history of the estate and the surrounding textile industry that made the town famous. The beautifully restored building is itself a highlight of the visit. A charming museum with a distinctive local story."
     },
     {
@@ -3039,6 +3138,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–16",
+      "openingHoursEn": "Tuesday–Sunday 10–16",
       "description": "Carl Nielsen Museet in Odense celebrates the life and music of Denmark's greatest composer, Carl Nielsen. The museum explores his remarkable journey from a poor Funen farm boy to one of the defining voices of European classical music. An inspiring museum for music lovers."
     },
     {
@@ -3055,6 +3155,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17",
+      "openingHoursEn": "Tuesday–Sunday 10–17",
       "description": "Tekstilmuseet in Herning is dedicated to the history of the Danish textile and fashion industry, which was centred in Herning. From early weaving to the global fashion brands the city has produced, the museum tells a surprising and engaging story. A specialist museum in Denmark's textile capital."
     },
     {
@@ -3071,6 +3172,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–16",
+      "openingHoursEn": "Tuesday–Sunday 10–16",
       "description": "Esbjerg Museum documents the history of Esbjerg, a city that was founded only in 1868 but grew rapidly into Denmark's most important North Sea port. Collections cover the city's development, its fishing industry, and its role as a gateway to the wider world. A lively urban history museum."
     },
     {
@@ -3087,6 +3189,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (april–oktober)",
+      "openingHoursEn": "Daily 10–17 (April–October)",
       "description": "Øm Kloster Museum near Ry explores the history of Øm Abbey, a Cistercian monastery founded in 1172. Excavations have revealed a rich collection of medieval artefacts, and the atmospheric lakeside site adds to the sense of history. A moving and beautiful medieval heritage site."
     },
     {
@@ -3103,6 +3206,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–16",
+      "openingHoursEn": "Tuesday–Sunday 10–16",
       "description": "Vesthimmerlands Museum covers the history and prehistory of the Himmerland region in north Jutland. The area is rich in Iron Age and Bronze Age remains, and the museum presents these finds alongside the story of later rural and industrial life. A fine regional museum with strong archaeological collections."
     },
     {
@@ -3119,6 +3223,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17 (maj–august), tirsdag–søndag 10–16 (september–april)",
+      "openingHoursEn": "Tuesday–Sunday 10–17 (May–August), Tuesday–Sunday 10–16 (September–April)",
       "description": "Reventlow-Museet is dedicated to Count Christian Ditlev Frederik Reventlow, one of the architects of the great agricultural reform that transformed Denmark in the late 18th century. Set in the historic estate where his work began, the museum explores one of the most important chapters in Danish social history."
     },
     {
@@ -3135,6 +3240,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–16",
+      "openingHoursEn": "Tuesday–Sunday 10–16",
       "description": "Horsens Historiske Museum explores the long history of Horsens from its medieval origins to the present. The town's intriguing past, including its role as a major prison city, is brought to life through rich collections and engaging exhibitions. A substantial local history museum."
     },
     {
@@ -3151,6 +3257,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17",
+      "openingHoursEn": "Tuesday–Sunday 10–17",
       "description": "Frederikssund Museum Færgegården is set in a historic ferry inn on the Roskilde Fjord, telling the story of the old ferry crossing and local life along the shore. The beautifully preserved building and its waterside location make for a very atmospheric visit. A charming local history museum."
     },
     {
@@ -3167,6 +3274,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (sommer)",
+      "openingHoursEn": "Daily 10–17 (summer)",
       "description": "Hals Museum Hals Skanse explores the history of the fortification at Hals, which controlled the eastern entrance to the Limfjord for centuries. The restored earthworks and the adjacent museum tell the story of this strategically vital location. A fascinating military heritage site on the edge of the sea."
     },
     {
@@ -3183,6 +3291,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–16",
+      "openingHoursEn": "Tuesday–Sunday 10–16",
       "description": "Odsherreds Museum covers the history of the Odsherred peninsula in north-west Zealand, a landscape of ancient burial mounds, fjords, and forests. Collections explore prehistory, local crafts, and the summer colony of artists who discovered the area in the early 20th century. A fine regional museum in a beautiful landscape."
     },
     {
@@ -3199,6 +3308,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–16",
+      "openingHoursEn": "Tuesday–Sunday 10–16",
       "description": "Odsherreds Kunstmuseum Hvide Hus is dedicated to the Danish artist colony that gathered at Odsherred in the early 20th century. The museum presents works by the painters who were captivated by the area's light and landscape. A specialist art museum in a scenic and historically significant artistic destination."
     },
     {
@@ -3215,6 +3325,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 9:30–21",
+      "openingHoursEn": "Daily 9:30–21",
       "description": "Tycho Brahe Planetarium in Copenhagen is Denmark's national planetarium, named after the famous 16th-century Danish astronomer. The dome cinema shows spectacular films about space and the cosmos, and the museum explores the history of astronomy. A dazzling and educational experience in the heart of Copenhagen."
     },
     {
@@ -3231,6 +3342,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (sommer), tirsdag–søndag 10–16 (vinter)",
+      "openingHoursEn": "Daily 10–17 (summer), Tuesday–Sunday 10–16 (winter)",
       "description": "Fregatten Jylland in Ebeltoft is the world's longest preserved wooden warship, launched in 1860. The fully restored frigate allows visitors to explore every deck and compartment of this magnificent vessel. An extraordinary piece of Danish naval history afloat in Ebeltoft harbour."
     },
     {
@@ -3247,6 +3359,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Onsdag og søndag 11–16",
+      "openingHoursEn": "Wednesday and Sunday 11–16",
       "description": "Politimuseet in Copenhagen documents the history of the Danish police from its earliest origins to the present day. Collections include uniforms, equipment, and artefacts relating to famous criminal cases. A fascinating specialist museum for those interested in law and order."
     },
     {
@@ -3263,6 +3376,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (maj–september)",
+      "openingHoursEn": "Daily 10–17 (May–September)",
       "description": "Bornholms Middelaldercenter in Gudhjem is a living history museum recreating medieval life on Bornholm. Craftspeople demonstrate traditional skills, and the reconstructed buildings give a vivid sense of the island's medieval character. A hands-on and educational museum experience."
     },
     {
@@ -3279,6 +3393,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17 (april–oktober)",
+      "openingHoursEn": "Tuesday–Sunday 10–17 (April–October)",
       "description": "Danmarks Flymuseum in Stauning is the national aviation museum of Denmark, with a comprehensive collection of historic aircraft spanning the history of Danish aviation. Visitors can explore aircraft from the early days of flight to the jet age. A spectacular museum for aviation enthusiasts."
     },
     {
@@ -3295,6 +3410,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Søndag 13–17",
+      "openingHoursEn": "Sunday 13–17",
       "description": "Cirkusmuseet in Hvidovre is dedicated to the history of the circus in Denmark, with a colourful collection of costumes, posters, props, and memorabilia. The museum celebrates the acrobats, clowns, and animals that brought magic to Danish audiences for over two centuries. A joyful and entertaining specialist museum."
     },
     {
@@ -3311,6 +3427,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (april–oktober), tirsdag–søndag 10–16 (november–marts)",
+      "openingHoursEn": "Daily 10–17 (April–October), Tuesday–Sunday 10–16 (November–March)",
       "description": "Sea War Museum Jutland in Thyborøn explores the history of the Battle of Jutland, the largest naval battle of World War I. The museum presents the dramatic events of May 1916 through artefacts recovered from the seabed and immersive storytelling. A compelling military history museum on the edge of the North Sea."
     },
     {
@@ -3327,6 +3444,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Mandag–fredag 9–15 (april–september)",
+      "openingHoursEn": "Monday–Friday 9–15 (April–September)",
       "description": "Søby Brunkulsmuseum in Ikast documents the history of the brown coal industry that was vital to Denmark's energy supply during World War II. The museum preserves the machinery, stories, and landscape of this remarkable industrial chapter. A fascinating specialist industrial heritage museum."
     },
     {
@@ -3343,6 +3461,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–16",
+      "openingHoursEn": "Tuesday–Sunday 10–16",
       "description": "Papirmuseet Bikuben in Silkeborg is a museum dedicated to the art of paper and the history of papermaking. Located in a historic paper mill, it explores the craft traditions and industrial history of this essential material. A fine specialist museum in a beautiful riverside setting."
     },
     {
@@ -3359,6 +3478,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (juni–august), tirsdag–søndag 10–16 (resten af året)",
+      "openingHoursEn": "Daily 10–17 (June–August), Tuesday–Sunday 10–16 (rest of year)",
       "description": "Oluf Høst Museet in Gudhjem on Bornholm is dedicated to the work of painter Oluf Høst, one of the most celebrated artists associated with the island. His bold and colourful depictions of Bornholm's landscape and light are displayed in his own restored farmhouse. A beautiful and intimate artist's museum."
     },
     {
@@ -3375,6 +3495,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17 (sommer), tirsdag–søndag 10–16 (vinter)",
+      "openingHoursEn": "Tuesday–Sunday 10–17 (summer), Tuesday–Sunday 10–16 (winter)",
       "description": "Hjorths Fabrik Bornholms Keramikmuseum in Rønne celebrates the long tradition of ceramics production on Bornholm. The museum is housed in a historic pottery factory and presents both the industrial and artistic history of Bornholm ceramics. A fine specialist museum celebrating a distinctive island craft."
     },
     {
@@ -3391,6 +3512,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17",
+      "openingHoursEn": "Daily 10–17",
       "description": "Museet for Religiøs Kunst in Lemvig holds a collection of religious art spanning centuries of Christian devotion in Denmark. The museum explores the role of art in religious life and the extraordinary craftsmanship devoted to spiritual expression. A thoughtful and contemplative museum experience."
     },
     {
@@ -3407,6 +3529,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (sommer)",
+      "openingHoursEn": "Daily 10–17 (summer)",
       "description": "Jacob A Riis Museum in Ribe honours the Danish-American journalist and social reformer Jacob Riis, who documented poverty in New York's slums in the late 19th century. The museum explores his remarkable life and the powerful impact of his photographs. An inspiring museum about a man who used images to change the world."
     },
     {
@@ -3423,6 +3546,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–16 (april–oktober)",
+      "openingHoursEn": "Tuesday–Sunday 10–16 (April–October)",
       "description": "Museet Herregården Hessel near Hadsund is set in a beautifully preserved manor house in north Jutland. The museum explores the history of Danish manor house culture and the lives of those who lived and worked on the estate. A charming and historically rich destination."
     },
     {
@@ -3439,6 +3563,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (sommer)",
+      "openingHoursEn": "Daily 10–17 (summer)",
       "description": "Nymindegab Museum documents the history of this tiny settlement on the west Jutland coast, where fishermen lived in extraordinary isolation at the edge of the North Sea. The museum captures the raw and resilient character of life on the Danish coastline. An evocative and atmospheric local museum."
     },
     {
@@ -3455,6 +3580,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17 (sommer)",
+      "openingHoursEn": "Tuesday–Sunday 10–17 (summer)",
       "description": "Gasmuseet in Hobro is dedicated to the history of the Danish gas industry, from town gas production to modern natural gas. Housed in a historic gasworks, the museum explores how gas transformed Danish homes and industry. A specialist museum with a surprisingly engaging story to tell."
     },
     {
@@ -3471,6 +3597,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (april–oktober)",
+      "openingHoursEn": "Daily 10–17 (April–October)",
       "description": "Fyrhistorisk Museum in Frederiksværk is devoted to the history of lighthouses and lighthouse keepers along the Danish coast. The collection of lighthouse equipment, personal stories, and navigational history illuminates a vital but often forgotten service. A charming and evocative specialist museum."
     },
     {
@@ -3487,6 +3614,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Søndag 13–17 (maj–september)",
+      "openingHoursEn": "Sunday 13–17 (May–September)",
       "description": "Tadre Mølle Museum near Hvalsø is a beautifully preserved working watermill, one of the few remaining in Denmark. The museum demonstrates traditional milling techniques and explores the role of mills in rural Danish life. A peaceful and picturesque heritage destination."
     },
     {
@@ -3503,6 +3631,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (sommer), tirsdag–søndag 10–16 (vinter)",
+      "openingHoursEn": "Daily 10–17 (summer), Tuesday–Sunday 10–16 (winter)",
       "description": "Klosterlund Museum near Engesvang is set in a landscape of heather moorland and ancient peat bogs in central Jutland. The museum explores the natural history and cultural heritage of the Jutland heath, including the peat cutting industry that shaped it. A peaceful and evocative destination in a distinctive landscape."
     },
     {
@@ -3519,6 +3648,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Søndag 11–16 (april–oktober)",
+      "openingHoursEn": "Sunday 11–16 (April–October)",
       "description": "Herregårdsmuseet Selsø Slot near Skibby is a beautifully preserved Baroque manor house on the shores of Roskilde Fjord. The museum explores the history of the estate and the aristocratic families who lived there. A serene and atmospheric historic house museum."
     },
     {
@@ -3535,6 +3665,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17",
+      "openingHoursEn": "Tuesday–Sunday 10–17",
       "description": "Danmarks Kostumarium in Herning holds one of Denmark's largest collections of historic costumes and textiles. The museum explores the history of Danish fashion and dress, from folk costume to haute couture. A specialist museum in Denmark's textile capital."
     },
     {
@@ -3551,6 +3682,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17 (maj–september)",
+      "openingHoursEn": "Tuesday–Sunday 10–17 (May–September)",
       "description": "Hørvævsmuseet på Krengerup near Glamsbjerg is dedicated to the traditional craft of linen weaving on Funen. The museum preserves the tools, techniques, and products of this once-widespread rural industry. A quiet and authentic specialist museum celebrating a disappearing craft."
     },
     {
@@ -3567,6 +3699,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–fredag 13–16, første søndag i måneden 13–16",
+      "openingHoursEn": "Tuesday–Friday 13–16, first Sunday of the month 13–16",
       "description": "Dansk Sygeplejehistorisk Museum in Copenhagen documents the history of nursing in Denmark from its origins to the present day. The museum honours the women and men who have cared for the sick and explores how nursing has evolved as a profession. A respectful and enlightening specialist museum."
     },
     {
@@ -3583,6 +3716,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–16",
+      "openingHoursEn": "Tuesday–Sunday 10–16",
       "description": "Tirpitz near Blåvand is a bold new museum embedded in the sand dunes alongside a massive German World War II bunker. The sleek underground building, designed by Bjarke Ingels Group, houses exhibitions about the bunker, the amber coast, and the Wadden Sea. A stunning fusion of architecture, history, and landscape."
     },
     {
@@ -3599,6 +3733,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (april–oktober)",
+      "openingHoursEn": "Daily 10–17 (April–October)",
       "description": "Sagnlandet Lejre is an experimental living history centre where researchers and visitors explore life in ancient Denmark. From the Stone Age to the Viking Age, the site recreates historic environments using authentic materials and techniques. One of Denmark's most fascinating and immersive historical experiences."
     },
     {
@@ -3615,6 +3750,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (april–oktober), tirsdag–søndag 10–16 (vinter)",
+      "openingHoursEn": "Daily 10–17 (April–October), Tuesday–Sunday 10–16 (winter)",
       "description": "Kongernes Jelling is Denmark's most important Viking Age monument, where Harald Bluetooth erected the great rune stones that announced the Christianisation of Denmark. The UNESCO World Heritage Site includes burial mounds, runic stones, and a modern visitor centre. A profound and moving encounter with the birth of the Danish nation."
     },
     {
@@ -3631,6 +3767,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (april–oktober), tirsdag–søndag 10–16 (vinter)",
+      "openingHoursEn": "Daily 10–17 (April–October), Tuesday–Sunday 10–16 (winter)",
       "description": "Geocenter Møns Klint is dramatically situated at the edge of the spectacular chalk cliffs of Møns Klint on the island of Møn. The museum explores the geology of the cliffs, the 70-million-year-old fossils found there, and the UNESCO Starlight Reserve that makes this one of Denmark's darkest skies. A breathtaking natural and cultural destination."
     },
     {
@@ -3647,6 +3784,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (april–oktober), dagligt 10–16 (vinter)",
+      "openingHoursEn": "Daily 10–17 (April–October), daily 10–16 (winter)",
       "description": "Vadehavscentret in Ribe is the gateway to the UNESCO World Heritage Wadden Sea, the world's largest tidal flat system. The museum explains the extraordinary ecology of this constantly changing landscape and the migratory birds that depend on it. An inspiring introduction to one of nature's most remarkable environments."
     },
     {
@@ -3663,6 +3801,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (maj–oktober)",
+      "openingHoursEn": "Daily 10–17 (May–October)",
       "description": "Ribe VikingeCenter is one of Scandinavia's finest living history museums, recreating life in the Viking Age town of Ribe. Costumed craftspeople demonstrate ancient skills, and the site includes both museum exhibitions and reconstructed Viking environments. An immersive and educational experience for all ages."
     },
     {
@@ -3679,6 +3818,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–16",
+      "openingHoursEn": "Tuesday–Sunday 10–16",
       "description": "L.A. Rings Atelier preserves the studio and home of the celebrated Danish Symbolist painter Laurits Andersen Ring (1854–1933), one of Denmark's most beloved 19th-century artists. The intimate setting offers visitors a glimpse into his working life and includes original works, tools, and personal effects. It is managed as part of Museum Sydøstdanmark."
     },
     {
@@ -3695,6 +3835,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Se hjemmeside",
+      "openingHoursEn": "See website",
       "description": "Museum Obskurium is an unusual cabinet of curiosities showcasing rare, strange, and thought-provoking objects from history, science, and popular culture. The museum offers an eclectic and surprising journey through the obscure and the extraordinary. A one-of-a-kind experience that appeals to the curious-minded visitor."
     },
     {
@@ -3711,6 +3852,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Sommer: dagligt 10–17",
+      "openingHoursEn": "Summer: daily 10–17",
       "description": "Richard Winthers Hus is the preserved home and studio of the visionary Danish artist Richard Winther (1926–2007), known for his richly symbolic and intensely personal body of work. The house in the Thy landscape has been kept as it was during his lifetime, offering an authentic encounter with the artist's universe. It stands as a tribute to one of Denmark's most distinctive post-war painters."
     },
     {
@@ -3727,6 +3869,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (sommer), 10–15 (vinter)",
+      "openingHoursEn": "Daily 10–17 (summer), 10–15 (winter)",
       "description": "Det Nationalhistoriske Museum at Frederiksborg Castle is Denmark's foremost museum of national history, housed in one of the country's most magnificent Renaissance palaces. The collection spans 500 years of Danish history through portraits, furniture, and decorative arts, including the renowned Danmarks Nationalportrætmaleri. The castle and its gardens are themselves among the finest historic sites in Scandinavia."
     },
     {
@@ -3743,6 +3886,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Dagligt 10–17 (sommer)",
+      "openingHoursEn": "Daily 10–17 (summer)",
       "description": "Det Sorte Geomuseum explores the dramatic geology of Stevns Klint, a UNESCO World Heritage Site famous for its dark 'fish clay' layer marking the mass extinction event 66 million years ago. The museum presents the geological and paleontological significance of the cliff face in an accessible and visually compelling way. It offers guided tours to the cliff, one of the world's clearest records of the K-Pg boundary event."
     },
     {
@@ -3759,6 +3903,7 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17",
+      "openingHoursEn": "Tuesday–Sunday 10–17",
       "description": "Evolutionsmuseet at the University of Copenhagen brings together the university's historic natural history collections under one roof, spanning zoology, botany, geology, and paleontology. The museum traces the history of life on Earth through vast scientific collections and engaging exhibitions. It is one of Scandinavia's most important natural history institutions, with specimens dating back centuries."
     }
   ]
