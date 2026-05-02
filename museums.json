@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "museums": [
     {
       "id": "002",
@@ -3672,8 +3672,8 @@
       "category": "kunst",
       "city": "Roskilde",
       "address": "Brøndgade 1, 4000 Roskilde",
-      "latitude": 55.642,
-      "longitude": 12.0804,
+      "latitude": 55.6483,
+      "longitude": 12.0761,
       "website": "https://www.museumsjaelland.dk",
       "price": "Gratis",
       "freeDay": null,
