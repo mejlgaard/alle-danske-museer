@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "museums": [
     {
       "id": "002",
@@ -3671,7 +3671,7 @@
       "type": "statsanerkendt",
       "category": "kunst",
       "city": "Roskilde",
-      "address": "Skt. Ols Stræde 3, 4000 Roskilde",
+      "address": "Brøndgade 1, 4000 Roskilde",
       "latitude": 55.642,
       "longitude": 12.0804,
       "website": "https://www.museumsjaelland.dk",
