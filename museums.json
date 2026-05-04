@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "museums": [
     {
       "id": "002",
@@ -69,7 +69,7 @@
       "latitude": 55.7295,
       "longitude": 9.115,
       "website": "https://www.billundmuseum.dk",
-      "price": null,
+      "price": "65 kr",
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": null,
@@ -125,12 +125,13 @@
       "latitude": 55.1012,
       "longitude": 14.7051,
       "website": "https://www.bornholmsmuseum.dk",
-      "price": null,
+      "price": "90 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": null,
+      "openingHours": "Jan–maj man–fre 13–16, lør 11–15; jun–aug dagligt 10–17",
       "description": "Bornholms Museum documents the island's history from the Stone Age to modern times. Exhibits cover everything from local crafts and trades to the German occupation during World War II. A comprehensive journey through life on Denmark's sunshine island.",
-      "descriptionDa": "Bornholms Museum dokumenterer øens historie fra Stenalderen til moderne tid. Udstillingerne dækker alt fra lokalt håndværk og erhverv til den tyske besættelse under Anden Verdenskrig. En omfattende rejse gennem livet på Danmarks solskinsø."
+      "descriptionDa": "Bornholms Museum dokumenterer øens historie fra Stenalderen til moderne tid. Udstillingerne dækker alt fra lokalt håndværk og erhverv til den tyske besættelse under Anden Verdenskrig. En omfattende rejse gennem livet på Danmarks solskinsø.",
+      "openingHoursEn": "Jan–May Mon–Fri 13–16, Sat 11–15; Jun–Aug daily 10–17"
     },
     {
       "id": "007",
@@ -184,9 +185,10 @@
       "price": "175 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": null,
+      "openingHours": "Tirs–søn 10–18, tors 10–20",
       "description": "Classic Car House near Lyngby is a private museum with an impressive collection of classic and vintage automobiles. The exhibition spans the history of the car from early motoring to mid-century classics. A paradise for automotive enthusiasts.",
-      "descriptionDa": "Classic Car House nær Lyngby er et privatmuseum med en imponerende samling af klassiske og veteranbiler. Udstillingen spænder over bilens historie fra motoriseringens tidlige dage til midterhundredårets klassikere. Et paradis for automobilelskere."
+      "descriptionDa": "Classic Car House nær Lyngby er et privatmuseum med en imponerende samling af klassiske og veteranbiler. Udstillingen spænder over bilens historie fra motoriseringens tidlige dage til midterhundredårets klassikere. Et paradis for automobilelskere.",
+      "openingHoursEn": "Tue–Sun 10–18, Thu 10–20"
     },
     {
       "id": "KH004",
@@ -218,12 +220,13 @@
       "latitude": 55.8628,
       "longitude": 9.8504,
       "website": "https://www.industrimuseum.dk",
-      "price": null,
+      "price": "100 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": null,
+      "openingHours": "Dagligt 10–16",
       "description": "Danmarks Industrimuseum chronicles the industrial revolution and its profound impact on Danish society and everyday life. Located in a historic factory in Horsens, it features working machines, reconstructed workshops, and interactive exhibits. A fascinating exploration of the forces that shaped modern Denmark.",
-      "descriptionDa": "Danmarks Industrimuseum skildrer den industrielle revolution og dens dybe indvirkning på det danske samfund og hverdagsliv. Museet er placeret i en historisk fabrik i Horsens og rummer arbejdende maskiner, rekonstruerede værksteder og interaktive udstillinger. En fascinerende udforskning af de kræfter, der formede det moderne Danmark."
+      "descriptionDa": "Danmarks Industrimuseum skildrer den industrielle revolution og dens dybe indvirkning på det danske samfund og hverdagsliv. Museet er placeret i en historisk fabrik i Horsens og rummer arbejdende maskiner, rekonstruerede værksteder og interaktive udstillinger. En fascinerende udforskning af de kræfter, der formede det moderne Danmark.",
+      "openingHoursEn": "Daily 10–16"
     },
     {
       "id": "P010",
@@ -274,12 +277,13 @@
       "latitude": 55.6736,
       "longitude": 12.5808,
       "website": "https://www.jewmus.dk",
-      "price": "Gratis",
+      "price": "100 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": null,
+      "openingHours": "Ons–søn 11–17 (okt–maj), tirs–søn 10–17 (jun–sep)",
       "description": "Dansk Jødisk Museum tells the story of Jewish life in Denmark over more than 400 years. Designed by architect Daniel Libeskind, the building's fragmented geometry reflects the complexity of Jewish-Danish history. A deeply moving and architecturally remarkable experience.",
-      "descriptionDa": "Dansk Jødisk Museum fortæller historien om jødisk liv i Danmark gennem mere end 400 år. Bygningen er tegnet af arkitekten Daniel Libeskind, og dens fragmenterede geometri afspejler den dansk-jødiske histories kompleksitet. En dybt bevægende og arkitektonisk bemærkelsesværdig oplevelse."
+      "descriptionDa": "Dansk Jødisk Museum fortæller historien om jødisk liv i Danmark gennem mere end 400 år. Bygningen er tegnet af arkitekten Daniel Libeskind, og dens fragmenterede geometri afspejler den dansk-jødiske histories kompleksitet. En dybt bevægende og arkitektonisk bemærkelsesværdig oplevelse.",
+      "openingHoursEn": "Wed–Sun 11–17 (Oct–May), Tue–Sun 10–17 (Jun–Sep)"
     },
     {
       "id": "P016",
@@ -368,12 +372,13 @@
       "latitude": 55.676,
       "longitude": 12.5788,
       "website": "https://www.kongernessamling.dk",
-      "price": "Gratis",
+      "price": "140 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": null,
+      "openingHours": "Tirs–søn 10–16 (vinter), dagligt 10–17 (sommer)",
       "description": "Den Kongelige Samling encompasses the royal palaces and their historic collections across Denmark. Visitors can explore the magnificent state rooms, royal art, and centuries of Danish royal history. A unique insight into the monarchy that has shaped the nation.",
-      "descriptionDa": "Den Kongelige Samling omfatter de kongelige slotte og deres historiske samlinger i hele Danmark. Besøgende kan udforske de pragtfulde statsgemakker, kongelig kunst og århundreders dansk kongehushistorie. Et unikt indblik i det monarki, der har præget nationen."
+      "descriptionDa": "Den Kongelige Samling omfatter de kongelige slotte og deres historiske samlinger i hele Danmark. Besøgende kan udforske de pragtfulde statsgemakker, kongelig kunst og århundreders dansk kongehushistorie. Et unikt indblik i det monarki, der har præget nationen.",
+      "openingHoursEn": "Tue–Sun 10–16 (winter), daily 10–17 (summer)"
     },
     {
       "id": "013",
@@ -442,12 +447,13 @@
       "latitude": 56.37,
       "longitude": 9.653,
       "website": "https://www.energimuseet.dk",
-      "price": null,
+      "price": "100 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": null,
+      "openingHours": "Sæsonåbent påske–okt",
       "description": "Energimuseet explores Denmark's energy history, from the first windmills and watermills to modern renewable energy. Located at a historic power station in Bjerringbro, it examines how energy has transformed society. A timely museum for understanding Denmark's green transition.",
-      "descriptionDa": "Energimuseet udforsker Danmarks energihistorie fra de første vindmøller og vandmøller til moderne vedvarende energi. Beliggende ved et historisk kraftværk i Bjerringbro undersøger det, hvordan energi har forvandlet samfundet. Et aktuelt museum for forståelsen af Danmarks grønne omstilling."
+      "descriptionDa": "Energimuseet udforsker Danmarks energihistorie fra de første vindmøller og vandmøller til moderne vedvarende energi. Beliggende ved et historisk kraftværk i Bjerringbro undersøger det, hvordan energi har forvandlet samfundet. Et aktuelt museum for forståelsen af Danmarks grønne omstilling.",
+      "openingHoursEn": "Seasonal Easter–Oct"
     },
     {
       "id": "015",
@@ -460,12 +466,13 @@
       "latitude": 55.4728,
       "longitude": 8.4528,
       "website": "https://www.eskum.dk",
-      "price": null,
+      "price": "90 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": null,
+      "openingHours": "Tirs–søn 10–16",
       "description": "Esbjerg Kunstmuseum holds one of Denmark's finest collections of Danish art from the late 19th century to the present. The museum is particularly strong in works by the Skagen painters and modern Danish artists. A bright, well-curated museum in the heart of Denmark's largest North Sea port.",
-      "descriptionDa": "Esbjerg Kunstmuseum rummer en af Danmarks fineste samlinger af dansk kunst fra slutningen af 1800-tallet til i dag. Museet er særligt stærkt inden for Skagensmalernes værker og moderne dansk kunst. Et lyst og velskøttet museum i hjertet af Danmarks største nordsøhavn."
+      "descriptionDa": "Esbjerg Kunstmuseum rummer en af Danmarks fineste samlinger af dansk kunst fra slutningen af 1800-tallet til i dag. Museet er særligt stærkt inden for Skagensmalernes værker og moderne dansk kunst. Et lyst og velskøttet museum i hjertet af Danmarks største nordsøhavn.",
+      "openingHoursEn": "Tue–Sun 10–16"
     },
     {
       "id": "P017",
@@ -500,9 +507,10 @@
       "price": null,
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": null,
+      "openingHours": "Tirs–søn 11–16",
       "description": "Faaborg Museum holds a significant collection of the Funen painters, a group of Danish artists who gathered in Faaborg around 1900. The museum itself was built to house their works, and the harmonious architecture reflects the ideals of the period. A gem of Danish art history.",
-      "descriptionDa": "Faaborg Museum rummer en betydelig samling af Fynbomalerne, en gruppe danske kunstnere, der samledes i Faaborg omkring 1900. Museet blev bygget til at huse deres værker, og den harmoniske arkitektur afspejler periodens idealer. Et klenodie i dansk kunsthistorie."
+      "descriptionDa": "Faaborg Museum rummer en betydelig samling af Fynbomalerne, en gruppe danske kunstnere, der samledes i Faaborg omkring 1900. Museet blev bygget til at huse deres værker, og den harmoniske arkitektur afspejler periodens idealer. Et klenodie i dansk kunsthistorie.",
+      "openingHoursEn": "Tue–Sun 11–16"
     },
     {
       "id": "016",
@@ -515,12 +523,13 @@
       "latitude": 55.4696,
       "longitude": 8.4181,
       "website": "https://www.fimus.dk",
-      "price": null,
+      "price": "175 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": null,
+      "openingHours": "Dagligt 10–17",
       "description": "Fiskeri- og Søfartsmuseet in Esbjerg is a sea aquarium and maritime museum combined. It tells the story of Denmark's fishing industry and seafaring traditions along the North Sea coast. The live seal pool is a favourite with visitors of all ages.",
-      "descriptionDa": "Fiskeri- og Søfartsmuseet i Esbjerg er en kombination af havaquarium og søfartsmuseum. Det fortæller historien om Danmarks fiskeriindustri og søfartstraditioner langs Nordsøkysten. Sæleanlægget med levende sæler er en favorit blandt besøgende i alle aldre."
+      "descriptionDa": "Fiskeri- og Søfartsmuseet i Esbjerg er en kombination af havaquarium og søfartsmuseum. Det fortæller historien om Danmarks fiskeriindustri og søfartstraditioner langs Nordsøkysten. Sæleanlægget med levende sæler er en favorit blandt besøgende i alle aldre.",
+      "openingHoursEn": "Daily 10–17"
     },
     {
       "id": "KH007",
@@ -533,12 +542,13 @@
       "latitude": 55.668,
       "longitude": 12.5621,
       "website": "https://www.fotografiskcenter.dk",
-      "price": "80 kr",
+      "price": "60 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": null,
+      "openingHours": "Tirs–ons og fre 12–18, tors 12–20, lør–søn 12–16",
       "description": "Fotografisk Center in Copenhagen is Denmark's leading centre for photography as an art form. The programme spans documentary, fine art, and experimental photography from Denmark and around the world. An essential destination for lovers of the photographic image.",
-      "descriptionDa": "Fotografisk Center i København er Danmarks førende center for fotografi som kunstform. Programmet spænder over dokumentarisk, billedkunstnerisk og eksperimenterende fotografi fra Danmark og hele verden. Et uomgængeligt mål for elskere af det fotografiske billede."
+      "descriptionDa": "Fotografisk Center i København er Danmarks førende center for fotografi som kunstform. Programmet spænder over dokumentarisk, billedkunstnerisk og eksperimenterende fotografi fra Danmark og hele verden. Et uomgængeligt mål for elskere af det fotografiske billede.",
+      "openingHoursEn": "Tue–Wed and Fri 12–18, Thu 12–20, Sat–Sun 12–16"
     },
     {
       "id": "017",
@@ -698,15 +708,16 @@
       "category": "kulturhistorie",
       "city": "Greve",
       "address": "Mosede Landevej 140, 2670 Greve",
-      "latitude": 55.59,
-      "longitude": 12.1283,
+      "latitude": 55.570969,
+      "longitude": 12.270431,
       "website": "https://www.grevemuseum.dk",
-      "price": null,
+      "price": "Gratis",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": null,
+      "openingHours": "Tirs–fre 11–15, lør–søn 11–16",
       "description": "Greve Museum documents the history of Greve municipality, from its prehistoric landscape to its modern development as a coastal suburb. The collection includes local archaeological finds, photographs, and everyday objects. A welcoming local museum with engaging community-focused exhibitions.",
-      "descriptionDa": "Greve Museum dokumenterer Greve kommunes historie fra det forhistoriske landskab til den moderne udvikling som kystforstad. Samlingen omfatter lokale arkæologiske fund, fotografier og hverdagsgenstande. Et imødekommende lokalmuseum med engagerende udstillinger med fokus på lokalsamfundet."
+      "descriptionDa": "Greve Museum dokumenterer Greve kommunes historie fra det forhistoriske landskab til den moderne udvikling som kystforstad. Samlingen omfatter lokale arkæologiske fund, fotografier og hverdagsgenstande. Et imødekommende lokalmuseum med engagerende udstillinger med fokus på lokalsamfundet.",
+      "openingHoursEn": "Tue–Fri 11–15, Sat–Sun 11–16"
     },
     {
       "id": "026",
@@ -813,12 +824,13 @@
       "latitude": 56.36,
       "longitude": 8.62,
       "website": "https://www.holstebro-kunstmuseum.dk",
-      "price": null,
+      "price": "110 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": null,
+      "openingHours": "Tirs–fre 12–16, lør–søn 11–17",
       "description": "Holstebro Kunstmuseum is a regionally important art museum with a collection spanning Danish and international modern art. Known for its adventurous exhibition programme and strong engagement with contemporary artists. A cultural hub in west Jutland.",
-      "descriptionDa": "Holstebro Kunstmuseum er et regionalt vigtigt kunstmuseum med en samling, der spænder over dansk og international moderne kunst. Museet er kendt for sit dristige udstillingsprogram og sit stærke engagement med nutidige kunstnere. Et kulturelt knudepunkt i Vestjylland."
+      "descriptionDa": "Holstebro Kunstmuseum er et regionalt vigtigt kunstmuseum med en samling, der spænder over dansk og international moderne kunst. Museet er kendt for sit dristige udstillingsprogram og sit stærke engagement med nutidige kunstnere. Et kulturelt knudepunkt i Vestjylland.",
+      "openingHoursEn": "Tue–Fri 12–16, Sat–Sun 11–17"
     },
     {
       "id": "P011",
@@ -910,9 +922,10 @@
       "price": null,
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": null,
+      "openingHours": "Tirs–søn 12–16",
       "description": "Kroppedal Museum explores the prehistory and astronomy history of the greater Copenhagen area. The museum is located near ancient burial mounds and the historic Rødovre Observatory. An unusual combination of archaeology and the history of science.",
-      "descriptionDa": "Kroppedal Museum udforsker forhistorien og astronomiens historie i Storkøbenhavn. Museet ligger nær oldtidshøje og det historiske Rødovre Observatorium. En usædvanlig kombination af arkæologi og videnskabshistorie."
+      "descriptionDa": "Kroppedal Museum udforsker forhistorien og astronomiens historie i Storkøbenhavn. Museet ligger nær oldtidshøje og det historiske Rødovre Observatorium. En usædvanlig kombination af arkæologi og videnskabshistorie.",
+      "openingHoursEn": "Tue–Sun 12–16"
     },
     {
       "id": "KH016",
@@ -1045,9 +1058,10 @@
       "price": "Gratis",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": null,
+      "openingHours": "Tors–fre 14–18, lør–søn 10–15",
       "description": "Kunsthal n in Copenhagen is a contemporary art space with a focused and adventurous programme of exhibitions. The gallery supports emerging and established artists in presenting ambitious new work. A dynamic and committed contemporary art venue.",
-      "descriptionDa": "Kunsthal n i København er et samtidskunstrum med et fokuseret og eksperimenterende udstillingsprogram. Galleriet støtter både nye og etablerede kunstnere i præsentationen af ambitiøse nye værker. Et dynamisk og engageret kunststed for samtidskunst."
+      "descriptionDa": "Kunsthal n i København er et samtidskunstrum med et fokuseret og eksperimenterende udstillingsprogram. Galleriet støtter både nye og etablerede kunstnere i præsentationen af ambitiøse nye værker. Et dynamisk og engageret kunststed for samtidskunst.",
+      "openingHoursEn": "Thu–Fri 14–18, Sat–Sun 10–15"
     },
     {
       "id": "034",
@@ -1116,12 +1130,13 @@
       "latitude": 56.5483,
       "longitude": 8.3097,
       "website": "https://www.lemvigmuseum.dk",
-      "price": null,
+      "price": "75 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": null,
+      "openingHours": "Apr–jun tirs–søn 10–15, jul–aug tirs–søn 10–17, sep–okt tirs–søn 10–16",
       "description": "Lemvig Museum explores the history of the Lemvig area on the western Jutland coast. Exhibitions cover local prehistory, the fishing industry, and everyday rural life through the centuries. A fine regional museum with strong community ties.",
-      "descriptionDa": "Lemvig Museum udforsker historien om Lemvig-området på den vestjyske kyst. Udstillingerne dækker lokal forhistorie, fiskerierhvervet og hverdagslivet på landet gennem århundrederne. Et fint regionalmuseum med stærke bånd til lokalsamfundet."
+      "descriptionDa": "Lemvig Museum udforsker historien om Lemvig-området på den vestjyske kyst. Udstillingerne dækker lokal forhistorie, fiskerierhvervet og hverdagslivet på landet gennem århundrederne. Et fint regionalmuseum med stærke bånd til lokalsamfundet.",
+      "openingHoursEn": "Apr–Jun Tue–Sun 10–15, Jul–Aug Tue–Sun 10–17, Sep–Oct Tue–Sun 10–16"
     },
     {
       "id": "037",
@@ -1134,12 +1149,13 @@
       "latitude": 56.9667,
       "longitude": 9.25,
       "website": "https://www.limfjordsmuseet.dk",
-      "price": null,
+      "price": "60–80 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": null,
+      "openingHours": "Lør–søn 10–17 (påske–okt), dagligt 10–17 (mid-jun–aug)",
       "description": "Limfjordsmuseet in Løgstør is dedicated to the history and ecology of the Limfjord, the great waterway that cuts across northern Jutland. Exhibits explore fishing, navigation, and the unique environment of this remarkable inland sea. An engaging museum for anyone curious about Danish coastal life.",
-      "descriptionDa": "Limfjordsmuseet i Løgstør er helliget historien og økologien omkring Limfjorden, det store vandløb der skærer tværs gennem det nordlige Jylland. Udstillingerne udforsker fiskeri, sejlads og det unikke miljø i dette bemærkelsesværdige inderhav. Et engagerende museum for enhver med interesse for det danske kystliv."
+      "descriptionDa": "Limfjordsmuseet i Løgstør er helliget historien og økologien omkring Limfjorden, det store vandløb der skærer tværs gennem det nordlige Jylland. Udstillingerne udforsker fiskeri, sejlads og det unikke miljø i dette bemærkelsesværdige inderhav. Et engagerende museum for enhver med interesse for det danske kystliv.",
+      "openingHoursEn": "Sat–Sun 10–17 (Easter–Oct), daily 10–17 (mid-Jun–Aug)"
     },
     {
       "id": "038",
@@ -1227,7 +1243,7 @@
       "latitude": 54.8597,
       "longitude": 10.5183,
       "website": "https://www.marstal-sofartsmuseum.dk",
-      "price": null,
+      "price": "70 kr",
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": null,
@@ -1264,12 +1280,13 @@
       "latitude": 55.5042,
       "longitude": 9.7283,
       "website": "https://www.middelfartmuseum.dk",
-      "price": null,
+      "price": "30–50 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": null,
+      "openingHours": "Tirs–fre 12–16, lør 11–17 (maj–okt)",
       "description": "Middelfart Museum explores the history of the town and region of Middelfart, including its once-thriving porpoise hunting industry. Housed in historic merchant's premises, the museum offers a vivid portrait of small-town Danish life across the centuries. A charming and distinctive regional museum.",
-      "descriptionDa": "Middelfart Museum udforsker historien om byen og egnen ved Middelfart, herunder byens tidligere blomstrende marsvinsjagt. Museet er indrettet i historiske købmandslokaler og tegner et levende billede af det lille danske bysamfund gennem århundrederne. Et charmerende og særpræget regionalmuseum."
+      "descriptionDa": "Middelfart Museum udforsker historien om byen og egnen ved Middelfart, herunder byens tidligere blomstrende marsvinsjagt. Museet er indrettet i historiske købmandslokaler og tegner et levende billede af det lille danske bysamfund gennem århundrederne. Et charmerende og særpræget regionalmuseum.",
+      "openingHoursEn": "Tue–Fri 12–16, Sat 11–17 (May–Oct)"
     },
     {
       "id": "044",
@@ -1339,12 +1356,13 @@
       "latitude": 55.6415,
       "longitude": 12.0803,
       "website": "https://www.samtidskunst.dk",
-      "price": null,
+      "price": "50 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": null,
+      "openingHours": "Tirs, tors–fre 12–17, ons 12–20, lør–søn 11–16",
       "description": "Museet for Samtidskunst in Roskilde is dedicated to contemporary art with a strong focus on experimental and site-specific works. The museum engages actively with living artists and fosters dialogue between art and society. A progressive and thought-provoking cultural institution.",
-      "descriptionDa": "Museet for Samtidskunst i Roskilde er dedikeret til samtidskunst med et stærkt fokus på eksperimenterende og stedsspecifikke værker. Museet engagerer sig aktivt med levende kunstnere og fremmer dialogen mellem kunst og samfund. En progressiv og tankevækkende kulturinstitution."
+      "descriptionDa": "Museet for Samtidskunst i Roskilde er dedikeret til samtidskunst med et stærkt fokus på eksperimenterende og stedsspecifikke værker. Museet engagerer sig aktivt med levende kunstnere og fremmer dialogen mellem kunst og samfund. En progressiv og tankevækkende kulturinstitution.",
+      "openingHoursEn": "Tue, Thu–Fri 12–17, Wed 12–20, Sat–Sun 11–16"
     },
     {
       "id": "047",
@@ -1469,12 +1487,13 @@
       "latitude": 56.1729,
       "longitude": 9.5506,
       "website": "https://www.museumsilkeborg.dk",
-      "price": null,
+      "price": "100 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": null,
+      "openingHours": "Tirs–søn 11–16",
       "description": "Museum Silkeborg holds a rich collection of local history and contemporary art, as well as the famous Tollund Man, one of the world's best-preserved bog bodies. The museum tells the story of Silkeborg and the surrounding Jutland lake district. The Tollund Man alone makes this a world-class attraction.",
-      "descriptionDa": "Museum Silkeborg rummer en rig samling af lokalhistorie og samtidskunst samt den berømte Tollundmand, et af verdens bedst bevarede moseligt. Museet fortæller historien om Silkeborg og det omgivende jyske søhøjland. Alene Tollundmanden gør dette til en verdensklasseatttraktion."
+      "descriptionDa": "Museum Silkeborg rummer en rig samling af lokalhistorie og samtidskunst samt den berømte Tollundmand, et af verdens bedst bevarede moseligt. Museet fortæller historien om Silkeborg og det omgivende jyske søhøjland. Alene Tollundmanden gør dette til en verdensklasseatttraktion.",
+      "openingHoursEn": "Tue–Sun 11–16"
     },
     {
       "id": "053",
@@ -1523,12 +1542,13 @@
       "latitude": 55.2714,
       "longitude": 9.9,
       "website": "https://www.museumvestfyn.dk",
-      "price": null,
+      "price": "50–95 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": null,
+      "openingHours": "Lør–søn 10–16 (apr–jun), dagligt 10–16 (jun–okt)",
       "description": "Museum Vestfyn explores the history and culture of western Funen, a landscape of rolling hills, manor houses, and traditional Danish countryside. The museum's collections span local prehistory to the recent past. A charming museum destination in some of Denmark's most picturesque countryside.",
-      "descriptionDa": "Museum Vestfyn udforsker det vestfynske lands historie og kultur – et landskab af bølgende bakker, herregårde og traditionelt dansk landdistrikt. Museets samlinger spænder fra den lokale oldtid til nyere tid. Et charmerende besøgsmål i noget af Danmarks mest maleriske landskab."
+      "descriptionDa": "Museum Vestfyn udforsker det vestfynske lands historie og kultur – et landskab af bølgende bakker, herregårde og traditionelt dansk landdistrikt. Museets samlinger spænder fra den lokale oldtid til nyere tid. Et charmerende besøgsmål i noget af Danmarks mest maleriske landskab.",
+      "openingHoursEn": "Sat–Sun 10–16 (Apr–Jun), daily 10–16 (Jun–Oct)"
     },
     {
       "id": "056",
@@ -2165,12 +2185,13 @@
       "latitude": 55.485,
       "longitude": 9.1467,
       "website": "https://www.vejenkunstmuseum.dk",
-      "price": null,
+      "price": "50 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": null,
+      "openingHours": "Tirs–fre 10–16, lør–søn 11–17",
       "description": "Vejen Kunstmuseum holds an important collection of Danish sculpture and painting from the late 19th century to the present. The museum is particularly known for its collection of works by the sculptor Niels Hansen Jacobsen. A fine regional museum punching well above its weight.",
-      "descriptionDa": "Vejen Kunstmuseum besidder en vigtig samling af dansk skulptur og maleri fra slutningen af det 19. århundrede til i dag. Museet er særligt kendt for sin samling af værker af billedhuggeren Niels Hansen Jacobsen. Et fint regionalt museum der leverer langt over forventning."
+      "descriptionDa": "Vejen Kunstmuseum besidder en vigtig samling af dansk skulptur og maleri fra slutningen af det 19. århundrede til i dag. Museet er særligt kendt for sin samling af værker af billedhuggeren Niels Hansen Jacobsen. Et fint regionalt museum der leverer langt over forventning.",
+      "openingHoursEn": "Tue–Fri 10–16, Sat–Sun 11–17"
     },
     {
       "id": "079",
@@ -2201,12 +2222,13 @@
       "latitude": 57.465,
       "longitude": 9.985,
       "website": "https://www.vendsysselkunstmuseum.dk",
-      "price": null,
+      "price": "90 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": null,
+      "openingHours": "Tirs–søn 11–16",
       "description": "Vendsyssel Kunstmuseum in Hjørring presents Danish and international art with a focus on the 20th and 21st centuries. The museum runs an ambitious exhibition programme and manages a growing collection. A culturally vibrant institution in the northernmost part of mainland Denmark.",
-      "descriptionDa": "Vendsyssel Kunstmuseum i Hjørring præsenterer dansk og international kunst med fokus på det 20. og 21. århundrede. Museet driver et ambitiøst udstillingsprogram og forvalter en voksende samling. En kulturelt levende institution i det nordligste af det danske fastland."
+      "descriptionDa": "Vendsyssel Kunstmuseum i Hjørring præsenterer dansk og international kunst med fokus på det 20. og 21. århundrede. Museet driver et ambitiøst udstillingsprogram og forvalter en voksende samling. En kulturelt levende institution i det nordligste af det danske fastland.",
+      "openingHoursEn": "Tue–Sun 11–16"
     },
     {
       "id": "KH012",
@@ -2359,9 +2381,10 @@
       "price": null,
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": null,
+      "openingHours": "Sæsonåbent jun–okt",
       "description": "Ærø Museum on the island of Ærø documents the maritime and cultural history of this charming island. From its seafaring heyday to its present-day reputation as a peaceful rural retreat, the museum celebrates Ærø's distinctive island character. A delightful destination in the south Danish archipelago.",
-      "descriptionDa": "Ærø Museum på øen Ærø dokumenterer den maritime og kulturhistorie på denne charmerende ø. Fra sejladsens storhedstid til øens nuværende ry som et fredeligt landligt tilflugtssted fejrer museet Ærøs særprægede økarakter. Et dejligt udflugtsmål i det syddanske øhav."
+      "descriptionDa": "Ærø Museum på øen Ærø dokumenterer den maritime og kulturhistorie på denne charmerende ø. Fra sejladsens storhedstid til øens nuværende ry som et fredeligt landligt tilflugtssted fejrer museet Ærøs særprægede økarakter. Et dejligt udflugtsmål i det syddanske øhav.",
+      "openingHoursEn": "Seasonal Jun–Oct"
     },
     {
       "id": "085",
@@ -2407,8 +2430,8 @@
       "category": "kulturhistorie",
       "city": "Store Heddinge",
       "address": "Algade 7, 4660 Store Heddinge",
-      "latitude": 55.31,
-      "longitude": 12.194,
+      "latitude": 55.310861,
+      "longitude": 12.389492,
       "website": "https://www.oesm.dk",
       "price": null,
       "freeDay": null,
