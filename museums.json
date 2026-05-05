@@ -2428,9 +2428,10 @@
       "descriptionDa": "Trapholt i Kolding er et ledende dansk museum for moderne kunst, design, kunsthåndværk og møbler. Samlingen er særligt stærk inden for dansk møbeldesign fra midten af det 20. århundrede, med en fremragende samling af stole. Smukt beliggende ved bredden af Kolding Fjord.",
       "openingHoursEn": "Tuesday–Sunday 10–17",
       "categories": [
+        "kunst",
         "design"
       ],
-      "category": "design"
+      "category": "kunst"
     },
     {
       "id": "P020",
