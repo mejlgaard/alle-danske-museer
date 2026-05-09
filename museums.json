@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "museums": [
     {
       "id": "002",
@@ -6653,6 +6653,28 @@
       "openingHours": null,
       "description": "Havnø Mølle is a historic mill complex near Hadsund at Mariager Fjord, preserving the milling traditions of the Himmerland region. The idyllic setting and intact machinery give a direct experience of pre-industrial food production. Part of Nordjyllands Historiske Museum.",
       "descriptionDa": "Havnø Mølle er et historisk mølleanlæg nær Hadsund ved Mariager Fjord og bevarer mølleritraditionen i Himmerland. Den idylliske beliggenhed og intakte maskineri giver en direkte oplevelse af før-industriel fødevareproduktion. En del af Nordjyllands Historiske Museum.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
+    },
+    {
+      "id": "S217",
+      "name": "Køng Museum",
+      "nameEn": "Køng Museum",
+      "type": "statsanerkendt",
+      "city": "Lundby",
+      "address": "Bygaden 27, 4750 Lundby",
+      "latitude": 55.1098,
+      "longitude": 11.8257,
+      "website": "https://www.koengmuseum.dk",
+      "price": "60 kr",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Fredag–søndag og helligdage 11–16 (april–oktober)",
+      "openingHoursEn": "Friday–Sunday and public holidays 11–16 (April–October)",
+      "description": "Køng Museum is housed in Gl. Øbjerggaard, an 18th-century neoclassical building that served as the administrative centre of Køng Fabrik, a renowned linen factory founded by merchant Niels Ryberg in 1783. The museum presents the history of flax and linen production through permanent exhibitions and rotating displays of contemporary textile art. The factory was a pioneering social enterprise that provided education and employment to the rural poor.",
+      "descriptionDa": "Køng Museum ligger i Gl. Øbjerggaard, en klassicistisk bygning fra 1700-tallet, der fungerede som administrationsbygning for Køng Fabrik — en berømt linnedvirksomhed grundlagt af købmanden Niels Ryberg i 1783. Museet viser horens og linnedets historie gennem faste udstillinger og skiftende udstillinger med samtidskunst med fokus på tekstiler. Fabrikken var en banebrydende social virksomhed, der gav uddannelse og beskæftigelse til den fattige landbefolkning.",
       "categories": [
         "kulturhistorie"
       ],
