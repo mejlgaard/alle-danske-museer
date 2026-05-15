@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "museums": [
     {
       "id": "002",
@@ -4536,14 +4536,14 @@
       "type": "privat",
       "city": "København",
       "address": "Fælledvej 20, 2200 København N",
-      "latitude": 55.6973,
-      "longitude": 12.5522,
-      "website": "https://www.politimuseet.dk",
-      "price": "40 kr",
+      "latitude": 55.6901,
+      "longitude": 12.5608,
+      "website": "https://politi.dk/om-politiet/politimuseet",
+      "price": "80 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": "Onsdag og søndag 11–16",
-      "openingHoursEn": "Wednesday and Sunday 11–16",
+      "openingHours": "Tirsdag, torsdag, lørdag og søndag 11–16",
+      "openingHoursEn": "Tuesday, Thursday, Saturday and Sunday 11–16",
       "description": "Politimuseet in Copenhagen documents the history of the Danish police from its earliest origins to the present day. Collections include uniforms, equipment, and artefacts relating to famous criminal cases. A fascinating specialist museum for those interested in law and order.",
       "descriptionDa": "Politimuseet i København dokumenterer det danske politis historie fra dets tidligste oprindelse til i dag. Samlingerne omfatter uniformer, udstyr og genstande knyttet til berømte kriminalsager. Et fascinerende specialmuseum for dem med interesse for lov og orden.",
       "categories": [
