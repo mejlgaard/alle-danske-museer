@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "museums": [
     {
       "id": "002",
@@ -3370,8 +3370,8 @@
       "type": "statsanerkendt",
       "city": "Aakirkeby",
       "address": "Grønningen 30, 3720 Aakirkeby",
-      "latitude": 55.0734,
-      "longitude": 14.9326,
+      "latitude": 55.0642,
+      "longitude": 14.9174,
       "website": "https://www.naturbornholm.dk",
       "price": "165 kr",
       "freeDay": null,
@@ -4558,8 +4558,8 @@
       "type": "privat",
       "city": "Gudhjem",
       "address": "Stangevej 1, 3760 Gudhjem",
-      "latitude": 55.2264,
-      "longitude": 14.9872,
+      "latitude": 55.1753,
+      "longitude": 14.9566,
       "website": "https://www.bornholmsmiddelaldercenter.dk",
       "price": "120 kr",
       "freeDay": null,
@@ -6696,6 +6696,50 @@
       "openingHours": null,
       "description": "Lystfartøjsmuseet in Hobro at Mariager Fjord presents the history of recreational sailing and pleasure crafts in Denmark, with a collection of historic boats and equipment. Part of Nordjyllands Historiske Museum.",
       "descriptionDa": "Lystfartøjsmuseet i Hobro ved Mariager Fjord præsenterer historien om lystfart og fritidssejlads i Danmark med en samling af historiske både og udstyr. En del af Nordjyllands Historiske Museum.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
+    },
+    {
+      "id": "P075",
+      "name": "Memphis Mansion",
+      "nameEn": "Memphis Mansion",
+      "type": "privat",
+      "city": "Randers",
+      "address": "Graceland Randers Vej 3, 8960 Randers SØ",
+      "latitude": 56.4334,
+      "longitude": 10.0542,
+      "website": "https://www.memphismansion.dk",
+      "price": "145 kr",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Dagligt 10–18",
+      "openingHoursEn": "Daily 10–18",
+      "description": "Memphis Mansion is a tribute to Elvis Presley and Johnny Cash, housing the only permanent Elvis and Johnny Cash museums outside of the United States. The privately-owned collection features approximately 6,000 pieces of memorabilia counted among the ten largest Elvis collections in the world, including costumes, personal items, and gold records. The venue also includes a replica of Elvis's childhood home in Tupelo and a American-style diner.",
+      "descriptionDa": "Memphis Mansion er en hyldest til Elvis Presley og Johnny Cash og huser de eneste permanente Elvis- og Johnny Cash-museer uden for USA. Den privatejede samling indeholder cirka 6.000 genstande, der tæller blandt verdens ti største Elvis-samlinger, herunder kostumer, personlige ejendele og guldplader. Stedet rummer også en kopi af Elvis' barndomshjem i Tupelo samt en amerikansk diner.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
+    },
+    {
+      "id": "089",
+      "name": "Danmarks Forsorgsmuseum",
+      "nameEn": "The Danish Welfare Museum",
+      "type": "statsanerkendt",
+      "city": "Svendborg",
+      "address": "Grubbemøllevej 13, 5700 Svendborg",
+      "latitude": 55.0623,
+      "longitude": 10.6034,
+      "website": "https://forsorgsmuseet.dk",
+      "price": "125 kr",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Tirsdag–søndag 10–16",
+      "openingHoursEn": "Tuesday–Sunday 10–16",
+      "description": "Danmarks Forsorgsmuseum is housed in the Nordic region's best-preserved former poorhouse and labour institution complex, built in 1872 in Svendborg. The museum documents how Danish society addressed the needs of its most marginalized populations, from the poorhouse era to the modern welfare state. Through original buildings, objects, and personal accounts, visitors experience welfare history from 1872 until the institution closed in 1974.",
+      "descriptionDa": "Danmarks Forsorgsmuseum er indrettet i Nordens bedst bevarede tidligere fattighus og arbejdsanstalt, opført i 1872 i Svendborg. Museet dokumenterer, hvordan det danske samfund tog sig af sine mest udsatte borgere, fra fattighusenes tid til den moderne velfærdsstat. Gennem originale bygninger, genstande og personlige beretninger oplever besøgende velfærdshistorien fra 1872 til institutionens lukning i 1974.",
       "categories": [
         "kulturhistorie"
       ],
