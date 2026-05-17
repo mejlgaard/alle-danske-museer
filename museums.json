@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "museums": [
     {
       "id": "002",
@@ -4690,8 +4690,8 @@
       "type": "privat",
       "city": "Gudhjem",
       "address": "Løkkegade 35, 3760 Gudhjem",
-      "latitude": 55.2251,
-      "longitude": 14.9839,
+      "latitude": 55.2137,
+      "longitude": 14.9666,
       "website": "https://www.bornholmsmuseum.dk/oluf-hoest-museet",
       "price": "75 kr",
       "freeDay": null,
