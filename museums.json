@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 18,
   "museums": [
     {
       "id": "002",
@@ -6744,6 +6744,118 @@
         "kulturhistorie"
       ],
       "category": "kulturhistorie"
+    },
+    {
+      "id": "090",
+      "name": "MIND – Psykiatrimuseet",
+      "nameEn": "MIND – The Psychiatric Museum",
+      "type": "statsanerkendt",
+      "city": "Middelfart",
+      "address": "Teglgårdsparken 17, 5500 Middelfart",
+      "latitude": 55.5090,
+      "longitude": 9.7430,
+      "website": "https://www.middelfart-museum.dk/mind",
+      "price": null,
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": null,
+      "openingHoursEn": null,
+      "description": "MIND is a new museum about the history of psychiatry and mental well-being, housed in the protected historic women's ward from 1888 in Teglgårdsparken. The museum holds Denmark's largest collection of psychiatric history objects, telling the story of psychiatry from the perspective of patients, relatives, and staff. A multifunctional museum combining exhibitions, debate, and knowledge sharing.",
+      "descriptionDa": "MIND er et nyt museum om psykiatrihistorie og mental trivsel, indrettet i den fredede historiske kvindepavillon fra 1888 i Teglgårdsparken. Museet råder over Danmarks største samling af psykiatrihistoriske genstande og fortæller historien om psykiatri fra patienternes, de pårørendes og personalets perspektiv. Et multifunktionelt museum der kombinerer udstillinger, debat og vidensdeling.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
+    },
+    {
+      "id": "091",
+      "name": "Rødvig Skibsmotormuseum",
+      "nameEn": "Rødvig Ship Engine Museum",
+      "type": "privat",
+      "city": "Rødvig Stevns",
+      "address": "Havnevej 7, 4673 Rødvig Stevns",
+      "latitude": 55.2605,
+      "longitude": 12.3476,
+      "website": "https://www.skibsmotor.dk",
+      "price": "25 kr",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Maj–aug: fre–søn 10:30–16, ons 18–20 (hele året)",
+      "openingHoursEn": "May–Aug: Fri–Sun 10:30–16, Wed 18–20 (year-round)",
+      "description": "Rødvig Ship Engine Museum is a unique museum with over 300 preserved ship engines from the period 1903 to 1973. The collection, established by volunteers, features engines from the classic fishing boats and merchant vessels that once sailed Danish waters. A special experience for maritime enthusiasts and technology lovers.",
+      "descriptionDa": "Rødvig Skibsmotormuseum er et unikt museum med over 300 bevarede skibsmotorer fra perioden 1903 til 1973. Samlingen er opbygget af frivillige og rummer motorer fra de klassiske fiskekuttere og handelsskibe, der engang sejlede på de danske farvande. En særlig oplevelse for maritime entusiaster og teknologiinteresserede.",
+      "categories": [
+        "søfart",
+        "teknologi"
+      ],
+      "category": "søfart"
+    },
+    {
+      "id": "092",
+      "name": "Souvenirmuseet Souvenariet",
+      "nameEn": "Souvenir Museum Souvenariet",
+      "type": "privat",
+      "city": "Tranekær",
+      "address": "Slotsgade 84B, 5953 Tranekær",
+      "latitude": 54.9996,
+      "longitude": 10.8540,
+      "website": "https://www.souvenariet.dk",
+      "price": null,
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "27. jun–29. aug, samt uge 42 (efterårsferie) — tider ikke oplyst",
+      "openingHoursEn": "27 Jun–29 Aug, and week 42 (autumn half-term) — times not available",
+      "description": "Souvenir Museum Souvenariet is located in the Old Theatre Building at Tranekær Castle on Langeland and holds over 3,000 souvenirs from around the world. The collection, built by journalist Hans Rossen, ranges from classic tourist memorabilia to customs-seized items made from endangered species. A colourful and entertaining museum that brings a smile.",
+      "descriptionDa": "Souvenirmuseet Souvenariet er indrettet i Den Gamle Teaterbygning ved Tranekær Slot på Langeland og rummer over 3.000 souvenirs fra hele verden. Samlingen er opbygget af journalist Hans Rossen og viser alt fra klassiske turistminder til konfiskerede toldsager fra truede dyrearter. Et farverigt og underholdende museum der vækker smilet.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
+    },
+    {
+      "id": "093",
+      "name": "DieselHouse",
+      "nameEn": "DieselHouse",
+      "type": "privat",
+      "city": "København SV",
+      "address": "Elværksvej 50, 2450 København SV",
+      "latitude": 55.6530,
+      "longitude": 12.5440,
+      "website": "https://dieselhouse.dk",
+      "price": "Gratis",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Torsdag 10–16, 1. og 3. søndag 10–13:30 (feb–jun)",
+      "openingHoursEn": "Thursday 10–16, 1st and 3rd Sunday 10–13:30 (Feb–Jun)",
+      "description": "DieselHouse is a knowledge and experience centre built around a monumental B&W diesel engine from 1932, housed in the historic Elværket power station in Copenhagen's Sydhavn. The museum tells the story of the diesel engine's impact on Danish industry and the wider world. Free guided tours are offered on Thursdays and selected Sundays.",
+      "descriptionDa": "DieselHouse er et videns- og oplevelsescenter opbygget om en monumental B&W-dieselmotor fra 1932, indrettet i det historiske Elværket i Sydhavn. Museet fortæller historien om dieselmotorens betydning for dansk industri og verden. Gratis guidede rundvisninger tilbydes om torsdagen og udvalgte søndage.",
+      "categories": [
+        "teknologi",
+        "kulturhistorie"
+      ],
+      "category": "teknologi"
+    },
+    {
+      "id": "094",
+      "name": "Skibene på Holmen",
+      "nameEn": "Ships at Holmen",
+      "type": "statsanerkendt",
+      "city": "København K",
+      "address": "Elefanten 2, 1439 København K",
+      "latitude": 55.6913,
+      "longitude": 12.5921,
+      "website": "https://skibenepaaholmen.dk",
+      "price": "160 kr",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Dagligt 11–17 (22. jun–1. sep)",
+      "openingHoursEn": "Daily 11–17 (22 Jun–1 Sep)",
+      "description": "Skibene på Holmen is a floating museum on the historic Nyholm in Copenhagen, where visitors can explore the frigate Peder Skram, the torpedo missile boat Sehested, and the submarine Sælen. Denmark's largest Cold War naval museum, offering a unique insight into the Danish Navy's history during the 20th century.",
+      "descriptionDa": "Skibene på Holmen er et flydende museum på det historiske Nyholm i København, hvor besøgende kan udforske fregatten Peder Skram, torpedomissilbåden Sehested og ubåden Sælen. Danmarks største koldkrigsmarinemuseum giver et unikt indblik i den danske flådes historie i det 20. århundrede.",
+      "categories": [
+        "søfart"
+      ],
+      "category": "søfart"
     }
   ]
 }
