@@ -6289,13 +6289,13 @@
       "address": "Slotsgade 20, 6100 Haderslev",
       "latitude": 55.2498,
       "longitude": 9.4908,
-      "website": "https://msj.dk",
-      "price": null,
+      "website": "https://www.historiehaderslev.dk",
+      "price": "70 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": null,
-      "description": "Ehlers Lertøjssamling (the Ehlers Collection) in Haderslev holds Northern Europe's largest collection of historic Danish and north German earthenware, housed in one of the town's oldest buildings. It is part of Historie Haderslev under Haderslev Municipality.",
-      "descriptionDa": "Ehlers Lertøjssamling (Ehlers Samlingen) i Haderslev rummer Nordeuropas største samling af historisk dansk og nordtysk lertøj, indrettet i en af byens ældste bygninger. Den er en del af Historie Haderslev under Haderslev Kommune.",
+      "openingHours": "1. februar–21. december: tirsdag–søndag 12–16 (lukket mandag); uge 27–35: dagligt 10–16",
+      "description": "Ehlers Lertøjssamling (the Ehlers Collection) in Haderslev holds Northern Europe's largest collection of earthenware, with pottery and ceramic art from Denmark and north Germany spanning more than 500 years. The collection was bequeathed to the town by Louis Ehlers and is housed in one of Haderslev's oldest buildings. Part of Historie Haderslev under Haderslev Municipality; the ticket also gives access to the nearby von Oberbergs Hus.",
+      "descriptionDa": "Ehlers Lertøjssamling (Ehlers Samlingen) i Haderslev rummer Nordeuropas største samling af lertøj med keramik og lerkunst fra Danmark og Nordtyskland gennem mere end 500 år. Samlingen blev testamenteret til byen af Louis Ehlers og er indrettet i en af Haderslevs ældste bygninger. En del af Historie Haderslev under Haderslev Kommune; billetten giver også adgang til det nærliggende von Oberbergs Hus.",
       "categories": [
         "kulturhistorie"
       ],
