@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "museums": [
     {
       "id": "002",
@@ -1558,28 +1558,6 @@
         "kulturhistorie"
       ],
       "category": "kulturhistorie"
-    },
-    {
-      "id": "046",
-      "name": "Museet for Samtidskunst",
-      "nameEn": "Museum of Contemporary Art",
-      "type": "statsanerkendt",
-      "city": "Roskilde",
-      "address": "Stændertorvet 3D, 4000 Roskilde",
-      "latitude": 55.6415,
-      "longitude": 12.0803,
-      "website": "https://www.samtidskunst.dk",
-      "price": "50 kr",
-      "freeDay": null,
-      "freeDayWeekday": null,
-      "openingHours": "Tirs, tors–fre 12–17, ons 12–20, lør–søn 11–16",
-      "description": "Museet for Samtidskunst in Roskilde is dedicated to contemporary art with a strong focus on experimental and site-specific works. The museum engages actively with living artists and fosters dialogue between art and society. A progressive and thought-provoking cultural institution.",
-      "descriptionDa": "Museet for Samtidskunst i Roskilde er dedikeret til samtidskunst med et stærkt fokus på eksperimenterende og stedsspecifikke værker. Museet engagerer sig aktivt med levende kunstnere og fremmer dialogen mellem kunst og samfund. En progressiv og tankevækkende kulturinstitution.",
-      "openingHoursEn": "Tue, Thu–Fri 12–17, Wed 12–20, Sat–Sun 11–16",
-      "categories": [
-        "kunst"
-      ],
-      "category": "kunst"
     },
     {
       "id": "047",
