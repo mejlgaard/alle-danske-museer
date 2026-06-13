@@ -1,5 +1,5 @@
 {
-  "version": 31,
+  "version": 32,
   "museums": [
     {
       "id": "002",
@@ -1238,10 +1238,10 @@
       "nameEn": "KØN – Gender Museum Denmark",
       "type": "statsanerkendt",
       "city": "Aarhus",
-      "address": "Strandvejen 3, 8000 Aarhus C",
-      "latitude": 56.1629,
-      "longitude": 10.2039,
-      "website": "https://www.koen.dk",
+      "address": "Domkirkepladsen 5, 8000 Aarhus C",
+      "latitude": 56.1572,
+      "longitude": 10.2114,
+      "website": "https://konmuseum.dk",
       "price": "95 kr",
       "freeDay": null,
       "freeDayWeekday": null,
@@ -1260,11 +1260,11 @@
       "nameEn": "Museum of Copenhagen",
       "type": "statsanerkendt",
       "city": "København",
-      "address": "Vesterbrogade 59, 1620 København V",
-      "latitude": 55.6736,
-      "longitude": 12.5649,
-      "website": "https://www.copenhagen.museum.dk",
-      "price": "Gratis",
+      "address": "Stormgade 18, 1555 København V",
+      "latitude": 55.6743,
+      "longitude": 12.5726,
+      "website": "https://cphmuseum.kk.dk",
+      "price": "110 kr",
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–17",
@@ -3627,28 +3627,6 @@
         "søfart"
       ],
       "category": "søfart"
-    },
-    {
-      "id": "S126",
-      "name": "KØS Museum for Kunst i det Offentlige Rum",
-      "nameEn": "KØS Museum of Art in Public Spaces",
-      "type": "statsanerkendt",
-      "city": "Køge",
-      "address": "Nørregade 29, 4600 Køge",
-      "latitude": 55.4581,
-      "longitude": 12.1843,
-      "website": "https://www.koes.dk",
-      "price": "80 kr",
-      "freeDay": null,
-      "freeDayWeekday": null,
-      "openingHours": "Tirsdag–fredag 10–17, lørdag–søndag 11–17",
-      "openingHoursEn": "Tuesday–Friday 10–17, Saturday–Sunday 11–17",
-      "description": "KØS Museum for Kunst i det Offentlige Rum in Køge is dedicated to art in public spaces. The collection spans Danish and international works created for public environments, from monumental sculptures to urban installations. A thought-provoking museum that connects art with everyday life.",
-      "descriptionDa": "KØS Museum for Kunst i det Offentlige Rum i Køge er dedikeret til kunst i det offentlige rum. Samlingen spænder over danske og internationale værker skabt til offentlige miljøer, fra monumentale skulpturer til urbane installationer. Et tankevækkende museum der forbinder kunst med hverdagslivet.",
-      "categories": [
-        "kunst"
-      ],
-      "category": "kunst"
     },
     {
       "id": "S127",
