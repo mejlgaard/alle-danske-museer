@@ -1,5 +1,5 @@
 {
-  "version": 38,
+  "version": 39,
   "museums": [
     {
       "id": "002",
@@ -2854,8 +2854,8 @@
     },
     {
       "id": "S094",
-      "name": "Nationalmuseet",
-      "nameEn": "National Museum of Denmark",
+      "name": "Prinsens Palais",
+      "nameEn": null,
       "type": "statsanerkendt",
       "city": "København",
       "address": "Ny Vestergade 10, 1471 København K",
