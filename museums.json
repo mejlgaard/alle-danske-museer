@@ -1,5 +1,5 @@
 {
-  "version": 42,
+  "version": 43,
   "museums": [
     {
       "id": "002",
@@ -5170,29 +5170,6 @@
       "category": "kulturhistorie"
     },
     {
-      "id": "P048",
-      "name": "Historisk Arkiv for Rudersdal Kommune",
-      "nameEn": null,
-      "type": "statsanerkendt",
-      "city": "Nærum",
-      "address": "Biblioteksalléen 1, 2850 Nærum",
-      "latitude": 55.816295,
-      "longitude": 12.539475,
-      "website": "https://www.rudersdal-museer.dk",
-      "price": null,
-      "freeDay": null,
-      "freeDayEn": null,
-      "freeDayWeekday": null,
-      "openingHours": "Tirsdag–torsdag 10–14",
-      "openingHoursEn": "Tuesday–Thursday 10–14",
-      "description": null,
-      "descriptionDa": null,
-      "categories": [
-        "kulturhistorie"
-      ],
-      "category": "kulturhistorie"
-    },
-    {
       "id": "P049",
       "name": "Mosegaarden i Værløse",
       "nameEn": null,
@@ -5438,29 +5415,6 @@
       "freeDayWeekday": null,
       "openingHours": "Tirs–søn 10–16",
       "openingHoursEn": "Tue–Sun 10–16",
-      "description": null,
-      "descriptionDa": null,
-      "categories": [
-        "kulturhistorie"
-      ],
-      "category": "kulturhistorie"
-    },
-    {
-      "id": "P060",
-      "name": "Snublesten",
-      "nameEn": null,
-      "type": "statsanerkendt",
-      "city": "Skagen",
-      "address": "Vestre Strandvej 36, 9990 Skagen",
-      "latitude": 57.717458,
-      "longitude": 10.581179,
-      "website": "https://www.kystmuseet.dk",
-      "price": "Gratis",
-      "freeDay": null,
-      "freeDayEn": null,
-      "freeDayWeekday": null,
-      "openingHours": "Sæsonåbent — se hjemmeside",
-      "openingHoursEn": "Seasonal — see website",
       "description": null,
       "descriptionDa": null,
       "categories": [
