@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "museums": [
     {
       "id": "002",
@@ -1477,10 +1477,10 @@
       "nameEn": null,
       "type": "statsanerkendt",
       "city": "Middelfart",
-      "address": "Algade 6, 5500 Middelfart",
+      "address": "Algade 8, 5500 Middelfart",
       "latitude": 55.5042,
       "longitude": 9.7283,
-      "website": "https://www.middelfartmuseum.dk",
+      "website": "https://www.middelfart-museum.dk",
       "price": "30–50 kr",
       "freeDay": null,
       "freeDayWeekday": null,
@@ -1590,7 +1590,7 @@
       "address": "Markdannersgade 1, 6000 Kolding",
       "latitude": 55.4885,
       "longitude": 9.4819,
-      "website": "https://www.koldinghus.dk",
+      "website": "https://denkongeligesamling.dk/koldinghus",
       "price": "125 kr",
       "freeDay": null,
       "freeDayWeekday": null,
