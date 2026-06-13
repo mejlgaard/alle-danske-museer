@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 27,
   "museums": [
     {
       "id": "002",
@@ -385,13 +385,13 @@
       "latitude": 55.6994,
       "longitude": 12.5805,
       "website": "https://www.denfrie.dk",
-      "price": "90 kr",
+      "price": "70 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": "Tirsdag–søndag 11–17, torsdag 11–20",
+      "openingHours": "Onsdag–fredag 12–18, torsdag til 21, lørdag–søndag 10–18 (lukket man–tirs)",
       "description": "Den Frie Udstillingsbygning in Copenhagen is one of Denmark's oldest independent exhibition venues, built by artists in 1898 to show work outside the Royal Academy. The distinctive art nouveau building continues to present challenging and independent contemporary art. A historic institution with an enduring commitment to artistic freedom.",
       "descriptionDa": "Den Frie Udstillingsbygning i København er et af Danmarks ældste uafhængige udstillingssteder, opført af kunstnere i 1898 for at vise værker uden for Det Kongelige Akademi. Den karakteristiske jugendstilbygning præsenterer fortsat udfordrende og uafhængig samtidskunst. En historisk institution med et vedvarende engagement i kunstnerisk frihed.",
-      "openingHoursEn": "Tuesday–Sunday 11–17, Thursday 11–20",
+      "openingHoursEn": "Wednesday–Friday 12–18, Thursday until 21, Saturday–Sunday 10–18 (closed Mon–Tue)",
       "categories": [
         "kunst"
       ],
@@ -428,7 +428,7 @@
       "address": "Christiansborg Ridebane 2, 1218 København K",
       "latitude": 55.676,
       "longitude": 12.5788,
-      "website": "https://www.kongernessamling.dk",
+      "website": "https://denkongeligesamling.dk",
       "price": "140 kr",
       "freeDay": null,
       "freeDayWeekday": null,
@@ -451,7 +451,7 @@
       "latitude": 55.6878,
       "longitude": 12.5899,
       "website": "https://www.designmuseum.dk",
-      "price": "130 kr",
+      "price": "140 kr",
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 10–18, onsdag 10–20",
@@ -512,11 +512,11 @@
       "nameEn": "The Energy Museum",
       "type": "statsanerkendt",
       "city": "Bjerringbro",
-      "address": "Tange Søvej 4-6, 8850 Bjerringbro",
-      "latitude": 56.37,
-      "longitude": 9.653,
+      "address": "Bjerringbrovej 44, 8850 Bjerringbro",
+      "latitude": 56.3558,
+      "longitude": 9.6032,
       "website": "https://www.energimuseet.dk",
-      "price": "100 kr",
+      "price": "120 kr",
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Sæsonåbent påske–okt",
@@ -3693,28 +3693,6 @@
         "teknologi"
       ],
       "category": "teknologi"
-    },
-    {
-      "id": "S129",
-      "name": "Industrimuseet Horsens",
-      "nameEn": "The Danish Museum of Science and Technology",
-      "type": "statsanerkendt",
-      "city": "Horsens",
-      "address": "Smedegade 36, 8700 Horsens",
-      "latitude": 55.8609,
-      "longitude": 9.8449,
-      "website": "https://www.industrimuseet.dk",
-      "price": "100 kr",
-      "freeDay": null,
-      "freeDayWeekday": null,
-      "openingHours": "Tirsdag–søndag 10–17",
-      "openingHoursEn": "Tuesday–Sunday 10–17",
-      "description": "Industrimuseet Horsens explores the industrial heritage of Horsens, from its 19th-century manufacturing roots to the present. Located in a beautifully restored factory building, the museum tells the story of work, technology, and community. A rich and evocative industrial history museum.",
-      "descriptionDa": "Industrimuseet Horsens udforsker Horsens' industrielle arv, fra dens produktionsrødder i det 19. århundrede til i dag. Beliggende i en smukt restaureret fabriksbygning fortæller museet historien om arbejde, teknologi og fællesskab. Et rigt og stemningsfuldt industrihistorisk museum.",
-      "categories": [
-        "kulturhistorie"
-      ],
-      "category": "kulturhistorie"
     },
     {
       "id": "S130",
