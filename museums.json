@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "museums": [
     {
       "id": "002",
@@ -6919,6 +6919,28 @@
         "søfart"
       ],
       "category": "søfart"
+    },
+    {
+      "id": "P076",
+      "name": "Museum Polakkasernen",
+      "nameEn": null,
+      "type": "privat",
+      "city": "Rødby",
+      "address": "Højbygårdvej 34, Tågerup, 4970 Rødby",
+      "latitude": 54.677,
+      "longitude": 11.4539,
+      "website": "https://polakkasernen.dk",
+      "price": "50 kr",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Sommer (1. juli–30. september) dagligt undtagen mandag 14–16; også åbent i påsken og uge 42",
+      "description": "Museum Polakkasernen near Rødby on Lolland is the only museum in Denmark dedicated to the Polish seasonal workers who came to the sugar beet fields of Lolland-Falster from the 1890s. Housed in a preserved barracks from 1911, it displays field tools, paper cuts made by the workers, and a large collection of photographs documenting their lives.",
+      "descriptionDa": "Museum Polakkasernen ved Rødby på Lolland er det eneste museum i Danmark, der fortæller om de polske sæsonarbejdere – roepigerne – der fra 1890'erne kom for at arbejde i sukkerroemarkerne på Lolland-Falster. Museet er indrettet i en bevaret kaserne fra 1911 og viser markredskaber, papirklip lavet af arbejderne og en stor samling fotografier, der dokumenterer deres liv.",
+      "openingHoursEn": "Summer (1 July–30 September) daily except Monday 14–16; also open at Easter and in week 42",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
     }
   ]
 }
