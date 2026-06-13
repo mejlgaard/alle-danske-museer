@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "museums": [
     {
       "id": "002",
@@ -1894,7 +1894,7 @@
       "latitude": 55.6776,
       "longitude": 12.5795,
       "website": "https://nikolajkunsthal.kk.dk",
-      "price": "Gratis",
+      "price": "110 kr",
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 11–17",
@@ -1916,7 +1916,7 @@
       "latitude": 55.9333,
       "longitude": 12.5,
       "website": "https://www.nivaagaard.dk",
-      "price": "Gratis",
+      "price": "120 kr",
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 11–17",
@@ -1938,7 +1938,7 @@
       "latitude": 56.819,
       "longitude": 9.9251,
       "website": "https://reganvest.dk",
-      "price": null,
+      "price": "300 kr",
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Guidede rundvisninger — se hjemmeside",
@@ -2004,7 +2004,7 @@
       "latitude": 55.6728,
       "longitude": 12.5722,
       "website": "https://www.glyptoteket.dk",
-      "price": "130 kr",
+      "price": "125 kr",
       "freeDay": "Sidste onsdag i måneden",
       "freeDayEn": "Last Wednesday of the month",
       "freeDayWeekday": 4,
