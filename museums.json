@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "museums": [
     {
       "id": "002",
@@ -3656,16 +3656,16 @@
       "type": "statsanerkendt",
       "city": "Rødvig Stevns",
       "address": "Korsnæbsvej 60, 4673 Rødvig Stevns",
-      "latitude": 55.3204,
-      "longitude": 12.2658,
-      "website": "https://www.stevnsfort.dk",
+      "latitude": 55.2646,
+      "longitude": 12.4097,
+      "website": "https://www.oesm.dk/koldkrigsmuseum-stevnsfort/",
       "price": "130 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": "Tirsdag–søndag 10–17 (april–oktober)",
-      "openingHoursEn": "Tuesday–Sunday 10–17 (April–October)",
-      "description": "Koldkrigsmuseum Stevnsfort explores the Cold War history of the Stevns peninsula, a strategically vital NATO listening post during the Cold War. The underground fortress, carved into the chalk cliffs, is a UNESCO World Heritage Site. A fascinating and slightly eerie window into a tense period of history.",
-      "descriptionDa": "Koldkrigsmuseum Stevnsfort udforsker den kolde krigs historie på Stevns-halvøen, et strategisk vigtigt NATO-lyttested under den kolde krig. Den underjordiske fæstning, hugget ind i kridtklinterne, er et UNESCO-verdensarvssted. Et fascinerende og lettere uhyggeligt indblik i en spændt periode af historien.",
+      "openingHours": "Juni–november, varierende tider (november kun weekender) — se hjemmeside; rundvisninger bør bestilles på forhånd",
+      "openingHoursEn": "June–November, varying hours (November weekends only) — see website; guided tours should be booked in advance",
+      "description": "Koldkrigsmuseum Stevnsfort explores the Cold War history of the Stevns peninsula, a strategically vital NATO listening post with nearly 2 km of tunnels carved into the chalk cliffs. The fort served as a frontline defence against nuclear war for almost 40 years. It lies at Stevns Klint, whose geology is inscribed on the UNESCO World Heritage List.",
+      "descriptionDa": "Koldkrigsmuseum Stevnsfort udforsker den kolde krigs historie på Stevns, et strategisk vigtigt NATO-lyttested med næsten 2 km tunneler hugget ind i kridtklinten. Fortet var i næsten 40 år en frontlinje mod atomkrig. Det ligger ved Stevns Klint, hvis geologi er optaget på UNESCOs verdensarvsliste.",
       "categories": [
         "kulturhistorie"
       ],
