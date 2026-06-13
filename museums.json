@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "museums": [
     {
       "id": "002",
@@ -840,9 +840,9 @@
       "nameEn": "HEART Herning Museum of Contemporary Art",
       "type": "statsanerkendt",
       "city": "Herning",
-      "address": "Birk Centerpark 1, 7400 Herning",
-      "latitude": 56.13332,
-      "longitude": 9.022429,
+      "address": "Birk Centerpark 8, 7400 Herning",
+      "latitude": 56.1311,
+      "longitude": 9.024,
       "website": "https://www.heartmus.dk",
       "price": "130 kr",
       "freeDay": null,
@@ -909,7 +909,7 @@
       "latitude": 55.682664,
       "longitude": 12.466748,
       "website": "https://heerup.dk",
-      "price": "80 kr",
+      "price": "70 kr",
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 11–16",
@@ -996,7 +996,7 @@
       "address": "Torvet 18-20, 3300 Frederiksværk",
       "latitude": 55.972576,
       "longitude": 12.023197,
-      "website": "https://www.industrimuseetfv.dk",
+      "website": "https://indmus.dk",
       "price": "80 kr",
       "freeDay": null,
       "freeDayWeekday": null,
