@@ -1,5 +1,5 @@
 {
-  "version": 44,
+  "version": 45,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -6771,6 +6771,28 @@
       "description": "Museum Polakkasernen near Rødby on Lolland is the only museum in Denmark dedicated to the Polish seasonal workers who came to the sugar beet fields of Lolland-Falster from the 1890s. Housed in a preserved barracks from 1911, it displays field tools, paper cuts made by the workers, and a large collection of photographs documenting their lives.",
       "descriptionDa": "Museum Polakkasernen ved Rødby på Lolland er det eneste museum i Danmark, der fortæller om de polske sæsonarbejdere – roepigerne – der fra 1890'erne kom for at arbejde i sukkerroemarkerne på Lolland-Falster. Museet er indrettet i en bevaret kaserne fra 1911 og viser markredskaber, papirklip lavet af arbejderne og en stor samling fotografier, der dokumenterer deres liv.",
       "openingHoursEn": "Summer (1 July–30 September) daily except Monday 14–16; also open at Easter and in week 42",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
+    },
+    {
+      "id": "P077",
+      "name": "Fanø Museum",
+      "nameEn": null,
+      "type": "privat",
+      "city": "Nordby",
+      "address": "Skolevej 2, Nordby, 6720 Fanø",
+      "latitude": 55.4455,
+      "longitude": 8.4036,
+      "website": "https://fanoemuseum.dk",
+      "price": "50 kr",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Man–fre og søn 11–15 (slut marts–medio oktober, lukket lørdag)",
+      "openingHoursEn": "Mon–Fri and Sun 11–15 (late March–mid October, closed Saturday)",
+      "description": "Fanø Museum is housed in a Fanø house from the late 1600s in the heart of Nordby. It recreates the typical home of a modest skipper family in the years around 1885–1920, with original furnishings, costumes, and everyday objects that tell the story of life on the seafaring island of Fanø. A vivid window into the island's maritime culture.",
+      "descriptionDa": "Fanø Museum er indrettet i et fanøhus fra slutningen af 1600-tallet midt i Nordby. Det genskaber et typisk hjem hos en beskeden skipperfamilie i årene omkring 1885–1920 med originalt indbo, dragter og dagligdags genstande, der fortæller om livet på søfartsøen Fanø. Et levende indblik i øens maritime kultur.",
       "categories": [
         "kulturhistorie"
       ],
