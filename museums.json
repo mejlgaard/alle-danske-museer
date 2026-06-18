@@ -1,16 +1,21 @@
 {
-  "version": 45,
+  "version": 46,
   "aliases": {
     "S129": "008",
     "S126": "041",
     "S159": "056",
     "S125": "061",
-    "P064": "045"
+    "P064": "045",
+    "P062": "P059"
   },
   "retiredIds": [
     "046",
     "P060",
-    "P048"
+    "P048",
+    "P062",
+    "P057",
+    "P067",
+    "P070"
   ],
   "museums": [
     {
@@ -547,15 +552,15 @@
       "type": "statsanerkendt",
       "city": "Esbjerg",
       "address": "Havnegade 20, 6700 Esbjerg",
-      "latitude": 55.4728,
-      "longitude": 8.4528,
+      "latitude": 55.4642,
+      "longitude": 8.4506,
       "website": "https://www.eskum.dk",
       "price": "90 kr",
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirs–søn 10–16",
       "description": "Esbjerg Kunstmuseum holds one of Denmark's finest collections of Danish art from the late 19th century to the present. The museum is particularly strong in works by the Skagen painters and modern Danish artists. A bright, well-curated museum in the heart of Denmark's largest North Sea port.",
-      "descriptionDa": "Esbjerg Kunstmuseum rummer en af Danmarks fineste samlinger af dansk kunst fra slutningen af 1800-tallet til i dag. Museet er særligt stærkt inden for Skagensmalernes værker og moderne dansk kunst. Et lyst og velskøttet museum i hjertet af Danmarks største nordsøhavn.",
+      "descriptionDa": "Esbjerg Kunstmuseum rummer en af Danmarks fineste samlinger af dansk kunst fra slutningen af 1800-tallet til i dag. Museet er særligt stærkt inden for Skagensmalernes værker og moderne dansk kunst. Et lyst og velplejet museum i hjertet af Danmarks største nordsøhavn.",
       "openingHoursEn": "Tue–Sun 10–16",
       "categories": [
         "kunst"
@@ -4222,11 +4227,11 @@
       "latitude": 55.4713,
       "longitude": 8.4528,
       "website": "https://www.esbjergmuseum.dk",
-      "price": "60 kr",
+      "price": "65 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": "Tirsdag–søndag 10–16",
-      "openingHoursEn": "Tuesday–Sunday 10–16",
+      "openingHours": "Mandag–torsdag 10–16, lørdag–søndag 12–16 (lukket fredag)",
+      "openingHoursEn": "Monday–Thursday 10–16, Saturday–Sunday 12–16 (closed Friday)",
       "description": "Esbjerg Museum documents the history of Esbjerg, a city that was founded only in 1868 but grew rapidly into Denmark's most important North Sea port. Collections cover the city's development, its fishing industry, and its role as a gateway to the wider world. A lively urban history museum.",
       "descriptionDa": "Esbjerg Museum dokumenterer historien om Esbjerg, en by der først blev grundlagt i 1868, men hurtigt voksede til Danmarks vigtigste Nordsøhavn. Samlingerne dækker byens udvikling, fiskeriindustrien og dens rolle som port til den større verden. Et levende byhistorisk museum.",
       "categories": [
@@ -5174,8 +5179,8 @@
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 11–16",
       "openingHoursEn": "Tuesday–Sunday 11–16",
-      "description": null,
-      "descriptionDa": null,
+      "description": "Mothsgården is Denmark's oldest preserved country estate, built around 1680 by Matthias Moth, a linguist and senior official under Christian V. Today it is the main branch of Rudersdal Museum, with a permanent exhibition tracing 1,000 years of local history alongside changing exhibitions. A memorial plaque recalls that the Norwegian composer Edvard Grieg worked on his Piano Concerto in A minor here during the summer of 1868.",
+      "descriptionDa": "Mothsgården er Danmarks ældst bevarede landsted, opført omkring 1680 af Matthias Moth, sprogforsker og højtstående embedsmand under Christian 5. I dag er stedet hovedafdeling i Rudersdal Museer med en fast udstilling om egnens 1.000-årige historie samt skiftende udstillinger. En mindeplade fortæller, at den norske komponist Edvard Grieg arbejdede på sin klaverkoncert i a-mol her i sommeren 1868.",
       "categories": [
         "kulturhistorie"
       ],
@@ -5197,8 +5202,8 @@
       "freeDayWeekday": null,
       "openingHours": "Tirsdag 10–16, søndag 13–16",
       "openingHoursEn": "Tuesday 10–16, Sunday 13–16",
-      "description": null,
-      "descriptionDa": null,
+      "description": "Mosegaarden in Værløse is a local history museum under Furesø Museer, set around a traditional village farmstead. Its highlight is a living blacksmith's forge with hearth and original tools, kept just as in the old days, where visitors can experience the craftsmanship and everyday life of the Furesø region.",
+      "descriptionDa": "Mosegaarden i Værløse er et lokalhistorisk museum under Furesø Museer, indrettet omkring en traditionel landsbygård. Højdepunktet er en levende smedje med esse og originalt værktøj, præcis som i gamle dage, hvor man kan opleve egnens håndværk og dagligliv i Furesø-området.",
       "categories": [
         "kulturhistorie"
       ],
@@ -5220,8 +5225,8 @@
       "freeDayWeekday": null,
       "openingHours": "Første og sidste søndag i måneden 13–16 (lukket jan, jul, aug)",
       "openingHoursEn": "First and last Sunday of the month 13–16 (closed Jan, Jul, Aug)",
-      "description": null,
-      "descriptionDa": null,
+      "description": "Cornelen in Farum is a faithfully recreated rural grocer's shop from the 1930s, run by Furesø Museer. Behind the counter, shelves of period goods, scales and packaging bring mid-20th-century commerce and everyday village life vividly back to life.",
+      "descriptionDa": "Cornelen i Farum er en tro genskabelse af en landsbykøbmandsbutik fra 1930'erne, drevet af Furesø Museer. Bag disken fortæller hylder med datidens varer, vægte og emballage levende om handel og hverdagsliv i en dansk landsby midt i det 20. århundrede.",
       "categories": [
         "kulturhistorie"
       ],
@@ -5243,8 +5248,8 @@
       "freeDayWeekday": null,
       "openingHours": "Kun til særarrangementer",
       "openingHoursEn": "Special events only",
-      "description": null,
-      "descriptionDa": null,
+      "description": "The former Værløse air base preserves an important chapter of Danish aviation and wartime history, including the years of the German occupation during the Second World War. The site holds extensive historical material and is open mainly for special events and guided tours.",
+      "descriptionDa": "Den tidligere Flyvestation Værløse rummer et vigtigt kapitel af dansk flyvnings- og krigshistorie, herunder årene under den tyske besættelse i Anden Verdenskrig. Stedet rummer omfattende historisk materiale og er primært åbent ved særlige arrangementer og guidede rundvisninger.",
       "categories": [
         "kulturhistorie"
       ],
@@ -5266,8 +5271,8 @@
       "freeDayWeekday": null,
       "openingHours": "Maj-jun + aug-sep: tors-søn 11-16. Jul: tirs-søn 11-16. Okt: man-søn 11-16",
       "openingHoursEn": "May-Jun + Aug-Sep: Thu-Sun 11-16. Jul: Tue-Sun 11-16. Oct: Mon-Sun 11-16",
-      "description": null,
-      "descriptionDa": null,
+      "description": "KRUDT, the Gunpowder Works Museum in Frederiksværk, is Denmark's oldest gunpowder works, founded in 1758 by Major General J.F. Classen and in production until 1965. Several original 1760s buildings survive, and the museum displays the original machines, some of which can still be set in motion, telling the dramatic and dangerous story of gunpowder making.",
+      "descriptionDa": "KRUDT – Krudtværksmuseet i Frederiksværk er Danmarks ældste krudtværk, grundlagt i 1758 af generalmajor J.F. Classen og i produktion frem til 1965. Flere af krudtværkets oprindelige bygninger fra 1760'erne er bevaret, og museet viser de originale maskiner, hvoraf nogle stadig kan sættes i bevægelse, og fortæller den dramatiske og farlige historie om krudtfremstilling.",
       "categories": [
         "kulturhistorie"
       ],
@@ -5289,8 +5294,8 @@
       "freeDayWeekday": null,
       "openingHours": "Tirs–søn 12–16 (maj–sept)",
       "openingHoursEn": "Tue–Sun 12–16 (May–Sept)",
-      "description": null,
-      "descriptionDa": null,
+      "description": "Dragør Museum sits in the middle of the old harbour, in one of the town's oldest buildings, where seafaring, trade and everyday life meet. Part of Museum Amager, it tells the story of the maritime town of Dragør and its close ties to the sea and the Sound.",
+      "descriptionDa": "Dragør Museum ligger midt i den gamle havn i en af byens ældste bygninger, hvor søfart, handel og hverdagsliv mødes. Som en del af Museum Amager fortæller det historien om søfartsbyen Dragør og dens nære bånd til havet og Øresund.",
       "categories": [
         "kulturhistorie"
       ],
@@ -5312,8 +5317,8 @@
       "freeDayWeekday": null,
       "openingHours": "Lør–søn 12–16 (maj–sept)",
       "openingHoursEn": "Sat–Sun 12–16 (May–Sept)",
-      "description": null,
-      "descriptionDa": null,
+      "description": "The Pilot Museum (Lodsmuseet) in Dragør, part of Museum Amager, tells the story of the experienced sailors who guided ships safely through the Sound. It is a tale of courage, precision and a life lived in close harmony with the sea.",
+      "descriptionDa": "Lodsmuseet i Dragør, en del af Museum Amager, fortæller historien om de erfarne søfolk, der loste skibe sikkert gennem Øresund. Det er en fortælling om mod, præcision og et liv i tæt samspil med havet.",
       "categories": [
         "kulturhistorie"
       ],
@@ -5335,8 +5340,8 @@
       "freeDayWeekday": null,
       "openingHours": "Lør–søn 13–16 (maj–sept)",
       "openingHoursEn": "Sat–Sun 13–16 (May–Sept)",
-      "description": null,
-      "descriptionDa": null,
+      "description": "Mølsteds Atelier lies in the heart of Dragør's old town, in the studio where the marine painter Christian Mølsted (1862–1930) worked for most of his life. Today it is preserved as an intimate exhibition space showing his seascapes and the world that inspired them.",
+      "descriptionDa": "Mølsteds Atelier ligger midt i Dragørs gamle bydel i det atelier, hvor marinemaleren Christian Mølsted (1862–1930) arbejdede det meste af sit liv. I dag er det bevaret som et intimt udstillingsrum, der viser hans marinebilleder og den verden, der inspirerede dem.",
       "categories": [
         "kunst"
       ],
@@ -5358,35 +5363,12 @@
       "freeDayWeekday": null,
       "openingHours": "Efter aftale — se hjemmeside",
       "openingHoursEn": "By appointment — see website",
-      "description": null,
-      "descriptionDa": null,
+      "description": "Elisabeth K571 is a historic fishing cutter, preserved by Museum Amager, that was used during the Second World War to ferry fleeing Jews across to Sweden in October 1943. Restored and afloat, the vessel stands as a moving, tangible reminder of the rescue of the Danish Jews.",
+      "descriptionDa": "Elisabeth K571 er en historisk fiskekutter, bevaret af Museum Amager, der under Anden Verdenskrig blev brugt til at sejle flygtende jøder over til Sverige i oktober 1943. Restaureret og flydende står kutteren som et bevægende og håndgribeligt minde om redningen af de danske jøder.",
       "categories": [
         "søfart"
       ],
       "category": "søfart"
-    },
-    {
-      "id": "P057",
-      "name": "Fyns Kunstmuseum",
-      "nameEn": "Funen Art Museum",
-      "type": "statsanerkendt",
-      "city": "Odense",
-      "address": "Jernbanegade 13, 5000 Odense C",
-      "latitude": 55.397689,
-      "longitude": 10.38529,
-      "website": "https://museumodense.dk/fyns-kunstmuseum",
-      "price": "95 kr",
-      "freeDay": null,
-      "freeDayEn": null,
-      "freeDayWeekday": null,
-      "openingHours": "Tirs–søn 10–16",
-      "openingHoursEn": "Tue–Sun 10–16",
-      "description": null,
-      "descriptionDa": null,
-      "categories": [
-        "kunst"
-      ],
-      "category": "kunst"
     },
     {
       "id": "P058",
@@ -5404,8 +5386,8 @@
       "freeDayWeekday": null,
       "openingHours": "Maj–okt: lør–søn 11–15",
       "openingHoursEn": "May–Oct: Sat–Sun 11–15",
-      "description": null,
-      "descriptionDa": null,
+      "description": "Carl Nielsen's Childhood Home in Nørre Lyndelse is a modest country craftsman's house from the 1850s where the composer Carl Nielsen spent part of his childhood. Saved from demolition, moved and opened as a museum in 1956, it recreates the humble rural setting that shaped one of Denmark's greatest composers.",
+      "descriptionDa": "Carl Nielsens Barndomshjem i Nørre Lyndelse er et beskedent landhåndværkerhus fra 1850'erne, hvor komponisten Carl Nielsen tilbragte en del af sin barndom. Reddet fra nedrivning, flyttet og åbnet som museum i 1956 genskaber det de ydmyge landlige rammer, der formede en af Danmarks største komponister.",
       "categories": [
         "kulturhistorie"
       ],
@@ -5427,8 +5409,8 @@
       "freeDayWeekday": null,
       "openingHours": "Tirs–søn 10–16",
       "openingHoursEn": "Tue–Sun 10–16",
-      "description": null,
-      "descriptionDa": null,
+      "description": "The Coastal Museum of Sæby (Kystmuseet Sæby) is housed in the beautiful half-timbered \"Konsul Ørums Gård\" and takes visitors on a journey through Sæby's history from the Middle Ages to the present. Exhibitions cover the medieval Carmelite convent, the church's famous frescoes and the coastal life, harbour and iron well that once made Sæby a destination for tourism and wellness.",
+      "descriptionDa": "Kystmuseet Sæby er indrettet i den smukke bindingsværksgård \"Konsul Ørums Gård\" og tager de besøgende med på en rejse gennem Sæbys historie fra middelalderen til i dag. Udstillingerne fortæller om det middelalderlige karmeliterkloster, kirkens berømte kalkmalerier og om kystlivet, havnen og jernkilden, der i sin tid gjorde Sæby til et mål for turisme og kurliv.",
       "categories": [
         "kulturhistorie"
       ],
@@ -5450,31 +5432,8 @@
       "freeDayWeekday": null,
       "openingHours": "Ons–søn 11–16",
       "openingHoursEn": "Wed–Sun 11–16",
-      "description": null,
-      "descriptionDa": null,
-      "categories": [
-        "kulturhistorie"
-      ],
-      "category": "kulturhistorie"
-    },
-    {
-      "id": "P062",
-      "name": "Sæby Museum",
-      "nameEn": null,
-      "type": "statsanerkendt",
-      "city": "Sæby",
-      "address": "Søndergade 1, 9300 Sæby",
-      "latitude": 57.335444,
-      "longitude": 10.520994,
-      "website": "https://nordjyskemuseer.dk/saeby-museum/",
-      "price": "50 kr",
-      "freeDay": null,
-      "freeDayEn": null,
-      "freeDayWeekday": null,
-      "openingHours": "Tirs–søn 11–16",
-      "openingHoursEn": "Tue–Sun 11–16",
-      "description": null,
-      "descriptionDa": null,
+      "description": "Hadsund Egns Museum (Hadsund Egnssamling) offers a vivid journey through time, with a Renaissance room, a peasant room from the 1800s, a modest room from around 1900 and a living room from the 1970s. It tells how the community between sea and fjord developed since the Reformation, from flourishing glass, salt and lime production to the great agricultural reforms.",
+      "descriptionDa": "Hadsund Egns Museum (Hadsund Egnssamling) byder på en levende rejse gennem tiden med et renæssancerum, en bondestue fra 1800-tallet, en beskeden stue fra omkring 1900 og en dagligstue fra 1970'erne. Det fortæller, hvordan samfundet mellem hav og fjord har udviklet sig siden reformationen – fra blomstrende glas-, salt- og kalkproduktion til de store landboreformer.",
       "categories": [
         "kulturhistorie"
       ],
@@ -5489,15 +5448,15 @@
       "address": "Try Museumsvej 6, 9330 Dronninglund",
       "latitude": 57.23,
       "longitude": 10.25,
-      "website": "https://nordjyskemuseer.dk/try-museum/",
+      "website": "https://egnssamlingen-oestvendsyssel.dk",
       "price": "50 kr",
       "freeDay": null,
       "freeDayEn": null,
       "freeDayWeekday": null,
       "openingHours": "Ons–søn 11–16 (sommer)",
       "openingHoursEn": "Wed–Sun 11–16 (summer)",
-      "description": null,
-      "descriptionDa": null,
+      "description": "Try Museum near Dronninglund is a local history museum recreating rural East Vendsyssel life. It includes a blacksmith's workshop, a half-timbered house for special exhibitions, a peasant room from around 1800 and a farm furnished as it looked in the 1950s.",
+      "descriptionDa": "Try Museum ved Dronninglund er et lokalhistorisk museum, der genskaber landlivet i Østvendsyssel. Det rummer en smedje, et bindingsværkshus til særudstillinger, en bondestue fra omkring 1800 og en gård indrettet, som den så ud i 1950'erne.",
       "categories": [
         "kulturhistorie"
       ],
@@ -5519,8 +5478,8 @@
       "freeDayWeekday": null,
       "openingHours": "Tirs–søn 10–17 (sommer)",
       "openingHoursEn": "Tue–Sun 10–17 (summer)",
-      "description": null,
-      "descriptionDa": null,
+      "description": "Beneath Aalborg's pedestrian streets lie the ruins of the Greyfriars (Franciscan) monastery, founded around 1240. Visitors descend some three metres underground by lift to explore the medieval remains, with skeletal finds from old churchyards and archaeological artefacts from the Viking and medieval periods of Aalborg's history.",
+      "descriptionDa": "Under Aalborgs gågader ligger ruinerne af Gråbrødreklostret (franciskanerklostret), grundlagt omkring år 1240. De besøgende kører cirka tre meter ned under jorden med elevator for at udforske de middelalderlige levn, med skeletfund fra gamle kirkegårde og arkæologiske genstande fra Aalborgs vikingetid og middelalder.",
       "categories": [
         "kulturhistorie"
       ],
@@ -5535,38 +5494,15 @@
       "address": "Mosbjergvej 134, 9870 Sindal",
       "latitude": 57.475513,
       "longitude": 10.199427,
-      "website": "https://nordjyskemuseer.dk/mosbjerggaard/",
+      "website": "https://vhm.dk/museerne/landskabs-og-landbrugsmuseet/",
       "price": "Gratis",
       "freeDay": null,
       "freeDayEn": null,
       "freeDayWeekday": null,
       "openingHours": "Begrænset — se hjemmeside",
       "openingHoursEn": "Limited — see website",
-      "description": null,
-      "descriptionDa": null,
-      "categories": [
-        "kulturhistorie"
-      ],
-      "category": "kulturhistorie"
-    },
-    {
-      "id": "P067",
-      "name": "Dejbjerg Jernalder",
-      "nameEn": null,
-      "type": "statsanerkendt",
-      "city": "Skjern",
-      "address": "Bundsbækvej 27, 6900 Skjern",
-      "latitude": 56.006858,
-      "longitude": 8.478621,
-      "website": "https://www.rkskmuseum.dk/dejbjerg-jernalder",
-      "price": "95 kr",
-      "freeDay": null,
-      "freeDayEn": null,
-      "freeDayWeekday": null,
-      "openingHours": "Tirs–søn 10–16 (sommer)",
-      "openingHoursEn": "Tue–Sun 10–16 (summer)",
-      "description": null,
-      "descriptionDa": null,
+      "description": "Mosbjerggaard near Sindal is a working open-air landscape and agricultural museum set among the high hills and deep ravines of Vendsyssel. A reconstructed smallholding is farmed with fields and livestock as around 1915, while the Bjørnager farm displays agricultural tools from about 1880 to 1950 — from the era before tractors and electricity.",
+      "descriptionDa": "Mosbjerggaard ved Sindal er et levende frilands-, landskabs- og landbrugsmuseum i Vendsyssels høje bakker og dybe kløfter. Et genopført husmandssted drives med marker og dyrehold som omkring 1915, mens gården Bjørnager viser landbrugsredskaber fra cirka 1880 til 1950 – fra tiden før traktorer og elektricitet.",
       "categories": [
         "kulturhistorie"
       ],
@@ -5588,8 +5524,8 @@
       "freeDayWeekday": null,
       "openingHours": "Begrænset — se hjemmeside",
       "openingHoursEn": "Limited — see website",
-      "description": null,
-      "descriptionDa": null,
+      "description": "Skjern Windmill is one of West Jutland's few working Dutch-type windmills, moved to Skjern in 1882. Part of Ringkøbing-Skjern Museum, it stands as a living monument to the milling trade, and on milling days its sails turn once more.",
+      "descriptionDa": "Skjern Vindmølle er en af Vestjyllands få fungerende hollandske vindmøller, flyttet til Skjern i 1882. Som en del af Ringkøbing-Skjern Museum står den som et levende monument over møllerhåndværket, og på mølledage drejer vingerne atter rundt.",
       "categories": [
         "teknologi"
       ],
@@ -5611,31 +5547,8 @@
       "freeDayWeekday": null,
       "openingHours": "Tirs–søn 10–16 (sommer)",
       "openingHoursEn": "Tue–Sun 10–16 (summer)",
-      "description": null,
-      "descriptionDa": null,
-      "categories": [
-        "kulturhistorie"
-      ],
-      "category": "kulturhistorie"
-    },
-    {
-      "id": "P070",
-      "name": "Strandgaarden",
-      "nameEn": null,
-      "type": "statsanerkendt",
-      "city": "Ulfborg",
-      "address": "Sdr. Klitvej 132, 6990 Ulfborg",
-      "latitude": 56.02,
-      "longitude": 8.13,
-      "website": "https://www.rkskmuseum.dk/strandgaarden",
-      "price": "75 kr",
-      "freeDay": null,
-      "freeDayEn": null,
-      "freeDayWeekday": null,
-      "openingHours": "Tirs–søn 10–16 (sommer)",
-      "openingHoursEn": "Tue–Sun 10–16 (summer)",
-      "description": null,
-      "descriptionDa": null,
+      "description": "Abelines Gaard on Holmsland Klit is a protected beach bailiff's farm built between 1854 and 1871, run by Ringkøbing-Skjern Museum. It recreates the home of a strandfoged (beach bailiff) and the hard coastal life along the North Sea, with a nearby rescue and rocket station that tell of dramatic shipwrecks and rescues.",
+      "descriptionDa": "Abelines Gaard på Holmsland Klit er en fredet strandfogedgård opført mellem 1854 og 1871, drevet af Ringkøbing-Skjern Museum. Den genskaber en strandfogeds hjem og det barske kystliv ved Vesterhavet, og en nærliggende rednings- og raketstation fortæller om dramatiske strandinger og redninger.",
       "categories": [
         "kulturhistorie"
       ],
@@ -5657,8 +5570,8 @@
       "freeDayWeekday": null,
       "openingHours": "Sommer: dagligt 10–16. Vinter: weekender",
       "openingHoursEn": "Summer: daily 10–16. Winter: weekends",
-      "description": null,
-      "descriptionDa": null,
+      "description": "Lyngvig Lighthouse (Lyngvig Fyr) on Holmsland Klit was completed in 1906 and is one of Denmark's tallest lighthouses. Climbing the winding stairs to the top rewards visitors with a magnificent view over the North Sea and Ringkøbing Fjord, and the site, run by Ringkøbing-Skjern Museum, tells of life along this exposed coast.",
+      "descriptionDa": "Lyngvig Fyr på Holmsland Klit blev opført i 1906 og er et af Danmarks højeste fyrtårne. Følger man de snoede trapper op i tårnet, belønnes man med en storslået udsigt over Vesterhavet og Ringkøbing Fjord, og stedet, der drives af Ringkøbing-Skjern Museum, fortæller om livet langs denne udsatte kyst.",
       "categories": [
         "søfart"
       ],
@@ -5680,8 +5593,8 @@
       "freeDayWeekday": null,
       "openingHours": "Begrænset — se hjemmeside",
       "openingHoursEn": "Limited — see website",
-      "description": null,
-      "descriptionDa": null,
+      "description": "Provstgaard's Hunting Lodge sits beautifully by the Skjern River, a small house built in 1922 by the brothers Niels Provstgaard and Søren Kristian Jensen. Part of Ringkøbing-Skjern Museum, it offers a glimpse of the hunting and fishing life along one of Denmark's great river systems.",
+      "descriptionDa": "Provstgaards Jagthus ligger smukt ved Skjern Å, et lille hus opført i 1922 af brødrene Niels Provstgaard og Søren Kristian Jensen. Som en del af Ringkøbing-Skjern Museum giver det et indblik i jagt- og fiskerlivet langs et af Danmarks store åsystemer.",
       "categories": [
         "kulturhistorie"
       ],
@@ -5703,8 +5616,8 @@
       "freeDayWeekday": null,
       "openingHours": "Begrænset — se hjemmeside",
       "openingHoursEn": "Limited — see website",
-      "description": null,
-      "descriptionDa": null,
+      "description": "The Skjern Ropewalk (Skjern Reberbane) is an original rope-making works from 1896, preserved by Ringkøbing-Skjern Museum. Here the old craft of rope-making is kept alive, and visitors can still see rope being spun the traditional way.",
+      "descriptionDa": "Skjern Reberbane er et originalt rebslageri fra 1896, bevaret af Ringkøbing-Skjern Museum. Her holdes det gamle rebslagerhåndværk i live, og man kan stadig opleve, hvordan reb slås på den traditionelle måde.",
       "categories": [
         "teknologi"
       ],
@@ -5726,8 +5639,8 @@
       "freeDayWeekday": null,
       "openingHours": "Sommer dagligt — se hjemmeside",
       "openingHoursEn": "Summer daily — see website",
-      "description": null,
-      "descriptionDa": null,
+      "description": "The Hvide Sande Rescue Station on Holmsland Klit preserves the history of maritime rescue along the perilous West Jutland coast. Run by Ringkøbing-Skjern Museum, it displays the boats and equipment used by the rescue crews who risked their lives to save the shipwrecked of the North Sea.",
+      "descriptionDa": "Hvide Sande Redningsstation på Holmsland Klit bevarer historien om søredning langs den farlige vestjyske kyst. Drevet af Ringkøbing-Skjern Museum viser den de både og det udstyr, som redningsmandskabet brugte, når de satte livet på spil for at redde de skibbrudne i Vesterhavet.",
       "categories": [
         "søfart"
       ],
@@ -6797,6 +6710,72 @@
         "kulturhistorie"
       ],
       "category": "kulturhistorie"
+    },
+    {
+      "id": "P078",
+      "name": "Fanø Skibsfarts- og Dragtsamling",
+      "nameEn": "Fanø Maritime and Costume Collection",
+      "type": "privat",
+      "city": "Nordby",
+      "address": "Hovedgaden 28, 6720 Fanø",
+      "latitude": 55.4473,
+      "longitude": 8.4063,
+      "website": "https://fanoskibs-dragt.dk",
+      "price": "30 kr",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Man–lør 11–16 (sommersæson)",
+      "openingHoursEn": "Mon–Sat 11–16 (summer season)",
+      "description": "Fanø Maritime and Costume Collection opened in 1976 in the Fanø shipowners' assembly building from 1891 on Hovedgaden in Nordby. It tells the story of how the island bought its freedom from the Crown in 1741 and grew into the province's largest fleet of sailing ships, with a rich collection of ship models, maritime paintings and town models of Nordby and Sønderho around 1890. Upstairs, a beautiful display of traditional Fanø costumes shows each dress in the context in which it was once worn.",
+      "descriptionDa": "Fanø Skibsfarts- og Dragtsamling åbnede i 1976 i Fanø Skibsrederforenings forsamlingsbygning fra 1891 på Hovedgaden i Nordby. Museet fortæller, hvordan øen frikøbte sig fra Kronen i 1741 og voksede til provinsens største sejlskibsflåde, med en righoldig samling af skibsmodeller, marinemalerier og bymodeller af Nordby og Sønderho omkring 1890. På 1. sal viser en smuk udstilling af de traditionelle Fanødragter hver dragt i den sammenhæng, den engang blev båret.",
+      "categories": [
+        "søfart"
+      ],
+      "category": "søfart"
+    },
+    {
+      "id": "P079",
+      "name": "Museet Sønderskov",
+      "nameEn": "Museum Sønderskov",
+      "type": "statsanerkendt",
+      "city": "Brørup",
+      "address": "Sønderskovgårdvej 2, 6650 Brørup",
+      "latitude": 55.4518,
+      "longitude": 9.0377,
+      "website": "https://sonderskov.dk",
+      "price": "65 kr",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Tirsdag–fredag 11–16, weekend og helligdage 12–16 (lukket mandag og januar)",
+      "openingHoursEn": "Tuesday–Friday 11–16, weekends and holidays 12–16 (closed Monday and January)",
+      "description": "Museum Sønderskov is housed in the listed manor house of Sønderskov south of Brørup, a building from 1620 with roots reaching back to the Middle Ages. As the cultural-history museum for Vejen Municipality, it covers everything from the earliest Stone Age to the present, with highlights such as the gold finds from Klelund and the manor pew from Folding Church. The setting of moat, manor and surrounding countryside makes a visit as much an experience of place as of history.",
+      "descriptionDa": "Museet Sønderskov er indrettet i Sønderskov Hovedgårds fredede hovedbygning syd for Brørup, opført i 1620 med rødder tilbage til middelalderen. Som kulturhistorisk museum for Vejen Kommune dækker det alt fra ældste stenalder til i dag, med højdepunkter som guldfundene fra Klelund og herskabsstolen fra Folding Kirke. Med voldgrav, herregård og det omgivende landskab er et besøg lige så meget en oplevelse af stedet som af historien.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
+    },
+    {
+      "id": "P080",
+      "name": "Danmarks Isbådsmuseum",
+      "nameEn": "The Danish Ice Boat Museum",
+      "type": "privat",
+      "city": "Korsør",
+      "address": "Storebæltsvej 122, 4220 Korsør",
+      "latitude": 55.3488,
+      "longitude": 11.1086,
+      "website": "https://byogoverfartsmuseet.dk",
+      "price": "Gratis",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Åbent palmesøndag til efterårsferien",
+      "openingHoursEn": "Open from Palm Sunday until the autumn school holiday",
+      "description": "The Danish Ice Boat Museum on Halsskov Odde in Korsør tells the story of the brave crews who for centuries ferried travellers across an ice-bound Great Belt. From 1794 until 1937, before icebreakers, passengers and goods were carried over the frozen strait in special ice boats that could be sailed, rowed and dragged across the drifting ice. The museum preserves these remarkable vessels and the dramatic history of the vital winter link between Zealand and Funen.",
+      "descriptionDa": "Danmarks Isbådsmuseum på Halsskov Odde i Korsør fortæller historien om de tapre besætninger, der i århundreder fragtede rejsende over et islagt Storebælt. Fra 1794 og helt frem til 1937, før isbrydernes tid, blev passagerer og gods ført over det frosne bælt i særlige isbåde, der kunne sejles, ros og slæbes hen over drivisen. Museet bevarer disse bemærkelsesværdige både og den dramatiske historie om den livsvigtige vinterforbindelse mellem Sjælland og Fyn.",
+      "categories": [
+        "søfart"
+      ],
+      "category": "søfart"
     }
   ]
 }
