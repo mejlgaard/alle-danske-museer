@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 47,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -2727,13 +2727,13 @@
       "latitude": 55.845239,
       "longitude": 12.096104,
       "website": "https://www.willumsensmuseum.dk",
-      "price": "95 kr",
+      "price": "100 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": "Tirsdag–søndag 10–16",
+      "openingHours": "Tirsdag–søndag 10–17",
       "description": "Willumsens Museum in Frederikssund holds the largest collection of works by the visionary Danish artist J.F. Willumsen. The collection spans painting, sculpture, ceramics, and photography, reflecting a remarkably diverse artistic career. A distinctive museum dedicated to one of Denmark's most original creative minds.",
       "descriptionDa": "Willumsens Museum i Frederikssund rummer den største samling af værker af den visionære danske kunstner J.F. Willumsen. Samlingen spænder over maleri, skulptur, keramik og fotografi og afspejler en bemærkelsesværdigt alsidig kunstnerisk karriere. Et markant museum dedikeret til et af Danmarks mest originale kreative sind.",
-      "openingHoursEn": "Tuesday–Sunday 10–16",
+      "openingHoursEn": "Tuesday–Sunday 10–17",
       "categories": [
         "kunst"
       ],
@@ -6776,6 +6776,28 @@
         "søfart"
       ],
       "category": "søfart"
+    },
+    {
+      "id": "P081",
+      "name": "Teddy Bear Art Museum",
+      "nameEn": "Teddy Bear Art Museum",
+      "type": "privat",
+      "city": "Billund",
+      "address": "Hans Jensensvej 3, 7190 Billund",
+      "latitude": 55.7316,
+      "longitude": 9.1169,
+      "website": "https://teddybearartmuseum.dk",
+      "price": "100 kr",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Onsdag–søndag 10–17 (lukket mandag og tirsdag)",
+      "openingHoursEn": "Wednesday–Sunday 10–17 (closed Monday and Tuesday)",
+      "description": "The Teddy Bear Art Museum in Billund houses more than 1,200 teddy bears in the LEGO family's former private home from 1959. The house has been carefully converted into a modern museum in Danish design, and highlights include the famous red Steiff bear \"Alfonzo\" from 1908 and the VanderBear family with their detailed wardrobe. Café Edith sits at the entrance, where visitors can enjoy coffee and homemade cake.",
+      "descriptionDa": "Teddy Bear Art Museum i Billund rummer over 1.200 bamser i LEGO-familiens tidligere privatbolig fra 1959. Huset er nænsomt indrettet som et moderne museum i dansk design, og blandt højdepunkterne er den berømte røde Steiff-bamse \"Alfonzo\" fra 1908 og VanderBear-familien med deres detaljerede garderobe. Ved indgangen ligger Café Edith, hvor man kan nyde kaffe og hjemmebagt kage.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
     }
   ]
 }
