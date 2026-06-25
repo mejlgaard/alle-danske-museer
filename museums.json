@@ -1,5 +1,5 @@
 {
-  "version": 48,
+  "version": 49,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -1282,8 +1282,9 @@
       "longitude": 12.5726,
       "website": "https://cphmuseum.kk.dk",
       "price": "110 kr",
-      "freeDay": null,
-      "freeDayWeekday": null,
+      "freeDay": "Gratis om onsdagen",
+      "freeDayEn": "Free on Wednesdays",
+      "freeDayWeekday": 4,
       "openingHours": "Tirsdag–søndag 10–17",
       "description": "Københavns Museum tells the story of Copenhagen across more than 800 years of history. From medieval market town to modern Scandinavian capital, the museum brings the city's layered history to life. A fascinating journey through the streets and souls of the Danish capital.",
       "descriptionDa": "Københavns Museum fortæller Københavns historie gennem mere end 800 år. Fra middelalderlig købstad til moderne skandinavisk storby bringer museet byens lagdelte historie til live. En fascinerende rejse gennem den danske hovedstads gader og sjæl.",
@@ -4318,8 +4319,8 @@
       "price": "60 kr",
       "freeDay": null,
       "freeDayWeekday": null,
-      "openingHours": "Tirsdag–søndag 10–17",
-      "openingHoursEn": "Tuesday–Sunday 10–17",
+      "openingHours": "Tirsdag–søndag 11–15 (lukket mandag)",
+      "openingHoursEn": "Tuesday–Sunday 11–15 (closed Monday)",
       "description": "Frederikssund Museum Færgegården is set in a historic ferry inn on the Roskilde Fjord, telling the story of the old ferry crossing and local life along the shore. The beautifully preserved building and its waterside location make for a very atmospheric visit. A charming local history museum.",
       "descriptionDa": "Frederikssund Museum Færgegården ligger i en historisk færgekro ved Roskilde Fjord og fortæller historien om den gamle færgeforbindelse og livet langs bredden. Den smukt bevarede bygning og dens placering ved vandet giver et meget stemningsfuldt besøg. Et charmerende lokalhistorisk museum.",
       "categories": [
@@ -6794,6 +6795,50 @@
       "openingHoursEn": "Wednesday–Sunday 10–17 (closed Monday and Tuesday)",
       "description": "The Teddy Bear Art Museum in Billund houses more than 1,200 teddy bears in the LEGO family's former private home from 1959. The house has been carefully converted into a modern museum in Danish design, and highlights include the famous red Steiff bear \"Alfonzo\" from 1908 and the VanderBear family with their detailed wardrobe. Café Edith sits at the entrance, where visitors can enjoy coffee and homemade cake.",
       "descriptionDa": "Teddy Bear Art Museum i Billund rummer over 1.200 bamser i LEGO-familiens tidligere privatbolig fra 1959. Huset er nænsomt indrettet som et moderne museum i dansk design, og blandt højdepunkterne er den berømte røde Steiff-bamse \"Alfonzo\" fra 1908 og VanderBear-familien med deres detaljerede garderobe. Ved indgangen ligger Café Edith, hvor man kan nyde kaffe og hjemmebagt kage.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
+    },
+    {
+      "id": "P082",
+      "name": "Hannes Hus",
+      "nameEn": null,
+      "type": "privat",
+      "city": "Sønderho",
+      "address": "Øster Land 7, Sønderho, 6720 Fanø",
+      "latitude": 55.34887,
+      "longitude": 8.47358,
+      "website": "https://www.hanneshus.dk",
+      "price": "30 kr",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Maj–jun og sep: ons og lør 14–16, jul–aug: tir–lør 14–16 (sæsonåbent)",
+      "openingHoursEn": "May–Jun and Sep: Wed and Sat 14–16, Jul–Aug: Tue–Sat 14–16 (seasonal)",
+      "description": "Hannes Hus is an authentic Sønderho home from the golden age of the sailing-ship era, preserved as the modest but not poor household it was in the late 1800s. The foundation Fonden Gamle Sønderho acquired the house in 1965, and it stands today much as it did when widow Hanne Sørensen lived there until 1940. Visitors see original Fanø furnishings, a period kitchen with copper vessels, walls of Dutch tiles, and the cast-iron stove that heated the home. The house is a listed cultural-heritage building.",
+      "descriptionDa": "Hannes Hus er et originalt Sønderhohjem fra sejlskibstidens storhedstid, bevaret som det beskedne, men ikke fattige hjem det var i slutningen af 1800-tallet. Fonden Gamle Sønderho overtog huset i 1965, og det fremstår i dag stort set som da enken Hanne Sørensen boede der frem til 1940. De besøgende ser originalt fanøindbo, et tidstypisk køkken med kobbertøj, vægge af hollandske fliser og bilæggerovnen, der varmede huset. Huset er en fredet kulturarvsbygning.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
+    },
+    {
+      "id": "P083",
+      "name": "Søbygaard",
+      "nameEn": null,
+      "type": "privat",
+      "city": "Søby",
+      "address": "Søbygårdsvej 2, 5985 Søby Ærø",
+      "latitude": 54.91918,
+      "longitude": 10.28231,
+      "website": "https://www.soebygaardaeroe.dk",
+      "price": "95 kr",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Sæsonåbent apr–okt: tor–lør 10–16, sommer (medio jun–aug) ons–søn 10–16",
+      "openingHoursEn": "Seasonal Apr–Oct: Thu–Sat 10–16, summer (mid-Jun–Aug) Wed–Sun 10–16",
+      "description": "Søbygaard near Søby in the north-west of Ærø is a former ducal manor, built by Duke Hans the Younger around 1580, when the island belonged to the Duchy of Schleswig. The whitewashed main building dates from the late 1700s, a single wing over a high cellar. Since 2023 the manor has been an experience centre focusing on culture, history and geology, and serves as a visitor centre for the South Funen Archipelago Geopark. An atmospheric place that tells the long history of Ærø.",
+      "descriptionDa": "Søbygaard ved Søby på det nordvestlige Ærø er en gammel hertuggård, opført af hertug Hans den Yngre omkring 1580, dengang øen hørte til hertugdømmet Slesvig. Den hvidkalkede hovedbygning stammer fra slutningen af 1700-tallet og består af én fløj over en høj kælder. Siden 2023 er gården indrettet som oplevelsescenter med fokus på kultur, historie og geologi og fungerer som besøgscenter for Geopark Det Sydfynske Øhav. Et stemningsfuldt sted, der fortæller Ærøs lange historie.",
       "categories": [
         "kulturhistorie"
       ],
