@@ -1,5 +1,5 @@
 {
-  "version": 49,
+  "version": 50,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -6843,6 +6843,28 @@
         "kulturhistorie"
       ],
       "category": "kulturhistorie"
+    },
+    {
+      "id": "P084",
+      "name": "Falck Museet",
+      "nameEn": "The Falck Museum",
+      "type": "privat",
+      "city": "Kværndrup",
+      "address": "Egeskov Gade 18, 5772 Kværndrup",
+      "latitude": 55.17696,
+      "longitude": 10.48838,
+      "website": "https://egeskov.dk/falck-museet/",
+      "price": "Inkluderet i Egeskov Slots entré (265 kr online / 285 kr ved indgang)",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Sæsonåbent som Egeskov, ca. 28. mar–19. okt: dagligt 10–17 (om sommeren til kl. 18–20)",
+      "openingHoursEn": "Seasonal, same as Egeskov, approx. 28 Mar–19 Oct: daily 10–17 (until 18–20 in high summer)",
+      "description": "The Falck Museum is housed in the grounds of Egeskov Castle near Kværndrup on Funen and tells the story of the Danish rescue company Falck. Founded in 2000, the collection comprises some 60–70 emergency and rescue vehicles, from a replica of Copenhagen's first rescue station of 1906 to a 1970s station, fire engines, ambulances and drone technology. Highlights include Mr. Stein's 1931 Buick ambulance, which carried Danish Jews to safety, and an ambulance from the TV series Matador. Run by the volunteers of Falck-Museets Venner, admission is included in the Egeskov ticket.",
+      "descriptionDa": "Falck Museet ligger på Egeskov Slots område ved Kværndrup på Fyn og fortæller redningskorpset Falcks historie. Museet blev grundlagt i 2000 og rummer omkring 60–70 udryknings- og redningskøretøjer – fra en replika af Københavns første vagtstation fra 1906 til en station fra 1970'erne, brandbiler, ambulancer og dronteknologi. Blandt højdepunkterne er Hr. Steins Buick-ambulance fra 1931, der hjalp danske jøder i sikkerhed, og en ambulance fra tv-serien Matador. Museet drives af de frivillige i Falck-Museets Venner, og adgang er inkluderet i Egeskovs entré.",
+      "categories": [
+        "transport"
+      ],
+      "category": "transport"
     }
   ]
 }
