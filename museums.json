@@ -1,5 +1,5 @@
 {
-  "version": 50,
+  "version": 51,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -6865,6 +6865,28 @@
         "transport"
       ],
       "category": "transport"
+    },
+    {
+      "id": "S222",
+      "name": "Museum ERNST",
+      "nameEn": "Museum ERNST",
+      "type": "statsanerkendt",
+      "city": "Assens",
+      "address": "Østergade 57A, 5610 Assens",
+      "latitude": 55.27028,
+      "longitude": 9.89949,
+      "website": "https://museumernst.dk",
+      "price": "95 kr (under 18 år gratis)",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "7. apr–28. jun: lør-, søn- og helligdage 10–16, 29. jun–18. okt: dagligt 10–16 (sæsonåbent)",
+      "openingHoursEn": "7 Apr–28 Jun: Sat, Sun and holidays 10–16, 29 Jun–18 Oct: daily 10–16 (seasonal)",
+      "description": "Museum ERNST in Assens, part of Museum Vestfyn, is the wondrous universe of silverware manufacturer and collector Frederik Ernst. His home on Østergade holds thousands of objects – antiques, porcelain, silver and art – staged by Ernst himself and preserved as he left them. The museum also offers the Italian garden Frederik Ernsts Have with free admission, a café, and the children's programme mini ERNST. Formerly known as Ernsts Samlinger.",
+      "descriptionDa": "Museum ERNST i Assens, en del af Museum Vestfyn, er sølvvarefabrikant og samler Frederik Ernsts forunderlige univers. Hans hjem i Østergade rummer tusindvis af genstande – antikviteter, porcelæn, sølv og kunst – iscenesat af Ernst selv og bevaret som han efterlod det. Museet byder også på den italienske have Frederik Ernsts Have med gratis adgang, en café og børneuniverset mini ERNST. Tidligere kendt som Ernsts Samlinger.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
     }
   ]
 }
