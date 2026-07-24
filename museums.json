@@ -1,5 +1,5 @@
 {
-  "version": 51,
+  "version": 52,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -6887,6 +6887,28 @@
         "kulturhistorie"
       ],
       "category": "kulturhistorie"
+    },
+    {
+      "id": "P085",
+      "name": "MACA Museum",
+      "nameEn": "MACA Museum",
+      "type": "privat",
+      "city": "København",
+      "address": "Toldbodgade 12, 1253 København K",
+      "latitude": 55.68044,
+      "longitude": 12.59216,
+      "website": "https://www.macamuseum.com",
+      "price": "160 kr (studerende 135 kr, under 13 år gratis)",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Apr–sep: dagligt 10–19. Okt–mar: dagligt 10–18",
+      "openingHoursEn": "Apr–Sep: daily 10–19. Oct–Mar: daily 10–18",
+      "description": "MACA – Masters & Contemporary Art Museum is an intimate private art museum in a 19th-century warehouse on Toldbodgade, a short walk from Nyhavn. Opened in 2024 by British collector Nigel Mead, it shows leading artists of the 20th and 21st centuries, among them Warhol, Basquiat, Banksy, Haring, KAWS, Kusama and Murakami. Free audio and text guides are available in ten languages, and the courtyard café is open in the warmer months.",
+      "descriptionDa": "MACA – Masters & Contemporary Art Museum er et intimt privat kunstmuseum i en pakhusbygning fra 1800-tallet i Toldbodgade, få skridt fra Nyhavn. Museet åbnede i 2024 på initiativ af den britiske samler Nigel Mead og viser førende kunstnere fra det 20. og 21. århundrede, blandt andre Warhol, Basquiat, Banksy, Haring, KAWS, Kusama og Murakami. Der er gratis lyd- og tekstguide på ti sprog, og gårdhavens café har åbent i den varme del af året.",
+      "categories": [
+        "kunst"
+      ],
+      "category": "kunst"
     }
   ]
 }
