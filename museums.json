@@ -1,5 +1,5 @@
 {
-  "version": 54,
+  "version": 55,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -6909,6 +6909,29 @@
         "kunst"
       ],
       "category": "kunst"
+    },
+    {
+      "id": "P086",
+      "name": "Brandmuseet",
+      "nameEn": null,
+      "type": "privat",
+      "city": "København SV",
+      "address": "Enghavevej 170, 2450 København SV",
+      "latitude": 55.65699,
+      "longitude": 12.53797,
+      "website": "https://hbr.dk/beredskabet/brandmuseet/",
+      "price": "Gratis",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Tirsdag og lørdag 10–14",
+      "openingHoursEn": "Tuesday and Saturday 10–14",
+      "description": "Brandmuseet at Station Vesterbro in Copenhagen covers more than 300 years of firefighting in the capital. The collection follows the development of the firefighters' equipment and tells the story of the great city fires and of the emergency services' work in war and peace. A children's section, Børnenes brandstation, lets younger visitors try the roles of firefighter and paramedic. Run by Hovedstadens Beredskab, and free to enter.",
+      "descriptionDa": "Brandmuseet på Station Vesterbro i København fortæller mere end 300 års brandslukningshistorie i hovedstaden. Samlingen følger brandfolkenes udstyr gennem tiden og beretter om de store bybrande og om beredskabets indsats i krig og fred. I børneafdelingen Børnenes brandstation kan de mindste prøve rollen som brandmand og ambulanceredder. Museet drives af Hovedstadens Beredskab, og der er gratis adgang.",
+      "categories": [
+        "kulturhistorie",
+        "teknologi"
+      ],
+      "category": "kulturhistorie"
     }
   ]
 }
