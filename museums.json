@@ -1,5 +1,5 @@
 {
-  "version": 53,
+  "version": 54,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -2279,7 +2279,7 @@
     },
     {
       "id": "KH008",
-      "name": "Sofienholm Kunsthal",
+      "name": "Sophienholm Kunsthal",
       "nameEn": null,
       "type": "kunsthal",
       "city": "Lyngby",
@@ -2291,8 +2291,8 @@
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 11–17",
-      "description": "Sofienholm Kunsthal in Lyngby is an 18th-century country house that today serves as a venue for changing art exhibitions. The interiors are plain and show their age, but the setting is the real draw: the house sits in a large park that slopes down to Bagsværd Lake, with sculptures and lawns along the way. Worth combining the exhibition with a walk in the grounds.",
-      "descriptionDa": "Sofienholm Kunsthal i Lyngby er et lystslot fra det 18. århundrede, der i dag lægger rum til skiftende kunstudstillinger. Indvendigt er lokalerne enkle og bærer præg af slid, men beliggenheden er til gengæld usædvanlig smuk: huset ligger i en stor park, der skråner ned mod Bagsværd Sø, med skulpturer og græsplæner undervejs. Kombinér gerne udstillingen med en tur i haven.",
+      "description": "Sophienholm Kunsthal in Lyngby is an 18th-century country house that today serves as a venue for changing art exhibitions. The interiors are plain and show their age, but the setting is the real draw: the house sits in a large park that slopes down to Bagsværd Lake, with sculptures and lawns along the way. Worth combining the exhibition with a walk in the grounds.",
+      "descriptionDa": "Sophienholm Kunsthal i Lyngby er et lystslot fra det 18. århundrede, der i dag lægger rum til skiftende kunstudstillinger. Indvendigt er lokalerne enkle og bærer præg af slid, men beliggenheden er til gengæld usædvanlig smuk: huset ligger i en stor park, der skråner ned mod Bagsværd Sø, med skulpturer og græsplæner undervejs. Kombinér gerne udstillingen med en tur i haven.",
       "openingHoursEn": "Tuesday–Sunday 11–17",
       "categories": [
         "kunst"
