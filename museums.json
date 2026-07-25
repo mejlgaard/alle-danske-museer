@@ -1,5 +1,5 @@
 {
-  "version": 52,
+  "version": 53,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -2279,7 +2279,7 @@
     },
     {
       "id": "KH008",
-      "name": "Sophienholm",
+      "name": "Sofienholm Kunsthal",
       "nameEn": null,
       "type": "kunsthal",
       "city": "Lyngby",
@@ -2287,12 +2287,12 @@
       "latitude": 55.77539,
       "longitude": 12.45761,
       "website": "https://www.sophienholm.dk",
-      "price": "90 kr",
+      "price": "75 kr",
       "freeDay": null,
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 11–17",
-      "description": "Sophienholm in Lyngby is a beautifully restored 18th-century manor house that functions as an art exhibition venue. Temporary exhibitions are held in the elegant rooms overlooking the lake and gardens. A refined and peaceful cultural destination north of Copenhagen.",
-      "descriptionDa": "Sophienholm i Lyngby er et smukt restaureret herregårdsanlæg fra det 18. århundrede, der fungerer som udstillingssted for kunst. Særudstillinger afholdes i de elegante rum med udsigt over sø og have. Et forfinet og fredfyldt kulturmål nord for København.",
+      "description": "Sofienholm Kunsthal in Lyngby is an 18th-century country house that today serves as a venue for changing art exhibitions. The interiors are plain and show their age, but the setting is the real draw: the house sits in a large park that slopes down to Bagsværd Lake, with sculptures and lawns along the way. Worth combining the exhibition with a walk in the grounds.",
+      "descriptionDa": "Sofienholm Kunsthal i Lyngby er et lystslot fra det 18. århundrede, der i dag lægger rum til skiftende kunstudstillinger. Indvendigt er lokalerne enkle og bærer præg af slid, men beliggenheden er til gengæld usædvanlig smuk: huset ligger i en stor park, der skråner ned mod Bagsværd Sø, med skulpturer og græsplæner undervejs. Kombinér gerne udstillingen med en tur i haven.",
       "openingHoursEn": "Tuesday–Sunday 11–17",
       "categories": [
         "kunst"
