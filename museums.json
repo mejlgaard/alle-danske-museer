@@ -1,5 +1,5 @@
 {
-  "version": 56,
+  "version": 57,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -6999,6 +6999,72 @@
         "teknologi"
       ],
       "category": "kulturhistorie"
+    },
+    {
+      "id": "P087",
+      "name": "PanzerMuseum East",
+      "nameEn": null,
+      "type": "privat",
+      "city": "Slagelse",
+      "address": "Fladholtevej 18, 4200 Slagelse",
+      "latitude": 55.34919,
+      "longitude": 11.50452,
+      "website": "https://panzermuseumeast.dk",
+      "price": "150 kr",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "2. maj–27. jun: tirsdag–torsdag og lørdag–søndag 10–16 (samt fredag 15. maj). 28. jun–9. aug: dagligt 10–16. 10. aug–6. sep: tirsdag–torsdag og lørdag–søndag 10–16. Sidste entré kl. 15. Lukket resten af året",
+      "openingHoursEn": "2 May–27 Jun: Tuesday–Thursday and Saturday–Sunday 10–16 (also Friday 15 May). 28 Jun–9 Aug: daily 10–16. 10 Aug–6 Sep: Tuesday–Thursday and Saturday–Sunday 10–16. Last admission 15. Closed the rest of the year",
+      "description": "PanzerMuseum East outside Slagelse holds Scandinavia's largest private collection of military vehicles from the Warsaw Pact. Some 4,500 square metres of halls display the tanks, armoured vehicles, helicopters and support equipment — including mobile field hospitals and field bakeries — that would have been turned against Denmark during the Cold War. The exhibition covers roughly 1950 to 1991 with period propaganda films and more than 100 mannequins, and includes a section on Danish civil defence in the event of a nuclear attack. The museum lies in a 17-hectare park with six lakes, outdoor vehicles and aircraft, a café and a shop.",
+      "descriptionDa": "PanzerMuseum East ved Slagelse rummer Skandinaviens største private samling af militærkøretøjer fra Warszawapagten. I omkring 4.500 kvadratmeter haller står de kampvogne, pansrede mandskabsvogne, helikoptere og støttekøretøjer — blandt andet mobile feltlazaretter og feltbagerier — der under Den Kolde Krig kunne være blevet sat ind mod Danmark. Udstillingen dækker perioden fra cirka 1950 til 1991 med originale propagandafilm og over 100 mannequinfigurer og har desuden en afdeling om det danske civilforsvar i tilfælde af atomangreb. Museet ligger i en 17 hektar stor park med seks søer, udendørs køretøjer og fly samt café og butik.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
+    },
+    {
+      "id": "P088",
+      "name": "Oplevelsescenter Nyvang",
+      "nameEn": null,
+      "type": "privat",
+      "city": "Holbæk",
+      "address": "Nyvangs Allé 4, 4300 Holbæk",
+      "latitude": 55.69341,
+      "longitude": 11.74776,
+      "website": "https://www.oplevelsescenternyvang.dk",
+      "price": "225 kr",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "23. apr–28. jun: tirsdag–torsdag samt lørdag–søndag 10–16. 29. jun–2. aug: dagligt undtagen fredag 10–16. 3. aug–18. okt: tirsdag–torsdag samt lørdag–søndag 10–16 (efterårsferie 10.–18. okt: dagligt 10–16). Jul i Nyvang: 21.–22. og 25.–26. nov 10–16. Lukket resten af året",
+      "openingHoursEn": "23 Apr–28 Jun: Tuesday–Thursday and Saturday–Sunday 10–16. 29 Jun–2 Aug: daily except Friday 10–16. 3 Aug–18 Oct: Tuesday–Thursday and Saturday–Sunday 10–16 (autumn holiday 10–18 Oct: daily 10–16). Christmas at Nyvang: 21–22 and 25–26 Nov 10–16. Closed the rest of the year",
+      "description": "Oplevelsescenter Nyvang, formerly Andelslandsbyen Nyvang, is an open-air centre outside Holbæk recreating everyday life in a Danish village and small railway town in the co-operative era from 1930 to 1959. More than 30 buildings house a bakery, a butcher, a pharmacy, a hairdresser, a village school, a smallholding and a rescue station, and volunteers in period costume staff the site as nurses, postmen and police officers. Visitors can shop in the old-fashioned stores, ride the red bus or a horse-drawn carriage and take part in hands-on activities throughout the season.",
+      "descriptionDa": "Oplevelsescenter Nyvang, tidligere Andelslandsbyen Nyvang, er et frilandscenter ved Holbæk, der genskaber hverdagslivet i en dansk landsby og stationsby i andelstiden fra 1930 til 1959. Over 30 bygninger rummer blandt andet bageri, slagter, apotek, frisør, landsbyskole, husmandssted og redningsstation, og frivillige i tidstypisk tøj befolker stedet som sygeplejersker, postbude og betjente. Gæsterne kan handle i de gammeldags butikker, køre med den røde bus eller hestevogn og deltage i aktiviteter i hele sæsonen.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
+    },
+    {
+      "id": "S225",
+      "name": "Den Kgl. Afstøbningssamling",
+      "nameEn": "The Royal Cast Collection",
+      "type": "statsanerkendt",
+      "city": "København K",
+      "address": "Vestindisk Pakhus, Toldbodgade 40, 1253 København K",
+      "latitude": 55.68602,
+      "longitude": 12.59714,
+      "website": "https://www.smk.dk/article/den-kgl-afstoebningssamling/",
+      "price": "Gratis ved særlige åbninger; privat omvisning fra 1.250 kr",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Kun åbent ved særlige arrangementer eller efter forudgående aftale",
+      "openingHoursEn": "Open only for special events or by prior arrangement",
+      "description": "The Royal Cast Collection is part of SMK and holds around 2,000 plaster casts of the best-known sculptures in Western art history, above all from antiquity but also from the Renaissance, with Michelangelo as the high point. Founded in 1895 by art historian Julius Lange and brewer Carl Jacobsen as a public educational project, the casts were made in more than 110 European workshops. The collection opened in 1898 in the museum in Sølvgade, was moved to remote storage at Ledøje in 1966 — where a quarter of it was lost to neglect — and since 1984 has been housed in Vestindisk Pakhus, a warehouse from 1780–81 on the Copenhagen waterfront. It opens only for special events or by prior arrangement.",
+      "descriptionDa": "Den Kgl. Afstøbningssamling er en del af SMK og rummer cirka 2.000 gipsafstøbninger af den vestlige kunsthistories mest kendte skulpturer, især fra antikken, men også fra renæssancen med Michelangelo som højdepunktet. Samlingen blev grundlagt i 1895 af kunsthistorikeren Julius Lange og brygger Carl Jacobsen som et alment dannelsesprojekt, og afstøbningerne stammer fra over 110 europæiske værksteder. Den åbnede i 1898 i museet i Sølvgade, blev i 1966 flyttet på fjernmagasin i Ledøje, hvor en fjerdedel gik tabt, og har siden 1984 haft hjemme i Vestindisk Pakhus fra 1780–81 ved havnen i København. Der er kun åbent ved særlige arrangementer eller efter forudgående aftale.",
+      "categories": [
+        "kunst"
+      ],
+      "category": "kunst"
     }
   ]
 }
