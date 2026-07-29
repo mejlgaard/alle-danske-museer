@@ -1,5 +1,5 @@
 {
-  "version": 57,
+  "version": 58,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -16,7 +16,8 @@
     "P062",
     "P057",
     "P067",
-    "P070"
+    "P070",
+    "S094"
   ],
   "museums": [
     {
@@ -2908,29 +2909,6 @@
         "naturhistorie"
       ],
       "category": "naturhistorie"
-    },
-    {
-      "id": "S094",
-      "name": "Prinsens Palais",
-      "nameEn": null,
-      "type": "statsanerkendt",
-      "city": "København",
-      "address": "Ny Vestergade 10, 1471 København K",
-      "latitude": 55.6752,
-      "longitude": 12.5748,
-      "website": "https://www.nationalmuseet.dk",
-      "price": "150 kr",
-      "freeDay": "Gratis onsdage",
-      "freeDayEn": "Free Wednesdays",
-      "freeDayWeekday": 4,
-      "openingHours": "Apr–okt: dagligt 10–17. Nov–mar: tirsdag–søndag 10–17",
-      "openingHoursEn": "Apr–Oct: daily 10–17. Nov–Mar: Tuesday–Sunday 10–17 (also open Mondays in week 7 and at Easter)",
-      "description": "Prinsens Palais in Copenhagen houses part of the National Museum of Denmark's collection, covering Danish cultural history from the Viking age onwards. The palace building itself is a fine example of 18th-century Danish architecture. A significant cultural institution in the heart of the capital.",
-      "descriptionDa": "Prinsens Palais i København huser en del af Nationalmuseets samling, der dækker dansk kulturhistorie fra vikingetiden og frem. Palæbygningen er i sig selv et fint eksempel på dansk 1700-talsarkitektur. En betydningsfuld kulturinstitution i hjertet af hovedstaden.",
-      "categories": [
-        "kulturhistorie"
-      ],
-      "category": "kulturhistorie"
     },
     {
       "id": "S095",
