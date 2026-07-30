@@ -1,5 +1,5 @@
 {
-  "version": 60,
+  "version": 61,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -7061,6 +7061,28 @@
       "openingHoursEn": "8 May–18 Oct: Friday–Saturday 10–16. Garden Monday–Thursday 10–16 with free admission. Garden tour Saturday at 11",
       "description": "Erichsens Gård in Rønne is a listed townhouse from the early 19th century, furnished as a middle-class home of the period. It was the family home of chancery councillor Thomas Erichsen, and his daughter Vilhelmine became a motif for the painters Kristian Zahrtmann and Holger Drachmann, who both drew on the house and its household. The old garden is planted with species from the period and is freely accessible on weekdays. The museum is part of Bornholms Museum.",
       "descriptionDa": "Erichsens Gård i Rønne er et fredet byhus fra begyndelsen af 1800-tallet, indrettet som et borgerhjem fra perioden. Huset var hjem for kancelliråd Thomas Erichsens familie, og datteren Vilhelmine blev motiv for malerne Kristian Zahrtmann og Holger Drachmann, der begge hentede inspiration i huset og dets husholdning. Den gamle have er anlagt med planter fra perioden og er frit tilgængelig på hverdage. Museet hører under Bornholms Museum.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
+    },
+    {
+      "id": "P089",
+      "name": "Bornholms Forsvarsmuseum",
+      "nameEn": "Bornholm's Defence Museum",
+      "type": "privat",
+      "city": "Rønne",
+      "address": "Arsenalvej 8, 3700 Rønne",
+      "latitude": 55.092451,
+      "longitude": 14.701469,
+      "website": "https://formus.dk",
+      "price": "95 kr (pensionister 70 kr, veteraner med ID 60 kr, unge 6–16 år 50 kr, børn under 6 år gratis)",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "3. jun–17. okt: onsdag–lørdag 10–16. Søndag–tirsdag og helligdage lukket",
+      "openingHoursEn": "3 Jun–17 Oct: Wednesday–Saturday 10–16. Closed Sunday–Tuesday and public holidays",
+      "description": "Bornholm's Defence Museum in Rønne covers 500 years of the island's military history through objects, vehicles, uniforms and weapons, with particular weight on the German occupation, the Cold War and Bornholm's position on NATO's eastern flank. It is housed in Kastellet, a listed fortification whose cannon tower dates from 1689 and whose magazine building was added in 1816. Bornholms Museum has owned the complex since 2003, while the museum itself is run by the association Kastellets Venner.",
+      "descriptionDa": "Bornholms Forsvarsmuseum i Rønne dækker 500 års militærhistorie på øen gennem genstande, køretøjer, uniformer og våben med særlig vægt på den tyske besættelse, den kolde krig og Bornholms placering på NATO's østflanke. Museet har til huse i Kastellet, et fredet forsvarsanlæg, hvis kanontårn stammer fra 1689, og hvis magasinbygning kom til i 1816. Bornholms Museum har ejet anlægget siden 2003, mens selve museet drives af foreningen Kastellets Venner.",
       "categories": [
         "kulturhistorie"
       ],
