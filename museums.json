@@ -1,5 +1,5 @@
 {
-  "version": 59,
+  "version": 60,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -7043,6 +7043,28 @@
         "kunst"
       ],
       "category": "kunst"
+    },
+    {
+      "id": "S226",
+      "name": "Erichsens Gård",
+      "nameEn": null,
+      "type": "statsanerkendt",
+      "city": "Rønne",
+      "address": "Laksegade 7, 3700 Rønne",
+      "latitude": 55.10362,
+      "longitude": 14.697703,
+      "website": "https://bornholmsmuseum.dk/da/besoeg/erichsens-gaard/",
+      "price": "50 kr (under 18 år gratis; haven gratis man–tors)",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "8. maj–18. okt: fredag–lørdag 10–16. Haven mandag–torsdag 10–16 med gratis adgang. Haverundvisning lørdag kl. 11",
+      "openingHoursEn": "8 May–18 Oct: Friday–Saturday 10–16. Garden Monday–Thursday 10–16 with free admission. Garden tour Saturday at 11",
+      "description": "Erichsens Gård in Rønne is a listed townhouse from the early 19th century, furnished as a middle-class home of the period. It was the family home of chancery councillor Thomas Erichsen, and his daughter Vilhelmine became a motif for the painters Kristian Zahrtmann and Holger Drachmann, who both drew on the house and its household. The old garden is planted with species from the period and is freely accessible on weekdays. The museum is part of Bornholms Museum.",
+      "descriptionDa": "Erichsens Gård i Rønne er et fredet byhus fra begyndelsen af 1800-tallet, indrettet som et borgerhjem fra perioden. Huset var hjem for kancelliråd Thomas Erichsens familie, og datteren Vilhelmine blev motiv for malerne Kristian Zahrtmann og Holger Drachmann, der begge hentede inspiration i huset og dets husholdning. Den gamle have er anlagt med planter fra perioden og er frit tilgængelig på hverdage. Museet hører under Bornholms Museum.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
     }
   ]
 }
