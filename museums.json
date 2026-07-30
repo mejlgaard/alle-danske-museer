@@ -1,5 +1,5 @@
 {
-  "version": 61,
+  "version": 62,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -7083,6 +7083,72 @@
       "openingHoursEn": "3 Jun–17 Oct: Wednesday–Saturday 10–16. Closed Sunday–Tuesday and public holidays",
       "description": "Bornholm's Defence Museum in Rønne covers 500 years of the island's military history through objects, vehicles, uniforms and weapons, with particular weight on the German occupation, the Cold War and Bornholm's position on NATO's eastern flank. It is housed in Kastellet, a listed fortification whose cannon tower dates from 1689 and whose magazine building was added in 1816. Bornholms Museum has owned the complex since 2003, while the museum itself is run by the association Kastellets Venner.",
       "descriptionDa": "Bornholms Forsvarsmuseum i Rønne dækker 500 års militærhistorie på øen gennem genstande, køretøjer, uniformer og våben med særlig vægt på den tyske besættelse, den kolde krig og Bornholms placering på NATO's østflanke. Museet har til huse i Kastellet, et fredet forsvarsanlæg, hvis kanontårn stammer fra 1689, og hvis magasinbygning kom til i 1816. Bornholms Museum har ejet anlægget siden 2003, mens selve museet drives af foreningen Kastellets Venner.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
+    },
+    {
+      "id": "P090",
+      "name": "Nexø Museum",
+      "nameEn": null,
+      "type": "privat",
+      "city": "Nexø",
+      "address": "Havnen 9, 3730 Nexø",
+      "latitude": 55.063202,
+      "longitude": 15.134167,
+      "website": "https://www.nexoemuseum.dk",
+      "price": "50 kr (unge 13–18 år 30 kr, børn under 13 år gratis)",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Juni fra uge 25: tirsdag–fredag 13–16. Juli–august: tirsdag–fredag 10–16, lørdag 10–13. September–uge 42: tirsdag–fredag 13–16. Mandag, søndag og helligdage lukket",
+      "openingHoursEn": "June from week 25: Tuesday–Friday 13–16. July–August: Tuesday–Friday 10–16, Saturday 10–13. September–week 42: Tuesday–Friday 13–16. Closed Monday, Sunday and public holidays",
+      "description": "Nexø Museum is housed in a guard house built in 1796 from local Nexø sandstone, right by the harbour. Its exhibitions cover life on Bornholm through the ages, with strong emphasis on fishing, seafaring and the town's own history, including the Soviet bombing of Nexø in 1945. The museum has been run by the local museum association Nexø og Omegns Museumsforening since it opened in 1970.",
+      "descriptionDa": "Nexø Museum har til huse i et vagthus fra 1796 opført i lokal Nexø-sandsten lige ved havnen. Udstillingerne dækker livet på Bornholm gennem tiderne med hovedvægt på fiskeri, søfart og byens egen historie, herunder den sovjetiske bombning af Nexø i 1945. Museet er drevet af Nexø og Omegns Museumsforening, siden det åbnede i 1970.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
+    },
+    {
+      "id": "P091",
+      "name": "Martin Andersen Nexø Museet",
+      "nameEn": "Martin Andersen Nexø Museum",
+      "type": "privat",
+      "city": "Nexø",
+      "address": "Ferskesøstræde 36, 3730 Nexø",
+      "latitude": 55.057697,
+      "longitude": 15.127623,
+      "website": "https://martinandersennexoe.dk",
+      "price": "50 kr (unge 12–18 år og studerende 30 kr, børn under 12 år gratis)",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "2. maj–17. okt: tirsdag–lørdag 13–16",
+      "openingHoursEn": "2 May–17 Oct: Tuesday–Saturday 13–16",
+      "description": "The Martin Andersen Nexø Museum is the childhood home of the author Martin Andersen Nexø, who lived here from 1882 to 1884 and drew on the town for his working-class novels. The rooms are furnished in the style of 1880–1900 and show portraits, photographs, personal belongings and hundreds of copied letters and manuscripts in several languages. The house has been a museum since the summer of 1990 and is run by an association.",
+      "descriptionDa": "Martin Andersen Nexø Museet er forfatteren Martin Andersen Nexøs barndomshjem, hvor han boede fra 1882 til 1884, og byen satte sit præg på hans arbejderromaner. Stuerne er indrettet som i perioden 1880–1900 og viser portrætter, fotografier, personlige ejendele og hundredvis af kopierede breve og manuskripter på flere sprog. Huset har været museum siden sommeren 1990 og drives af en forening.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
+    },
+    {
+      "id": "P092",
+      "name": "Bornholmertårnet",
+      "nameEn": "The Bornholm Tower",
+      "type": "privat",
+      "city": "Nexø",
+      "address": "Strandmarksvejen 2, 3730 Nexø",
+      "latitude": 55.001933,
+      "longitude": 15.073242,
+      "website": "https://www.bornholmertaarnet.dk",
+      "price": "125 kr (børn 4–12 år 75 kr, børn under 4 år gratis)",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Juni–august: dagligt 10–16. September–oktober: dagligt 10–14",
+      "openingHoursEn": "June–August: daily 10–16. September–October: daily 10–14",
+      "description": "Bornholmertårnet at Dueodde is a former top-secret listening post run by the Danish Defence Intelligence Service from 1948 until it closed in 2012, reopened as a museum and experience centre in 2015. Its 1,300 square metres of exhibitions cover the Second World War, the Soviet bombing of Rønne and Nexø in 1945, and Bornholm's role on NATO's front line during the Cold War, with original intelligence rooms and equipment preserved. The 70-metre tower is the island's highest viewpoint, reached by lift or by more than 400 steps.",
+      "descriptionDa": "Bornholmertårnet ved Dueodde er en tidligere tophemmelig lyttepost, som Forsvarets Efterretningstjeneste drev fra 1948, indtil den lukkede i 2012, og som genåbnede som museum og oplevelsescenter i 2015. De 1.300 kvadratmeter udstilling dækker Anden Verdenskrig, den sovjetiske bombning af Rønne og Nexø i 1945 og Bornholms rolle på NATO's frontlinje under den kolde krig, med originale efterretningsrum og udstyr bevaret. Det 70 meter høje tårn er øens højeste udsigtspunkt og nås med elevator eller ad over 400 trin.",
       "categories": [
         "kulturhistorie"
       ],
