@@ -1,5 +1,5 @@
 {
-  "version": 65,
+  "version": 66,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -7222,6 +7222,29 @@
         "kulturhistorie"
       ],
       "category": "transport"
+    },
+    {
+      "id": "P096",
+      "name": "Moseløkken Stenbrudsmuseum",
+      "nameEn": null,
+      "type": "privat",
+      "city": "Allinge",
+      "address": "Moseløkkevej 9, 3770 Allinge",
+      "latitude": 55.27368619,
+      "longitude": 14.77666758,
+      "website": "https://moseloekken.dk",
+      "price": "90 kr (børn under 13 år 80 kr; grupper min. 10 pers. 80 kr pr. pers.). Kun kontant og MobilePay",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "20. apr–2. okt: mandag–fredag 9–16",
+      "openingHoursEn": "20 Apr–2 Oct: Monday–Friday 9–16",
+      "description": "Moseløkken Stone Quarry Museum sits beside an active granite quarry near Hammershus, where quarrying began in 1870. Visitors experience 150 years of Bornholm's stone industry through demonstrations by a genuine Bornholm stone cutter, hands-on granite work with traditional tools, and access to the quarry pit itself. Granite from Moseløkken has been used in landmark projects including Carlsberg's elephant gate and Christiansborg Palace.",
+      "descriptionDa": "Moseløkken Stenbrudsmuseum ligger op ad et aktivt granitbrud tæt på Hammershus, hvor stenbrydningen startede i 1870. Besøgende oplever 150 års bornholmsk stenindustri gennem demonstrationer af en ægte bornholmsk stenhugger, kan selv prøve kræfter med granit og redskaber og få adgang til selve stenbruddet. Granit fra Moseløkken er bl.a. brugt til Carlsbergs elefantport og Christiansborg Slot.",
+      "categories": [
+        "kulturhistorie",
+        "naturhistorie"
+      ],
+      "category": "kulturhistorie"
     }
   ]
 }
