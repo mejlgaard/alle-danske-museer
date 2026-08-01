@@ -1,5 +1,5 @@
 {
-  "version": 63,
+  "version": 64,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -7176,6 +7176,29 @@
         "kulturhistorie"
       ],
       "category": "kunst"
+    },
+    {
+      "id": "P094",
+      "name": "Bornholms Tekniske Samling",
+      "nameEn": null,
+      "type": "privat",
+      "city": "Allinge",
+      "address": "Borrelyngvej 48, 3770 Allinge",
+      "latitude": 55.24984785,
+      "longitude": 14.76414887,
+      "website": "https://bornteksamling.dk",
+      "price": "90 kr (børn 7-14 år 45 kr; under 7 år gratis; grupper over 15 pers. 75 kr pr. pers.)",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "1. maj–uge 42: dagligt 10–16",
+      "openingHoursEn": "1 May–week 42: daily 10–16",
+      "description": "Bornholms Technical Collection occupies Østre Borregård in Rutsker, a former estate under Hammershus, with several thousand square metres of exhibitions run by a volunteer association. More than 20 indoor exhibits cover Bornholm crafts, ceramics (including a collection of 6,170 cups), domestic and agricultural life, printing and engines, while the outdoor areas include a transformer tower, control house and a Saab Draken fighter jet. In summer the historic Poulsker power plant is set running every Sunday at 14:00. Admission is free for children under 7 and includes coffee and tea.",
+      "descriptionDa": "Bornholms Tekniske Samling holder til på Østre Borregård i Rutsker, en tidligere avlsgård under Hammershus, og rummer flere tusind kvadratmeter udstilling drevet af en frivillig forening. Mere end 20 indendørs udstillinger viser bornholmsk håndværk, keramik (heriblandt en samling på 6.170 kopper), bolig- og landbrugsliv, bogtrykkeri og motorer, mens de udendørs områder byder på et transformatortårn, kontrolhus og et Saab Draken-jagerfly. Om sommeren sættes det historiske Poulsker Elværk i drift hver søndag kl. 14. Der er fri adgang for børn under 7 år, og entré inkluderer kaffe og te.",
+      "categories": [
+        "teknologi",
+        "kulturhistorie"
+      ],
+      "category": "teknologi"
     }
   ]
 }
