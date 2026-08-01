@@ -1,5 +1,5 @@
 {
-  "version": 64,
+  "version": 65,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -7199,6 +7199,29 @@
         "kulturhistorie"
       ],
       "category": "teknologi"
+    },
+    {
+      "id": "P095",
+      "name": "DBJ Museum",
+      "nameEn": null,
+      "type": "privat",
+      "city": "Nexø",
+      "address": "Ndr. Strandvej 8, 3730 Nexø",
+      "latitude": 55.06638994,
+      "longitude": 15.13538204,
+      "website": "https://www.dbj.dk",
+      "price": "60 kr (børn 6-13 år 30 kr; 0-5 år gratis med voksne, maks. 6 pers. pr. voksen)",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "11. maj–16. okt: mandag–fredag 11–16 (indgang & billetsalg lukker 15.30). Lukket lør-, søn- og helligdage",
+      "openingHoursEn": "11 May–16 Oct: Monday–Friday 11–16 (entrance & ticket sales close 15.30). Closed Saturdays, Sundays and public holidays",
+      "description": "DBJ Museum in Nexø is run by the volunteer association Foreningen de Bornholmske Jernbaner and preserves the heritage of Bornholm's historic railway, which operated from 1900 to 1968. The museum is built up as a station environment with railway carriages, photographs and artifacts, including the number plate from the first steam locomotive to arrive on Bornholm in 1899. Special exhibitions with video films are also on display, and group visits outside opening hours can be arranged for a minimum of 10 people.",
+      "descriptionDa": "DBJ Museum i Nexø drives af den frivillige forening De Bornholmske Jernbaner og bevarer historien om Bornholms jernbane, der kørte fra 1900 til 1968. Museet er opbygget som et stationsmiljø med jernbanevogne, billeder og genstande, heriblandt nummerpladen fra det første damplokomotiv der ankom til Bornholm i 1899. Der vises desuden flere specialudstillinger med videofilm, og gruppebesøg uden for åbningstiden kan aftales ved min. 10 personer.",
+      "categories": [
+        "transport",
+        "kulturhistorie"
+      ],
+      "category": "transport"
     }
   ]
 }
