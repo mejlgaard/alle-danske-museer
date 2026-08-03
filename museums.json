@@ -1,5 +1,5 @@
 {
-  "version": 66,
+  "version": 67,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -7243,6 +7243,50 @@
       "categories": [
         "kulturhistorie",
         "naturhistorie"
+      ],
+      "category": "kulturhistorie"
+    },
+    {
+      "id": "P097",
+      "name": "Hasle Røgerimuseum",
+      "nameEn": "Hasle Smokehouse Museum",
+      "type": "privat",
+      "city": "Hasle",
+      "address": "Søndre Bæk 20, 3790 Hasle",
+      "latitude": 55.17977664,
+      "longitude": 14.70325641,
+      "website": "https://hasleroegeri.dk",
+      "price": "Gratis",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Påske–efterårsferien: dagligt fra ca. kl. 10",
+      "openingHoursEn": "Easter–autumn break: daily from approx. 10:00",
+      "description": "Hasle Smokehouse Museum occupies a building from 1897 next to Hasle's working smokehouse, the last on Bornholm still smoking herring the traditional way over open alderwood fires. Free to visit, the small museum displays historic photographs and the original smoking kilns and tools, tracing over a century of Bornholm's fish-smoking craft. Guided 45-minute tours (min. 15 people) through the adjoining Hasle Røgeri include a smoked herring and beer tasting.",
+      "descriptionDa": "Hasle Røgerimuseum holder til i en bygning fra 1897 ved siden af Hasle Røgeri, det sidste røgeri på Bornholm der stadig ryger sild på gammeldags vis over åbne ildstæder med elletræ. Det lille museum, som har gratis adgang, viser historiske fotografier samt de oprindelige røgeovne og redskaber og fortæller om mere end hundrede års bornholmsk røgerihåndværk. Gennem det tilstødende røgeri kan man booke 45 minutters rundvisning (min. 15 pers.) med smagsprøver på røget sild og øl.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
+    },
+    {
+      "id": "P098",
+      "name": "Christiansø Museum",
+      "nameEn": null,
+      "type": "privat",
+      "city": "Christiansø",
+      "address": "Lille Tårn, Frederiksø, Christiansø, 3760 Gudhjem",
+      "latitude": 55.32222,
+      "longitude": 15.18361,
+      "website": "https://www.christiansoe.dk",
+      "price": "40 kr (børn 6-15 år 20 kr; grupper min. 10 pers. 20 kr pr. pers.; skoleelever inkl. i færgebillet). Fælles billet gælder også Store Tårn",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "18. apr–20. maj: 8–14. 21. maj–17. jun: 8–16. 18. jun–18. aug: 8–19. 19. aug–18. sep: 8–16. 19. sep–20. okt: 8–14",
+      "openingHoursEn": "18 Apr–20 May: 8–14. 21 May–17 Jun: 8–16. 18 Jun–18 Aug: 8–19. 19 Aug–18 Sep: 8–16. 19 Sep–20 Oct: 8–14",
+      "description": "Christiansø Museum occupies Lille Tårn (the Little Tower) on Frederiksø, part of the remote Ertholmene islands off Bornholm, built in 1685-87 as part of the fortification of Christiansø and later used as a prison. The same ticket also covers Store Tårn (the Great Tower); together they house the regional and local history collection of Ertholmene alongside an exhibition on the islands as a military fortress, including a model showing the fortification as it looked in 1855 and displays on local birdlife such as the eider duck. Nearby on Frederiksø, the free Ballonen prison museum preserves the 1825 state prison cell of political prisoner Jacob Jacobsen Dampe.",
+      "descriptionDa": "Christiansø Museum holder til i Lille Tårn på Frederiksø, en del af de afsidesliggende Ertholmene ud for Bornholm, opført 1685-87 som led i befæstningen af Christiansø og senere brugt som fængsel. Samme billet gælder også Store Tårn; sammen rummer de Ertholmenes egns- og lokalhistoriske samling samt en udstilling om øerne som militært fæstningsværk, bl.a. en model der viser fæstningen som den så ud i 1855, og udstillinger om lokalt fugleliv som ederfuglen. På Frederiksø ligger desuden det gratis fængselsmuseum Ballonen, der bevarer cellen fra statsfængslet fra 1825, hvor den politiske fange Jacob Jacobsen Dampe sad indespærret.",
+      "categories": [
+        "kulturhistorie"
       ],
       "category": "kulturhistorie"
     }
