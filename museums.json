@@ -1,5 +1,5 @@
 {
-  "version": 67,
+  "version": 68,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -7285,6 +7285,28 @@
       "openingHoursEn": "18 Apr–20 May: 8–14. 21 May–17 Jun: 8–16. 18 Jun–18 Aug: 8–19. 19 Aug–18 Sep: 8–16. 19 Sep–20 Oct: 8–14",
       "description": "Christiansø Museum occupies Lille Tårn (the Little Tower) on Frederiksø, part of the remote Ertholmene islands off Bornholm, built in 1685-87 as part of the fortification of Christiansø and later used as a prison. The same ticket also covers Store Tårn (the Great Tower); together they house the regional and local history collection of Ertholmene alongside an exhibition on the islands as a military fortress, including a model showing the fortification as it looked in 1855 and displays on local birdlife such as the eider duck. Nearby on Frederiksø, the free Ballonen prison museum preserves the 1825 state prison cell of political prisoner Jacob Jacobsen Dampe.",
       "descriptionDa": "Christiansø Museum holder til i Lille Tårn på Frederiksø, en del af de afsidesliggende Ertholmene ud for Bornholm, opført 1685-87 som led i befæstningen af Christiansø og senere brugt som fængsel. Samme billet gælder også Store Tårn; sammen rummer de Ertholmenes egns- og lokalhistoriske samling samt en udstilling om øerne som militært fæstningsværk, bl.a. en model der viser fæstningen som den så ud i 1855, og udstillinger om lokalt fugleliv som ederfuglen. På Frederiksø ligger desuden det gratis fængselsmuseum Ballonen, der bevarer cellen fra statsfængslet fra 1825, hvor den politiske fange Jacob Jacobsen Dampe sad indespærret.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
+    },
+    {
+      "id": "P099",
+      "name": "Fredensborg Museum",
+      "nameEn": null,
+      "type": "privat",
+      "city": "Kokkedal",
+      "address": "Avderødvej 19, 2980 Kokkedal",
+      "latitude": 55.9181825,
+      "longitude": 12.43747276,
+      "website": "https://fredborgmus.dk",
+      "price": "Gratis",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Søndag 12–16. December–januar kun efter aftale",
+      "openingHoursEn": "Sunday 12–16. December–January by appointment only",
+      "description": "Fredensborg Museum occupies Avderød Rytterskole, built in 1723 as one of the 241 village schools King Frederik IV founded across the crown's cavalry districts, and used as a school until 1923. Run by volunteers in a building owned by Fredensborg Municipality, it covers the local history of the area between Esrum Lake in the west and the Øresund coast in the east. Three permanent displays hold the reconstructed schoolroom, a collection of decorative tiles from the Humlebæk and Nivå tile works, and the carriage shed. Admission is free, and old-fashioned games are set up in the garden.",
+      "descriptionDa": "Fredensborg Museum holder til i Avderød Rytterskole, opført 1723 som en af de 241 landsbyskoler Frederik IV lod bygge i krongodsets rytterdistrikter, og brugt som skole indtil 1923. Museet drives af frivillige i en bygning ejet af Fredensborg Kommune og fortæller egnens lokalhistorie fra Esrum Sø i vest til Øresund i øst. Tre faste udstillinger rummer den genskabte skolestue, en samling kunstfliser fra teglværkerne i Humlebæk og Nivå samt vognporten. Der er gratis adgang, og i haven er der stillet gamle lege op.",
       "categories": [
         "kulturhistorie"
       ],
