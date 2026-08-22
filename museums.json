@@ -1,5 +1,5 @@
 {
-  "version": 68,
+  "version": 69,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -7311,6 +7311,29 @@
         "kulturhistorie"
       ],
       "category": "kulturhistorie"
+    },
+    {
+      "id": "P100",
+      "name": "Antikmuseet",
+      "nameEn": "Museum of Ancient Art",
+      "type": "privat",
+      "city": "Aarhus",
+      "address": "Victor Albecks Vej 3, 8000 Aarhus C",
+      "latitude": 56.17044075,
+      "longitude": 10.20037415,
+      "website": "https://antikmuseet.au.dk",
+      "price": "Gratis",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Søndag–torsdag 12–16 (uden for åbningstid efter aftale)",
+      "openingHoursEn": "Sunday–Thursday 12–16 (outside opening hours by appointment)",
+      "description": "Antikmuseet is the antiquities collection of Aarhus University, founded in 1949 by professor P. J. Riis as a study collection for classical archaeology and later opened to the public. It holds around 4,000 antiquities from Greece, Italy, Egypt and the Near East, more than 500 plaster casts of classical sculpture, and one of the most important coin collections in Scandinavia. Admission is free, and the museum lies in the university park close to the Steno Museum and the Ole Rømer Observatory.",
+      "descriptionDa": "Antikmuseet er Aarhus Universitets antiksamling, grundlagt i 1949 af professor P. J. Riis som studiesamling for klassisk arkæologi og siden åbnet for offentligheden. Samlingen rummer omkring 4.000 antikke genstande fra Grækenland, Italien, Egypten og Nærorienten, mere end 500 gipsafstøbninger af klassisk skulptur samt en af Skandinaviens vigtigste møntsamlinger. Der er gratis adgang, og museet ligger i universitetsparken tæt på Steno Museet og Ole Rømer Observatoriet.",
+      "categories": [
+        "arkæologi",
+        "kunst"
+      ],
+      "category": "arkæologi"
     }
   ]
 }
