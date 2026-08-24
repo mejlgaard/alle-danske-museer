@@ -1,5 +1,5 @@
 {
-  "version": 69,
+  "version": 70,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -7334,6 +7334,116 @@
         "kunst"
       ],
       "category": "arkæologi"
+    },
+    {
+      "id": "P101",
+      "name": "Jens Søndergaards Museum",
+      "nameEn": null,
+      "type": "statsanerkendt",
+      "city": "Ferring",
+      "address": "Transvej 4, Ferring, 7620 Lemvig",
+      "latitude": 56.5259134,
+      "longitude": 8.1186891,
+      "website": "https://lemvigmuseum.dk/jens-soendergaard-museum/",
+      "price": "75 kr (billetten gælder også Lemvig Museum; børn og unge under 18 år gratis)",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Apr–jun og sep–okt: tirsdag–søndag 10–16. Jul–aug: tirsdag–søndag 10–17. Åbent i vinter- og efterårsferien samt påske og pinse. Lukket resten af året",
+      "openingHoursEn": "Apr–Jun and Sep–Oct: Tuesday–Sunday 10–16. Jul–Aug: Tuesday–Sunday 10–17. Also open in the February and October school holidays, Easter and Whitsun. Closed the rest of the year",
+      "description": "Jens Søndergaards Museum stands at the edge of the cliff at Ferring on the west coast of Jutland, in the former summer home of the painter, which he left to the municipality on his death. The collection holds both major works and lesser-known paintings and drawings by Jens Søndergaard, whose motifs came largely from the sea and dunes just outside the windows. The museum is a department of Lemvig Museum, and one ticket covers both sites. Drawing materials are laid out so visitors can try the landscape for themselves.",
+      "descriptionDa": "Jens Søndergaards Museum ligger yderst på skrænten ved Ferring på den jyske vestkyst og er indrettet i malerens tidligere sommerbolig, som han testamenterede til kommunen ved sin død. Samlingen rummer både hovedværker og mindre kendte malerier og tegninger af Jens Søndergaard, hvis motiver i høj grad kom fra havet og klitterne lige uden for vinduerne. Museet er en afdeling af Lemvig Museum, og billetten gælder begge steder. Der ligger tegnegrej fremme, så man kan prøve kræfter med landskabet selv.",
+      "categories": [
+        "kunst"
+      ],
+      "category": "kunst"
+    },
+    {
+      "id": "P102",
+      "name": "Kaj Munks Præstegård",
+      "nameEn": null,
+      "type": "statsanerkendt",
+      "city": "Vedersø",
+      "address": "Vesterhavsvej 7A, Vedersø, 6990 Ulfborg",
+      "latitude": 56.2486726,
+      "longitude": 8.1845402,
+      "website": "https://ringkobingfjordmuseer.dk/museer/kaj-munks-praestegaard/",
+      "price": "75 kr (børn og unge under 18 år gratis)",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Torsdag–søndag 11–16 (sæsonen slutter 31. oktober). Guidede ture tirsdag og torsdag kl. 13 i juli og august",
+      "openingHoursEn": "Thursday–Sunday 11–16 (season ends 31 October). Guided tours Tuesday and Thursday at 13:00 in July and August",
+      "description": "Kaj Munks Præstegård in Vedersø is the home where the priest and playwright Kaj Munk lived and wrote his plays, poems and sermons. The exhibition \"Hvad var det dog, der skete?\" leads through seven rooms with sound and images and centres on 4 January 1944, when Munk was abducted and killed by the German occupying forces. The garden where he grew his blue anemones is open to visitors, and the café looks out over Nørresø. The parsonage is run by Ringkøbing Fjord Museer.",
+      "descriptionDa": "Kaj Munks Præstegård i Vedersø er det hjem, hvor præsten og dramatikeren Kaj Munk boede og skrev sine skuespil, digte og prædikener. Udstillingen \"Hvad var det dog, der skete?\" fører gennem syv rum med lyd og billeder og har tyngden på den 4. januar 1944, hvor Munk blev bortført og dræbt af den tyske besættelsesmagt. Haven, hvor han dyrkede sine blå anemoner, er åben for besøgende, og caféen har udsigt over Nørresø. Præstegården drives af Ringkøbing Fjord Museer.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
+    },
+    {
+      "id": "P103",
+      "name": "Bovbjerg Fyr",
+      "nameEn": "Bovbjerg Lighthouse",
+      "type": "privat",
+      "city": "Ferring",
+      "address": "Fyrvej 27, Ferring, 7620 Lemvig",
+      "latitude": 56.513278,
+      "longitude": 8.1199017,
+      "website": "https://bovbjergfyr.dk",
+      "price": "30 kr (børn 5–14 år 10 kr; under 5 år gratis)",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Feb–apr: 12–16. Maj–sep: 9.30–17. Okt–nov: 12–16. Lukket mandag uden for højsæsonen. Januar lukket",
+      "openingHoursEn": "Feb–Apr: 12–16. May–Sep: 9:30–17. Oct–Nov: 12–16. Closed Mondays outside the high season. Closed in January",
+      "description": "Bovbjerg Fyr stands on the clay cliff facing the North Sea at Ferring, one of the few high points on Jutland's otherwise flat west coast. The tower can be climbed for a view across sea and dunes, and the old lighthouse keeper's residence holds changing art exhibitions through the year. The lighthouse is run as a cultural venue by a foundation with around 150 volunteers, with a café, guided tours and events; it has no permanent collection of its own.",
+      "descriptionDa": "Bovbjerg Fyr står på lerklinten ud mod Vesterhavet ved Ferring, et af de få høje punkter på den ellers flade jyske vestkyst. Tårnet kan bestiges og giver udsigt over hav og klit, og i den gamle fyrmesterbolig skifter kunstudstillingerne hen over året. Fyret drives som kulturhus af en fond med omkring 150 frivillige og rummer café, guidede ture og arrangementer, men ingen fast egen samling.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
+    },
+    {
+      "id": "P104",
+      "name": "Hammerichs Hus",
+      "nameEn": null,
+      "type": "statsanerkendt",
+      "city": "Ærøskøbing",
+      "address": "Gyden 22, 5970 Ærøskøbing",
+      "latitude": 54.8886619,
+      "longitude": 10.4115348,
+      "website": "https://aeroemuseum.dk/planlaeg-dit-besoeg/hammerichs-hus/",
+      "price": "50 kr (børn og unge 0–17 år gratis)",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "2. jun–17. okt: tirsdag–lørdag 11–14. 27. jun–30. aug: dagligt 11–14",
+      "openingHoursEn": "2 Jun–17 Oct: Tuesday–Saturday 11–14. 27 Jun–30 Aug: daily 11–14",
+      "description": "Hammerichs Hus was the holiday home of sculptor Gunnar Hammerich, who from 1916 gradually joined three neighbouring houses around a building from 1803 into a single home in Ærøskøbing. It holds more than 2,500 objects he collected over a lifetime, from simple pieces in wood, clay and metal to refined work in porcelain and glass, much of it from Ærø and southern Jutland. He gave the house to the municipality in 1967 on condition that the collection be kept exactly as it stood, and since 1990 it has been part of Ærø Museum.",
+      "descriptionDa": "Hammerichs Hus var billedhuggeren Gunnar Hammerichs feriehjem i Ærøskøbing, skabt ved fra 1916 gradvist at lægge tre nabohuse sammen omkring en bygning fra 1803. Huset rummer over 2.500 genstande, han samlede gennem et langt liv — fra enkle ting i træ, ler og metal til forfinet arbejde i porcelæn og glas, meget af det fra Ærø og Sønderjylland. Han skænkede huset til kommunen i 1967 på betingelse af, at samlingen skulle bevares nøjagtig som den stod, og siden 1990 har det hørt under Ærø Museum.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
+    },
+    {
+      "id": "P105",
+      "name": "Flaskeskibsmuseet",
+      "nameEn": "The Bottle Ship Museum",
+      "type": "statsanerkendt",
+      "city": "Ærøskøbing",
+      "address": "Smedegade 22, 5970 Ærøskøbing",
+      "latitude": 54.8896401,
+      "longitude": 10.4120177,
+      "website": "https://aeroemuseum.dk/planlaeg-dit-besoeg/flaskeskibsmuseet/",
+      "price": "50 kr (børn og unge 0–17 år gratis)",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "27. jun–30. aug: dagligt 11–17. 1.–30. sep: tirsdag–lørdag 11–15",
+      "openingHoursEn": "27 Jun–30 Aug: daily 11–17. 1–30 Sep: Tuesday–Saturday 11–15",
+      "description": "The Bottle Ship Museum in Ærøskøbing holds the collection of Peter Jacobsen, known as Flaske-Peter. A sailor by trade, he learned to build ships in bottles from a Finnish shipmate and kept at it for more than seventy years, producing over 1,700 bottle ships, some fifty large ship models and a series of ships built in cigar boxes when bottles ran short during the occupation. The collection has been housed in the town's former poorhouse since 1943, when Flaske-Peter and his wife moved in along with it.",
+      "descriptionDa": "Flaskeskibsmuseet i Ærøskøbing rummer Flaske-Peters samling. Peter Jacobsen var sømand og lærte kunsten at bygge skibe i flasker af en finsk skibskammerat; gennem mere end halvfjerds år nåede han over 1.700 flaskeskibe, omkring halvtreds store modelskibe og en række skibe bygget i cigarkasser, da flasker blev en mangelvare under besættelsen. Samlingen har haft til huse i byens tidligere fattiggård siden 1943, hvor Flaske-Peter og hans kone flyttede ind sammen med den.",
+      "categories": [
+        "søfart"
+      ],
+      "category": "søfart"
     }
   ]
 }
