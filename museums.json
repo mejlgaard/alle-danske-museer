@@ -1,5 +1,5 @@
 {
-  "version": 71,
+  "version": 72,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -5197,7 +5197,7 @@
       "id": "P037",
       "name": "Nakkehoved Fyr / Fyrhistorisk Museum",
       "nameEn": "Nakkehoved Lighthouse / Museum of Lighthouse History",
-      "type": "privat",
+      "type": "statsanerkendt",
       "city": "Gilleleje",
       "municipality": "Gribskov",
       "region": "Region Hovedstaden",
@@ -8116,6 +8116,129 @@
         "søfart"
       ],
       "category": "søfart"
+    },
+    {
+      "id": "P106",
+      "name": "Gilleleje Museum",
+      "nameEn": null,
+      "type": "statsanerkendt",
+      "city": "Gilleleje",
+      "municipality": "Gribskov",
+      "region": "Region Hovedstaden",
+      "address": "Østergade 20A, 3250 Gilleleje",
+      "latitude": 56.123742,
+      "longitude": 12.311693,
+      "website": "https://museumns.dk/museum/gilleleje-museum/",
+      "price": "60 kr (børn og unge under 18 år gratis)",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "27. jun–30. aug: dagligt 11–16. 5. sep–4. okt: torsdag + weekend 11–16. 10.–18. okt: dagligt 11–16",
+      "openingHoursEn": "27 Jun–30 Aug: daily 11–16. 5 Sep–4 Oct: Thursday + weekends 11–16. 10–18 Oct: daily 11–16",
+      "description": "Gilleleje Museum occupies four buildings around an old garden in the former fishing village. The exhibitions cover the fishing trade, seaside holidays in the 1950s and October 1943, when the townspeople hid and ferried Jewish refugees across the Øresund to Sweden. A department of Museum Nordsjælland.",
+      "descriptionDa": "Gilleleje Museum ligger i fire bygninger omkring en gammel have i det gamle fiskerleje. Udstillingerne handler om fiskeriet, om badelivet i 1950'erne og om oktober 1943, hvor byens beboere skjulte og sejlede jødiske flygtninge over Øresund til Sverige. Afdeling af Museum Nordsjælland.",
+      "categories": [
+        "kulturhistorie",
+        "søfart"
+      ],
+      "category": "kulturhistorie"
+    },
+    {
+      "id": "P107",
+      "name": "Elværket Hillerød",
+      "nameEn": null,
+      "type": "statsanerkendt",
+      "city": "Hillerød",
+      "municipality": "Hillerød",
+      "region": "Region Hovedstaden",
+      "address": "Frederiksgade 11, 3400 Hillerød",
+      "latitude": 55.928188,
+      "longitude": 12.299592,
+      "website": "https://museumns.dk/museum/elvaerket-hilleroed/",
+      "price": "60 kr (børn og unge under 18 år gratis)",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "15. aug–4. okt: weekend 10–15. 10.–18. okt: dagligt 10–15",
+      "openingHoursEn": "15 Aug–4 Oct: weekends 10–15. 10–18 Oct: daily 10–15",
+      "description": "Elværket is housed in Hillerød's power station from 1909 and shows the archaeology and cultural history of North Zealand. In the museum's archaeotek children can excavate reconstructed graves using archaeological methods. A department of Museum Nordsjælland.",
+      "descriptionDa": "Elværket holder til i Hillerøds elværk fra 1909 og viser Nordsjællands arkæologi og kulturhistorie. I museets arkæotek kan børn selv grave i rekonstruerede grave med arkæologiens metoder. Afdeling af Museum Nordsjælland.",
+      "categories": [
+        "arkæologi",
+        "kulturhistorie"
+      ],
+      "category": "arkæologi"
+    },
+    {
+      "id": "P108",
+      "name": "Hillerød Bymuseum",
+      "nameEn": "Hillerød City Museum",
+      "type": "statsanerkendt",
+      "city": "Hillerød",
+      "municipality": "Hillerød",
+      "region": "Region Hovedstaden",
+      "address": "Helsingørsgade 65, 3400 Hillerød",
+      "latitude": 55.933669,
+      "longitude": 12.308921,
+      "website": "https://museumns.dk/museum/hilleroed-bymuseum/",
+      "price": "60 kr (børn under 18 år gratis)",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "15. aug–4. okt: weekend 10–15. 10.–18. okt: dagligt 10–15",
+      "openingHoursEn": "15 Aug–4 Oct: weekends 10–15. 10–18 Oct: daily 10–15",
+      "description": "Hillerød City Museum tells the town's history through everyday life and the people who lived it. It lies close to the gardens of Frederiksborg Castle and has indoor and outdoor activities aimed particularly at children aged 2 to 12. A department of Museum Nordsjælland.",
+      "descriptionDa": "Hillerød Bymuseum fortæller byens historie gennem hverdagsliv og mennesker. Museet ligger tæt ved Frederiksborg Slotshave og har inde- og udendørs aktiviteter indrettet særligt til børn mellem 2 og 12 år. Afdeling af Museum Nordsjælland.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
+    },
+    {
+      "id": "P109",
+      "name": "Æbelholt Kloster",
+      "nameEn": "Æbelholt Abbey",
+      "type": "statsanerkendt",
+      "city": "Hillerød",
+      "municipality": "Hillerød",
+      "region": "Region Hovedstaden",
+      "address": "Æbelholt 4, 3400 Hillerød",
+      "latitude": 55.943875,
+      "longitude": 12.214864,
+      "website": "https://museumns.dk/museum/aebelholt-kloster/",
+      "price": "40 kr (børn og unge under 18 år gratis)",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "15. aug–4. okt: weekend 11–16. 10.–18. okt: onsdag + weekend 11–16. Klosterruinen er tilgængelig hele året",
+      "openingHoursEn": "15 Aug–4 Oct: weekends 11–16. 10–18 Oct: Wednesday + weekends 11–16. The abbey ruin is accessible all year",
+      "description": "Æbelholt was one of the largest monasteries in medieval Denmark. The museum displays hundreds of skeletons from the abbey cemetery, and outside lie the ruins and a herb garden with more than 100 medicinal plants. A department of Museum Nordsjælland.",
+      "descriptionDa": "Æbelholt var et af middelalderens største klostre i Danmark. Museet viser hundredvis af skeletter fra klosterets kirkegård, og udenfor ligger ruinerne og en urtehave med over 100 lægeplanter. Afdeling af Museum Nordsjælland.",
+      "categories": [
+        "arkæologi",
+        "kulturhistorie"
+      ],
+      "category": "arkæologi"
+    },
+    {
+      "id": "P110",
+      "name": "Hørsholm Egns Museum",
+      "nameEn": "Hørsholm Local Museum",
+      "type": "statsanerkendt",
+      "city": "Hørsholm",
+      "municipality": "Hørsholm",
+      "region": "Region Hovedstaden",
+      "address": "Sdr. Jagtvej 2, 2970 Hørsholm",
+      "latitude": 55.875227,
+      "longitude": 12.502816,
+      "website": "https://museumns.dk/museum/hoersholm-egns-museum/",
+      "price": "40 kr (børn og unge under 18 år gratis)",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "15. aug–4. okt: weekend 11–16. 10.–18. okt: onsdag + weekend 11–16",
+      "openingHoursEn": "15 Aug–4 Oct: weekends 11–16. 10–18 Oct: Wednesday + weekends 11–16",
+      "description": "Hørsholm Local Museum is housed in an 18th-century tenant farmer's residence. The exhibitions cover Hirschholm Palace, press freedom and royal intrigue, and Poul Henningsen, who lived in Hørsholm from 1948 to 1967. A department of Museum Nordsjælland.",
+      "descriptionDa": "Hørsholm Egns Museum ligger i en forpagterbolig fra 1700-tallet. Udstillingerne handler om Hirschholm Slot, om trykkefrihed og kongelig intrige, og om Poul Henningsen, der boede i Hørsholm fra 1948 til 1967. Afdeling af Museum Nordsjælland.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
     }
   ]
 }
