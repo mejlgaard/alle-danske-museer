@@ -1,5 +1,5 @@
 {
-  "version": 73,
+  "version": 74,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -7,7 +7,8 @@
     "S125": "061",
     "P064": "045",
     "P062": "P059",
-    "055": "S223"
+    "055": "S223",
+    "051": "S150"
   },
   "retiredIds": [
     "046",
@@ -17,7 +18,8 @@
     "P057",
     "P067",
     "P070",
-    "S094"
+    "S094",
+    "051"
   ],
   "museums": [
     {
@@ -1821,29 +1823,6 @@
         "kunst"
       ],
       "category": "kunst"
-    },
-    {
-      "id": "051",
-      "name": "Museum Lolland-Falster",
-      "nameEn": "Museum Lolland-Falster",
-      "type": "statsanerkendt",
-      "city": "Maribo",
-      "municipality": "Lolland",
-      "region": "Region Sjælland",
-      "address": "Banegårdspladsen 11, 4930 Maribo",
-      "latitude": 54.77629,
-      "longitude": 11.50198,
-      "website": "https://museumlollandfalster.dk",
-      "price": "95 kr",
-      "freeDay": null,
-      "freeDayWeekday": null,
-      "openingHours": null,
-      "description": "Museum Lolland-Falster covers the history of the two large Danish islands of Lolland and Falster. From Viking-age finds to the dramatic story of the 1872 storm flood, the museum brings the islands' layered history to life. A comprehensive regional museum with a broad and engaging collection.",
-      "descriptionDa": "Museum Lolland-Falster dækker de to store danske øers historie. Fra vikingefund til den dramatiske fortælling om stormfloden i 1872 bringer museet øernes lagdelte historie til live. Et alsidigt regionalmuseum med en bred og engagerende samling.",
-      "categories": [
-        "kulturhistorie"
-      ],
-      "category": "kulturhistorie"
     },
     {
       "id": "052",
@@ -5783,8 +5762,8 @@
       "municipality": "Dragør",
       "region": "Region Hovedstaden",
       "address": "Strandlinien 4, 2791 Dragør",
-      "latitude": 55.594062,
-      "longitude": 12.671996,
+      "latitude": 55.593553,
+      "longitude": 12.674736,
       "website": "https://museumamager.dk/dragoer-museum",
       "price": "75 kr",
       "freeDay": null,
@@ -5833,8 +5812,8 @@
       "municipality": "Dragør",
       "region": "Region Hovedstaden",
       "address": "Dr. Dichs Plads 1, 2791 Dragør",
-      "latitude": 55.594062,
-      "longitude": 12.671996,
+      "latitude": 55.592187,
+      "longitude": 12.671632,
       "website": "https://museumamager.dk/moelsteds-atelier",
       "price": "Gratis",
       "freeDay": null,
@@ -6324,8 +6303,8 @@
       "municipality": "Læsø",
       "region": "Region Nordjylland",
       "address": "Museumsvej 3, Byrum, 9940 Læsø",
-      "latitude": 57.26312,
-      "longitude": 11.03249,
+      "latitude": 57.263309,
+      "longitude": 11.031839,
       "website": "https://www.laesoe-museum.dk",
       "price": null,
       "freeDay": null,
