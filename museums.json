@@ -1,5 +1,5 @@
 {
-  "version": 75,
+  "version": 76,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -8660,6 +8660,55 @@
       "categories": [
         "kunst",
         "design"
+      ],
+      "category": "kunst"
+    },
+    {
+      "id": "P129",
+      "name": "Økolariet",
+      "nameEn": null,
+      "type": "privat",
+      "city": "Vejle",
+      "municipality": "Vejle",
+      "region": "Region Syddanmark",
+      "address": "Dæmningen 11, 7100 Vejle",
+      "latitude": 55.706931,
+      "longitude": 9.535026,
+      "website": "https://www.okolariet.dk",
+      "price": "Gratis",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "1. feb–18. dec: alle dage 10–16. 19. dec–31. jan: lukket",
+      "openingHoursEn": "1 Feb–18 Dec: daily 10–16. 19 Dec–31 Jan: closed",
+      "description": "A knowledge and experience centre about climate, nature and sustainability, run by Vejle Municipality and a recognised science-education centre since 2009. The interactive exhibitions cover biodiversity and forests, the fjord and the sea, drinking water and sewers, food and climate, waste, plastic and energy. Free admission.",
+      "descriptionDa": "Et videns- og oplevelsescenter om klima, natur og bæredygtighed, drevet af Vejle Kommune og anerkendt videnspædagogisk aktivitetscenter siden 2009. De interaktive udstillinger handler om biodiversitet og skov, om fjorden og havet, om drikkevand og kloakker, om mad og klima, affald, plast og energi. Gratis adgang.",
+      "categories": [
+        "naturhistorie",
+        "teknologi"
+      ],
+      "category": "naturhistorie"
+    },
+    {
+      "id": "KH017",
+      "name": "Kunsthal Vejle",
+      "nameEn": null,
+      "type": "kunsthal",
+      "city": "Vejle",
+      "municipality": "Vejle",
+      "region": "Region Syddanmark",
+      "address": "Banegårdspladsen 6, 7100 Vejle",
+      "latitude": 55.706565,
+      "longitude": 9.535911,
+      "website": "https://www.kunsthalvejle.dk",
+      "price": "Gratis",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Døgnåbent. Kunsten ses gennem automatens ruder",
+      "openingHoursEn": "Open around the clock. The art is seen through the windows of the automat",
+      "description": "An artist-run exhibition space for Danish and international contemporary art, run by Sanne Juhler Hansen since 2018. The main venue is Den Blå Automat, a sandwich vending machine from the 1950s on the station square whose twenty small compartments each hold a work. A second room, RUM 21, lies at Borgvold 16A. The art can be seen from the street around the clock, free.",
+      "descriptionDa": "Et kunstnerdrevet udstillingssted for dansk og international samtidskunst, drevet af Sanne Juhler Hansen siden 2018. Hovedstedet er Den Blå Automat, en smørrebrødsautomat fra 1950'erne på banegårdspladsen, hvis tyve små rum hver rummer et værk. Et ekstra rum, RUM 21, ligger på Borgvold 16A. Kunsten kan ses fra gaden døgnet rundt, gratis.",
+      "categories": [
+        "kunst"
       ],
       "category": "kunst"
     }
