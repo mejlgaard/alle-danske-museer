@@ -1,5 +1,5 @@
 {
-  "version": 76,
+  "version": 77,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -8711,6 +8711,30 @@
         "kunst"
       ],
       "category": "kunst"
+    },
+    {
+      "id": "P130",
+      "name": "Nykøbing Sj. Psykiatriske Museum",
+      "nameEn": "Nykøbing Sj. Psychiatric Museum",
+      "type": "privat",
+      "city": "Nykøbing Sjælland",
+      "municipality": "Odsherred",
+      "region": "Region Sjælland",
+      "address": "Annebergparken 28A, 4500 Nykøbing Sjælland",
+      "latitude": 55.909127,
+      "longitude": 11.660315,
+      "website": "https://www.sns-museum.dk",
+      "price": "60 kr (under 15 år gratis; rundvisning inkl. museum 80 kr)",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Sep–nov: fredag og lørdag 10–14. Efterårsferien (uge 42): mandag, tirsdag og torsdag 10–14. Rundvisning uden tilmelding hver lørdag i sep og okt kl. 11",
+      "openingHoursEn": "Sep–Nov: Friday and Saturday 10–14. Autumn holiday (week 42): Monday, Tuesday and Thursday 10–14. Guided tour without booking every Saturday in Sep and Oct at 11",
+      "description": "A museum of psychiatric history in Anneberg Kulturpark, on the grounds of the old Nykøbing Sjælland mental hospital, founded in 1988 by former staff and run as a self-governing institution. Reconstructed wards and treatment rooms show everyday life for the patients, and the guided tours take in the hospital grounds, the church and the chapel. In 2022 the museum moved into the former laundry in the heart of the park.",
+      "descriptionDa": "Et museum om psykiatriens historie i Anneberg Kulturpark på det gamle sindssygehospitals område, grundlagt i 1988 af tidligere ansatte og drevet som en selvejende institution. Genskabte sengestuer og behandlingsrum viser patienternes hverdag, og rundvisningerne går rundt på hospitalsområdet, i kirken og i kapellet. I 2022 flyttede museet ind i det gamle vaskeri midt i parken.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
     }
   ]
 }
