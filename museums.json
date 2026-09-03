@@ -1,5 +1,5 @@
 {
-  "version": 77,
+  "version": 78,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -8735,6 +8735,31 @@
         "kulturhistorie"
       ],
       "category": "kulturhistorie"
+    },
+    {
+      "id": "P131",
+      "name": "Hempel Glasmuseum",
+      "nameEn": "Hempel Glass Museum",
+      "type": "privat",
+      "city": "Nykøbing Sjælland",
+      "municipality": "Odsherred",
+      "region": "Region Sjælland",
+      "address": "Annebjerg Stræde 2, 4500 Nykøbing Sjælland",
+      "latitude": 55.903734,
+      "longitude": 11.664818,
+      "website": "https://hempelglasmuseum.dk",
+      "price": null,
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Midlertidigt lukket pga. renovering — genåbner juni 2027",
+      "openingHoursEn": "Temporarily closed for renovation — reopening June 2027",
+      "description": "Northern Europe's largest private collection of historical glass, more than 2,000 pieces from antiquity to contemporary glass art, built up by the paint manufacturer J.C. Hempel. The building is shaped like a ship facing the Isefjord, and the park holds bronze sculptures by Viggo Jarl. Since 1988 the museum has awarded Hempels Glaspris to artists who push glass art forward.",
+      "descriptionDa": "Nordeuropas største private samling af historisk glas, over 2.000 stykker fra antikken til moderne glaskunst, bygget op af farvefabrikanten J.C. Hempel. Bygningen er formet som et skib med front mod Isefjorden, og i parken står bronzeskulpturer af Viggo Jarl. Siden 1988 har museet uddelt Hempels Glaspris til kunstnere, der flytter glaskunsten.",
+      "categories": [
+        "kunst",
+        "design"
+      ],
+      "category": "kunst"
     }
   ]
 }
