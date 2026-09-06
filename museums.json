@@ -1,5 +1,5 @@
 {
-  "version": 80,
+  "version": 81,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -8785,6 +8785,30 @@
         "kunst"
       ],
       "category": "design"
+    },
+    {
+      "id": "P133",
+      "name": "Danmarks Busmuseum",
+      "nameEn": "The Danish Bus Museum",
+      "type": "privat",
+      "city": "Skælskør",
+      "municipality": "Slagelse",
+      "region": "Region Sjælland",
+      "address": "Fabriksvej 1, 4230 Skælskør",
+      "latitude": 55.252584,
+      "longitude": 11.316244,
+      "website": "https://danmarks-busmuseum.dk",
+      "price": "120 kr",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Påske til efterårsferien (uge 14–42). Uge 26–33: tirsdag–søndag 10–16.30, mandag lukket. Øvrige uger: lørdag–søndag 10–16.30. Udvidet åbning i påsken og efterårsferien. Lukket uge 43–13",
+      "openingHoursEn": "Easter to the autumn school holiday (weeks 14–42). Weeks 26–33: Tuesday–Sunday 10–16.30, closed Monday. Other weeks: Saturday–Sunday 10–16.30. Extended hours at Easter and in the autumn holiday. Closed weeks 43–13",
+      "description": "The Danish Bus Museum in Skælskør holds the Nordic region's largest collection of vintage buses and coaches, around a hundred vehicles ranging from a 1931 Chevrolet to the turn of the millennium. Alongside the vehicles, exhibitions of objects, panels and photographs cover the bus operators, coachbuilders and rural routes that once tied town and countryside together. Run by a self-governing foundation with volunteers, it also keeps a library and an archive that visitors may use.",
+      "descriptionDa": "Danmarks Busmuseum i Skælskør rummer Nordens største samling af veteranbusser og rutebiler, omkring hundrede køretøjer fra en Chevrolet fra 1931 og frem til årtusindskiftet. Ved siden af køretøjerne fortæller udstillinger med genstande, plancher og fotos om vognmandsfirmaer, karrosserifabrikker og den rutebiltrafik, der bandt land og by sammen. Museet drives af en selvejende fond med frivillige og har desuden bibliotek og arkiv, som besøgende kan benytte.",
+      "categories": [
+        "transport"
+      ],
+      "category": "transport"
     }
   ]
 }
