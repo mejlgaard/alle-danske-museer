@@ -1,5 +1,5 @@
 {
-  "version": 79,
+  "version": 80,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -3421,7 +3421,7 @@
     },
     {
       "id": "S104",
-      "name": "Ordrupgaard",
+      "name": "Museum Ordrupgaard",
       "nameEn": null,
       "type": "statsanerkendt",
       "city": "Charlottenlund",
@@ -3437,8 +3437,8 @@
       "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 11–17, onsdag 11–19",
       "openingHoursEn": "Tuesday–Sunday 11–17, Wednesday 11–19",
-      "description": "Ordrupgaard north of Copenhagen holds a world-class collection of French Impressionist and Post-Impressionist art alongside Danish Golden Age painting. The museum buildings include a historic villa and a bold extension by Zaha Hadid. A beautiful museum with a garden, café, and one of Denmark's finest art collections.",
-      "descriptionDa": "Ordrupgaard nord for København huser en verdensklassesamling af fransk impressionistisk og postimpressionistisk kunst side om side med dansk guldaldermaleri. Museets bygninger omfatter en historisk villa og en dristig tilbygning af Zaha Hadid. Et smukt museum med have, café og en af Danmarks fineste kunstsamlinger.",
+      "description": "Museum Ordrupgaard north of Copenhagen holds a world-class collection of French Impressionist and Post-Impressionist art alongside Danish Golden Age painting. The museum buildings include a historic villa and a bold extension by Zaha Hadid. A beautiful museum with a garden, café, and one of Denmark's finest art collections.",
+      "descriptionDa": "Museum Ordrupgaard nord for København huser en verdensklassesamling af fransk impressionistisk og postimpressionistisk kunst side om side med dansk guldaldermaleri. Museets bygninger omfatter en historisk villa og en dristig tilbygning af Zaha Hadid. Et smukt museum med have, café og en af Danmarks fineste kunstsamlinger.",
       "categories": [
         "kunst"
       ],
