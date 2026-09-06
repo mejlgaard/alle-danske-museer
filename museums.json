@@ -1,5 +1,5 @@
 {
-  "version": 78,
+  "version": 79,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -3430,11 +3430,11 @@
       "address": "Vilvordevej 110, 2920 Charlottenlund",
       "latitude": 55.76684,
       "longitude": 12.5625,
-      "website": "https://www.ordrupgaard.dk",
-      "price": "150 kr",
-      "freeDay": "Gratis onsdage",
-      "freeDayEn": "Free Wednesdays",
-      "freeDayWeekday": 4,
+      "website": "https://museumordrupgaard.dk",
+      "price": "140 kr (95 kr for studerende og unge under 26 år, gratis under 18 år)",
+      "freeDay": "Fri entré for studerende og unge under 26 år onsdag 16–19",
+      "freeDayEn": "Free entry for students and under-26s on Wednesdays 16–19",
+      "freeDayWeekday": null,
       "openingHours": "Tirsdag–søndag 11–17, onsdag 11–19",
       "openingHoursEn": "Tuesday–Sunday 11–17, Wednesday 11–19",
       "description": "Ordrupgaard north of Copenhagen holds a world-class collection of French Impressionist and Post-Impressionist art alongside Danish Golden Age painting. The museum buildings include a historic villa and a bold extension by Zaha Hadid. A beautiful museum with a garden, café, and one of Denmark's finest art collections.",
@@ -8760,6 +8760,31 @@
         "design"
       ],
       "category": "kunst"
+    },
+    {
+      "id": "P132",
+      "name": "Finn Juhls Hus",
+      "nameEn": "Finn Juhl's House",
+      "type": "statsanerkendt",
+      "city": "Charlottenlund",
+      "municipality": "Gentofte",
+      "region": "Region Hovedstaden",
+      "address": "Kratvænget 15, 2920 Charlottenlund",
+      "latitude": 55.767707,
+      "longitude": 12.563855,
+      "website": "https://museumordrupgaard.dk/finn-juhls-hus",
+      "price": "75 kr oveni entrébillet til Museum Ordrupgaard",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Lørdag, søndag og helligdage 11–17. Tirsdag–fredag kun adgang med guidet introduktion i booket time slot",
+      "openingHoursEn": "Saturday, Sunday and public holidays 11–17. Tuesday–Friday admission only with a guided introduction in a booked time slot",
+      "description": "Furniture designer Finn Juhl drew and furnished this house for himself in 1942, aged just 30, and it stands today as Denmark's best-preserved functionalist single-family home. Icons of Danish Modern such as the Chieftain Chair and The Poet sit alongside works by Vilhelm Lundstrøm, Asger Jorn and Sonja Ferlov Mancoba, all chosen by Juhl himself. An integrated part of Museum Ordrupgaard, a few minutes' walk from the main building.",
+      "descriptionDa": "Møbelarkitekten Finn Juhl tegnede og indrettede huset til sig selv i 1942, kun 30 år gammel, og det står i dag som Danmarks bedst bevarede funktionalistiske enfamilieshus. Ikoner fra Danish Modern som Høvdingestolen og Poeten står side om side med værker af Vilhelm Lundstrøm, Asger Jorn og Sonja Ferlov Mancoba, som Juhl selv udvalgte. Integreret del af Museum Ordrupgaard, få minutters gang fra hovedbygningen.",
+      "categories": [
+        "design",
+        "kunst"
+      ],
+      "category": "design"
     }
   ]
 }
