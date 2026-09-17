@@ -1,5 +1,5 @@
 {
-  "version": 81,
+  "version": 82,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -8809,6 +8809,30 @@
         "transport"
       ],
       "category": "transport"
+    },
+    {
+      "id": "P134",
+      "name": "Børglum Kloster",
+      "nameEn": "Børglum Abbey",
+      "type": "privat",
+      "city": "Vrå",
+      "municipality": "Hjørring",
+      "region": "Region Nordjylland",
+      "address": "Børglum Klostervej 255B, 9760 Vrå",
+      "latitude": 57.368858,
+      "longitude": 9.798975,
+      "website": "https://www.boerglumkloster.dk",
+      "price": "110 kr (unge 14–18 år 55 kr, børn under 14 år gratis)",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Vinterferien og påsken 10–16. 1. maj–18. oktober dagligt 10–17. Julemarked i udvalgte weekender i november og december. Lukket resten af året",
+      "openingHoursEn": "Winter school holiday and Easter 10–16. 1 May–18 October daily 10–17. Christmas market on selected weekends in November and December. Closed the rest of the year",
+      "description": "Børglum Abbey in Vendsyssel was a Premonstratensian monastery and bishop's seat until the Reformation, and its medieval cathedral has recently been restored. Owned by the Rottbøll family since 1835, the manor now houses around fifteen exhibitions on monastic life, the estate's history, twentieth-century women's fashion and a manor kitchen from the early 1900s. Its best-known work is the world's only complete embroidered copy of the Bayeux Tapestry, stitched by nine local embroiderers over fifteen years.",
+      "descriptionDa": "Børglum Kloster i Vendsyssel var præmonstratenserkloster og bispesæde frem til Reformationen, og den middelalderlige domkirke er for nylig restaureret. Herregården har været i familien Rottbølls eje siden 1835 og rummer i dag omkring femten udstillinger om klosterliv, stedets historie, kvindemode i 1900-tallet og et herregårdskøkken fra begyndelsen af århundredet. Mest kendt er verdens eneste fuldstændige broderede kopi af Bayeux-tapetet, syet af ni lokale brodøser over 15 år.",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie"
     }
   ]
 }
