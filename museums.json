@@ -1,5 +1,5 @@
 {
-  "version": 82,
+  "version": 83,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -64,6 +64,9 @@
       "openingHours": "Jun–sep: man–fre 9–20, lør–søn 9–17. Okt–maj: tirs–fre 10–20, lør–søn 9–17 (lukket mandag)",
       "description": "ARoS Aarhus Art Museum is one of the largest art museums in northern Europe, renowned for its circular rainbow panorama walkway on the rooftop. The collection spans centuries of Danish and international art, from the Golden Age to cutting-edge contemporary works. A must-see landmark in Aarhus.",
       "descriptionDa": "ARoS Aarhus Art Museum er et af de største kunstmuseer i Nordeuropa, kendt for sin cirkulære regnbuepanorama-gangbro på taget. Samlingen spænder over århundreder af dansk og international kunst, fra Guldalderen til banebrydende samtidsværker. Et must-see vartegn i Aarhus.",
+      "searchTerms": [
+        "Århus Kunstmuseum"
+      ],
       "openingHoursEn": "Jun–Sep: Mon–Fri 9–20, Sat–Sun 9–17. Oct–May: Tue–Fri 10–20, Sat–Sun 9–17 (closed Monday)",
       "categories": [
         "kunst"
@@ -520,6 +523,9 @@
       "openingHours": "Tirsdag–søndag 10–18, torsdag 10–20. 6. jul–31. aug: dagligt 10–18, torsdag 10–20",
       "description": "Designmuseum Danmark in Copenhagen is dedicated to Danish and international design, craft, and applied arts. From iconic mid-century furniture to cutting-edge industrial design, it celebrates the creativity that made 'Danish design' a global benchmark. Housed in a beautiful 18th-century hospital building.",
       "descriptionDa": "Designmuseum Danmark i København er dedikeret til dansk og internationalt design, kunsthåndværk og brugskunst. Fra ikoniske midtcenturmøbler til banebrydende industrielt design fejrer museet den kreativitet, der gjorde 'dansk design' til en global målestok. Indrettet i en smuk 1700-tals hospitalsbygning.",
+      "searchTerms": [
+        "Kunstindustrimuseet"
+      ],
       "openingHoursEn": "Tuesday–Sunday 10–18, Thursday 10–20. 6 Jul–31 Aug: daily 10–18, Thursday 10–20",
       "categories": [
         "design"
@@ -664,6 +670,9 @@
       "openingHours": "Jul: tirsdag–søndag 10–18. Aug: tirsdag–søndag 10–17. Sep–okt: tirsdag–søndag 11–16 (særåbent mandag 12/10). Nov: onsdag–søndag 11–16",
       "description": "Faaborg Museum holds a significant collection of the Funen painters, a group of Danish artists who gathered in Faaborg around 1900. The museum itself was built to house their works, and the harmonious architecture reflects the ideals of the period. A gem of Danish art history.",
       "descriptionDa": "Faaborg Museum rummer en betydelig samling af Fynbomalerne, en gruppe danske kunstnere, der samledes i Faaborg omkring 1900. Museet blev bygget til at huse deres værker, og den harmoniske arkitektur afspejler periodens idealer. Et klenodie i dansk kunsthistorie.",
+      "searchTerms": [
+        "Fåborg Museum"
+      ],
       "openingHoursEn": "Jul: Tuesday–Sunday 10–18. Aug: Tuesday–Sunday 10–17. Sep–Oct: Tuesday–Sunday 11–16 (also open Monday 12 Oct). Nov: Wednesday–Sunday 11–16",
       "categories": [
         "kunst"
@@ -951,6 +960,9 @@
       "openingHours": "Tirsdag–søndag 10–16",
       "description": "HEART Herning Museum of Contemporary Art presents international and Danish contemporary art in a striking modernist building. The collection is particularly strong in works from the 1960s to the present day. A bold and ambitious museum that puts Herning on the global art map.",
       "descriptionDa": "HEART Herning Museum of Contemporary Art præsenterer international og dansk samtidskunst i en markant modernistisk bygning. Samlingen er særlig stærk i værker fra 1960'erne og frem til i dag. Et modigt og ambitiøst museum, der sætter Herning på det globale kunstkort.",
+      "searchTerms": [
+        "Herning Kunstmuseum"
+      ],
       "openingHoursEn": "Tuesday–Sunday 10–16",
       "categories": [
         "kunst"
@@ -1238,6 +1250,11 @@
       "openingHours": "Tirsdag 10–17, onsdag–torsdag 10–21, fredag–søndag 10–17",
       "description": "Kunsten Museum of Modern Art in Aalborg is housed in a landmark building designed by Finnish architect Alvar Aalto. The collection spans Danish and international modernism through to the present day. One of the most architecturally distinguished museums in Denmark.",
       "descriptionDa": "Kunsten Museum of Modern Art i Aalborg er indrettet i en ikonisk bygning tegnet af den finske arkitekt Alvar Aalto. Samlingen spænder fra dansk og international modernisme til nutidig kunst. Et af Danmarks arkitektonisk mest fremragende museer.",
+      "searchTerms": [
+        "Nordjyllands Kunstmuseum",
+        "Aalborg Kunstmuseum",
+        "Ålborg"
+      ],
       "openingHoursEn": "Tuesday 10–17, Wednesday–Thursday 10–21, Friday–Sunday 10–17",
       "categories": [
         "kunst"
@@ -1313,6 +1330,9 @@
       "openingHoursEn": "Tuesday–Wednesday 11–18, Thursday 11–20, Friday–Sunday 11–18",
       "description": "Kunsthal Aarhus is a major contemporary art institution presenting international and Danish art in a purpose-built venue. The ambitious exhibition programme and strong educational work make it a central institution in Aarhus's vibrant cultural life. A significant platform for contemporary art in Denmark's second city.",
       "descriptionDa": "Kunsthal Aarhus er en central institution for samtidskunst, der præsenterer internationalt og dansk kunst i et formålsbygget udstillingssted. Det ambitiøse udstillingsprogram og det stærke formidlingsarbejde gør den til en nøgleinstitution i Aarhus' blomstrende kulturliv. En betydningsfuld platform for samtidskunst i Danmarks næststørste by.",
+      "searchTerms": [
+        "Kunsthal Århus"
+      ],
       "categories": [
         "kunst"
       ],
@@ -1554,6 +1574,10 @@
       "openingHours": "Jul–aug: dagligt 10–18. Sep–jun: tirsdag–søndag 11–17",
       "description": "M/S Museet for Søfart is Denmark's national maritime museum, housed in a remarkable subterranean building in the dry dock at Helsingør. It tells the story of Denmark as a seafaring nation through immersive exhibitions and a superb collection of maritime artefacts. A world-class museum by architect Bjarke Ingels.",
       "descriptionDa": "M/S Museet for Søfart er Danmarks nationale søfartsmuseum, indrettet i en bemærkelsesværdig underjordisk bygning i tørdokken i Helsingør. Det fortæller historien om Danmark som søfartsnation gennem stemningsfulde udstillinger og en fremragende samling af maritime genstande. Et verdensklassemuseum tegnet af arkitekt Bjarke Ingels.",
+      "searchTerms": [
+        "Handels- og Søfartsmuseet",
+        "Søfartsmuseet"
+      ],
       "openingHoursEn": "Jul–Aug: daily 10–18. Sep–Jun: Tuesday–Sunday 11–17",
       "categories": [
         "søfart"
@@ -1674,6 +1698,10 @@
       "openingHours": "Tirsdag–søndag 10–17",
       "description": "Moesgaard Museum near Aarhus is one of Denmark's most spectacular museums, housed in a dramatically sloping green-roofed building. Its collection covers prehistory, the Viking Age, and ancient cultures, with the world-famous Grauballe Man bog body as a highlight. An extraordinary museum experience in a stunning natural setting.",
       "descriptionDa": "Moesgaard Museum ved Aarhus er et af Danmarks mest spektakulære museer, indrettet i en dramatisk skrånende bygning med grønt tag. Samlingen dækker oldtid, vikingetid og antikkens kulturer, med den verdenskendte Grauballemand som højdepunkt. En ekstraordinær museumsoplevelse i naturskønne omgivelser.",
+      "searchTerms": [
+        "Moesgård",
+        "MOMU"
+      ],
       "openingHoursEn": "Tuesday–Sunday 10–17",
       "categories": [
         "arkæologi"
@@ -1818,6 +1846,9 @@
       "openingHours": "Tirsdag–søndag 10–17. Uge 27–32 også mandag 10–17. Første torsdag i måneden 10–21",
       "description": "Museum Jorn in Silkeborg holds the world's largest collection of works by the Danish-born international artist Asger Jorn, co-founder of the CoBrA movement. The museum also houses a significant collection of other modern and contemporary Danish and international art. An essential destination for lovers of 20th-century art.",
       "descriptionDa": "Museum Jorn i Silkeborg huser verdens største samling af værker af den danskfødte internationale kunstner Asger Jorn, medstifter af CoBrA-bevægelsen. Museet rummer desuden en betydelig samling af anden moderne og samtidskunst – dansk såvel som international. Et uomgængeligt besøgsmål for elskere af det 20. århundredes kunst.",
+      "searchTerms": [
+        "Silkeborg Kunstmuseum"
+      ],
       "openingHoursEn": "Tuesday–Sunday 10–17. Weeks 27–32 also Monday 10–17. First Thursday of the month 10–21",
       "categories": [
         "kunst"
@@ -1914,6 +1945,9 @@
       "openingHours": "26/3–31/10: torsdag–søndag 12–16; lukket november–marts",
       "description": "Kulturhistorie Aabenraa presents the cultural and historical heritage of the Aabenraa area, including the region's complex identity along the Danish-German border. Covers everyday life, local traditions, and the turbulent history of the border region. Part of Museum Sønderjylland.",
       "descriptionDa": "Kulturhistorie Aabenraa præsenterer den kulturelle og historiske arv i Aabenraa-området, herunder regionens komplekse identitet langs den dansk-tyske grænse. Dækker hverdagsliv, lokale traditioner og grænseregionens turbulente historie. En del af Museum Sønderjylland.",
+      "searchTerms": [
+        "Åbenrå"
+      ],
       "categories": [
         "kulturhistorie"
       ],
@@ -3146,6 +3180,11 @@
       "openingHoursEn": "Tuesday–Sunday 10–17, Wednesday 10–21. The Øster Voldgade exhibitions close 1 November 2026; a new museum opens at Sølvtorvet in spring 2027",
       "description": "The Natural History Museum of Denmark in Copenhagen holds one of the world's great natural history collections. From dinosaur skeletons and meteorites to insects and botanical specimens, the museum explores the diversity of life on Earth. A classic and impressive museum housed in historic university buildings.",
       "descriptionDa": "Statens Naturhistoriske Museum i København rummer en af verdens store naturhistoriske samlinger. Fra dinosaurskelletter og meteoritter til insekter og botaniske eksemplarer udforsker museet livet på Jordens mangfoldighed. Et klassisk og imponerende museum indrettet i historiske universitetsbygninger.",
+      "searchTerms": [
+        "Zoologisk Museum",
+        "Geologisk Museum",
+        "Botanisk Have"
+      ],
       "categories": [
         "naturhistorie"
       ],
@@ -3196,6 +3235,9 @@
       "openingHoursEn": "Greenhouses: Jul–Aug: Monday–Friday 9–17, Saturday–Sunday and public holidays 10–17. Sep–Jun: Monday–Friday 9–16, Saturday–Sunday and public holidays 10–16. The garden is open day and night all year",
       "description": "Aarhus Botanical Garden is a lush green oasis in the heart of the city, maintained by Science Museerne. The garden features a wide range of plant collections and is a popular destination for nature lovers. Entry is free, making it an accessible green retreat for all visitors.",
       "descriptionDa": "Botanisk Have Aarhus er en frodig grøn oase midt i byen, drevet af Science Museerne. Haven rummer en bred vifte af plantesamlinger og er et populært udflugtsmål for naturelskere. Adgang er gratis, hvilket gør den til et tilgængeligt grønt åndehul for alle besøgende.",
+      "searchTerms": [
+        "Botanisk Have Århus"
+      ],
       "categories": [
         "naturhistorie"
       ],
@@ -3365,6 +3407,10 @@
       "openingHoursEn": "Tuesday–Sunday 10–17. Closed Monday",
       "description": "Vejlemuseerne's main museum, in the old Spinderihallerne cotton mill. The centrepiece is the Haraldskær Woman, one of the world's best-preserved bog bodies, sacrificed and pinned down with hooks more than 2,000 years ago. Other exhibitions cover the Iron Age villages, industrialisation, and the three wars that laid Jutland waste in the mid-1600s. A department of Vejlemuseerne.",
       "descriptionDa": "Vejlemuseernes hovedmuseum, indrettet i de gamle Spinderihaller. Hovedattraktionen er Haraldskærkvinden, et af verdens bedst bevarede moselig, ofret og holdt fast med kroge for mere end 2.000 år siden. Andre udstillinger handler om jernalderens landsbyer, om industrialiseringen og om de tre krige, der lagde Jylland øde midt i 1600-tallet. Afdeling af Vejlemuseerne.",
+      "searchTerms": [
+        "VejleMuseerne",
+        "Spinderihallerne"
+      ],
       "categories": [
         "kulturhistorie",
         "arkæologi"
@@ -3439,6 +3485,10 @@
       "openingHoursEn": "Tuesday–Sunday 11–17, Wednesday 11–19",
       "description": "Museum Ordrupgaard north of Copenhagen holds a world-class collection of French Impressionist and Post-Impressionist art alongside Danish Golden Age painting. The museum buildings include a historic villa and a bold extension by Zaha Hadid. A beautiful museum with a garden, café, and one of Denmark's finest art collections.",
       "descriptionDa": "Museum Ordrupgaard nord for København huser en verdensklassesamling af fransk impressionistisk og postimpressionistisk kunst side om side med dansk guldaldermaleri. Museets bygninger omfatter en historisk villa og en dristig tilbygning af Zaha Hadid. Et smukt museum med have, café og en af Danmarks fineste kunstsamlinger.",
+      "searchTerms": [
+        "Ordrupgaard",
+        "Ordrupgård"
+      ],
       "categories": [
         "kunst"
       ],
@@ -3535,6 +3585,9 @@
       "openingHoursEn": "Apr–Sep: daily 10–17. Oct–Mar: Tuesday–Sunday 10–17",
       "description": "Krigsmuseet in Copenhagen is Denmark's national military museum, covering 500 years of Danish military history. The collection includes weapons, uniforms, medals, and personal stories from conflicts spanning from the Renaissance to modern times. A comprehensive and well-presented military history museum.",
       "descriptionDa": "Krigsmuseet i København er Danmarks nationale militærmuseum og dækker 500 års dansk militærhistorie. Samlingen omfatter våben, uniformer, medaljer og personlige beretninger fra konflikter fra renæssancen til nutiden. Et fyldestgørende og velformidlet militærhistorisk museum.",
+      "searchTerms": [
+        "Tøjhusmuseet"
+      ],
       "categories": [
         "kulturhistorie"
       ],
@@ -3608,6 +3661,9 @@
       "openingHoursEn": "Tuesday–Sunday 10–17. Last Thursday of the month 10–20",
       "description": "Den Hirschsprungske Samling in Copenhagen holds one of Denmark's finest collections of 19th-century Danish painting. Assembled by tobacco magnate Heinrich Hirschsprung, the collection is particularly rich in works by the Skagen artists and the Funen painters. An intimate and beautifully curated museum in the heart of the city.",
       "descriptionDa": "Den Hirschsprungske Samling i København huser en af Danmarks fineste samlinger af dansk 1800-talsmaleri. Samlingen, der blev bragt til veje af tobaksfabrikant Heinrich Hirschsprung, er særlig rig på værker af Skagensmalerne og de fynske malere. Et intimt og smukt kurateret museum i hjertet af byen.",
+      "searchTerms": [
+        "Hirschsprung"
+      ],
       "categories": [
         "kunst"
       ],
@@ -3968,6 +4024,10 @@
       "openingHoursEn": "Tuesday–Sunday 10–17",
       "description": "ENIGMA Museum for post, tele og kommunikation in Copenhagen is a museum of communication history, from the first postal services to the digital age. Interactive and visually engaging, it explores how communication technology has transformed Danish society. A stimulating museum for all ages.",
       "descriptionDa": "ENIGMA Museum for post, tele og kommunikation i København er et museum om kommunikationshistorie, fra de første posttjenester til den digitale tidsalder. Interaktivt og visuelt engagerende udforsker det, hvordan kommunikationsteknologi har forandret det danske samfund. Et stimulerende museum for alle aldre.",
+      "searchTerms": [
+        "Post & Tele Museum",
+        "Postmuseet"
+      ],
       "categories": [
         "teknologi"
       ],
@@ -4472,6 +4532,9 @@
       "openingHoursEn": "Jun–Aug and Dec: Monday–Saturday 10–17. Apr–May and Sep–Nov: Tuesday–Saturday 10–17. Jan–Mar: Tuesday–Saturday 10–16. Closed Sunday",
       "description": "Aalborg Historiske Museum holds a broad collection covering the history of Aalborg from the Viking age to the 20th century. The museum presents the story of this north Jutland city, once one of Denmark's most important commercial centres. A substantial and well-presented urban history museum.",
       "descriptionDa": "Aalborg Historiske Museum rummer en bred samling, der dækker Aalborgs historie fra vikingetiden til det 20. århundrede. Museet fortæller historien om denne nordjyske by, der engang var et af Danmarks vigtigste handelscentre. Et solidt og velformidlet byhistorisk museum.",
+      "searchTerms": [
+        "Ålborg Historiske Museum"
+      ],
       "categories": [
         "kulturhistorie"
       ],
@@ -7148,6 +7211,12 @@
       "openingHoursEn": "Daily 10–18",
       "description": "Memphis Mansion is a tribute to Elvis Presley and Johnny Cash, housing the only permanent Elvis and Johnny Cash museums outside of the United States. The privately-owned collection features approximately 6,000 pieces of memorabilia counted among the ten largest Elvis collections in the world, including costumes, personal items, and gold records. The venue also includes a replica of Elvis's childhood home in Tupelo and a American-style diner.",
       "descriptionDa": "Memphis Mansion er en hyldest til Elvis Presley og Johnny Cash og huser de eneste permanente Elvis- og Johnny Cash-museer uden for USA. Den privatejede samling indeholder cirka 6.000 genstande, der tæller blandt verdens ti største Elvis-samlinger, herunder kostumer, personlige ejendele og guldplader. Stedet rummer også en kopi af Elvis' barndomshjem i Tupelo samt en amerikansk diner.",
+      "searchTerms": [
+        "Elvis",
+        "Elvis Presley",
+        "Graceland",
+        "Johnny Cash"
+      ],
       "categories": [
         "kulturhistorie"
       ],
