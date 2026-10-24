@@ -1,5 +1,5 @@
 {
-  "version": 83,
+  "version": 84,
   "aliases": {
     "S129": "008",
     "S126": "041",
@@ -8902,6 +8902,96 @@
         "kulturhistorie"
       ],
       "category": "kulturhistorie"
+    },
+    {
+      "id": "S227",
+      "name": "Nationalmuseet",
+      "nameEn": "The National Museum of Denmark",
+      "type": "statsanerkendt",
+      "city": "København",
+      "municipality": "København",
+      "region": "Region Hovedstaden",
+      "address": "Ny Vestergade 10, 1471 København K",
+      "latitude": 55.6745,
+      "longitude": 12.57469,
+      "website": "https://nationalmuseet.dk",
+      "price": "150 kr (135 kr online; under 18 år gratis)",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Apr–okt: dagligt 10–17. Nov–mar: tirsdag–søndag 10–17 (også mandag i uge 7 og i påsken)",
+      "description": "Nationalmuseet – the National Museum of Denmark – in the Prince's Palace in central Copenhagen is the country's largest museum of cultural history. Its collections reach from the Stone Age and the Viking Age through the Middle Ages to modern Denmark, with famous finds such as the Sun Chariot and the Egtved Girl. The natural place to start for anyone who wants to understand Danish history.",
+      "descriptionDa": "Nationalmuseet i Prinsens Palæ i det indre København er landets største kulturhistoriske museum. Samlingerne spænder fra stenalderen og vikingetiden over middelalderen til det moderne Danmark, med berømte fund som Solvognen og Egtvedpigen. Det naturlige sted at begynde, hvis man vil forstå Danmarks historie.",
+      "openingHoursEn": "Apr–Oct: daily 10–17. Nov–Mar: Tuesday–Sunday 10–17 (also Mondays in week 7 and at Easter)",
+      "categories": [
+        "kulturhistorie",
+        "arkæologi"
+      ],
+      "category": "kulturhistorie",
+      "searchTerms": [
+        "Prinsens Palæ",
+        "National Museum",
+        "Natmus"
+      ]
+    },
+    {
+      "id": "P135",
+      "name": "Den Blå Planet",
+      "nameEn": "The Blue Planet – National Aquarium Denmark",
+      "type": "privat",
+      "city": "Kastrup",
+      "municipality": "Tårnby",
+      "region": "Region Hovedstaden",
+      "address": "Jacob Fortlingsvej 1, 2770 Kastrup",
+      "latitude": 55.63787,
+      "longitude": 12.65606,
+      "website": "https://denblaaplanet.dk",
+      "price": "249 kr (219 kr online; højsæson og weekend 259 kr / 229 kr online)",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Mandag 10–21, tirsdag–søndag 10–17. I skoleferier dagligt 10–21",
+      "description": "Den Blå Planet – National Aquarium Denmark – lies on the Øresund coast at Kastrup in a building shaped like a whirlpool. It is home to thousands of fish and other animals from the world's oceans, lakes and rivers, including sharks and rays in the great ocean tank. Opened in 2013 as the successor to Danmarks Akvarium, it is the largest aquarium in Northern Europe.",
+      "descriptionDa": "Den Blå Planet – Danmarks Akvarium – ligger ved Øresund i Kastrup i en bygning formet som en malstrøm. Her bor tusindvis af fisk og andre dyr fra verdens have, søer og floder, blandt andet hajer og rokker i det store oceanbassin. Akvariet åbnede i 2013 som afløser for Danmarks Akvarium i Charlottenlund og er det største i Nordeuropa.",
+      "openingHoursEn": "Monday 10–21, Tuesday–Sunday 10–17. Daily 10–21 during school holidays",
+      "categories": [
+        "naturhistorie"
+      ],
+      "category": "naturhistorie",
+      "searchTerms": [
+        "Danmarks Akvarium",
+        "Akvarium",
+        "Blue Planet",
+        "National Aquarium Denmark"
+      ]
+    },
+    {
+      "id": "P136",
+      "name": "Rundetårn",
+      "nameEn": "The Round Tower",
+      "type": "privat",
+      "city": "København",
+      "municipality": "København",
+      "region": "Region Hovedstaden",
+      "address": "Købmagergade 52A, 1150 København K",
+      "latitude": 55.68134,
+      "longitude": 12.57577,
+      "website": "https://www.rundetaarn.dk",
+      "price": "60 kr",
+      "freeDay": null,
+      "freeDayWeekday": null,
+      "openingHours": "Apr–sep: dagligt 10–20. Okt–mar: mandag–tirsdag 10–21, onsdag–søndag 10–18",
+      "description": "Rundetårn – the Round Tower – was built by Christian IV and completed in 1642 as an astronomical observatory, and it is still the oldest functioning observatory in Europe. A broad spiral ramp leads past the Library Hall, which hosts changing exhibitions, to a viewing platform over the rooftops of old Copenhagen. One of the city's best-loved landmarks.",
+      "descriptionDa": "Rundetårn blev bygget af Christian IV og stod færdigt i 1642 som astronomisk observatorium – og er stadig Europas ældste fungerende observatorium. En bred snegang fører forbi Biblioteksalen med skiftende udstillinger op til en udsigtsplatform over det gamle Københavns tage. Et af byens mest elskede vartegn.",
+      "openingHoursEn": "Apr–Sep: daily 10–20. Oct–Mar: Monday–Tuesday 10–21, Wednesday–Sunday 10–18",
+      "categories": [
+        "kulturhistorie"
+      ],
+      "category": "kulturhistorie",
+      "searchTerms": [
+        "Round Tower",
+        "Rundetaarn",
+        "Trinitatis",
+        "Observatorium"
+      ]
     }
   ]
 }
